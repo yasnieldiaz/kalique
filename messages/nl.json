@@ -1,0 +1,1857 @@
+{
+  "common": {
+    "learnMore": "Meer informatie",
+    "contactUs": "Neem contact op",
+    "getQuote": "Offerte aanvragen",
+    "viewAll": "Alles bekijken",
+    "viewAllProducts": "Alle producten bekijken",
+    "readMore": "Lees meer",
+    "submit": "Verzenden",
+    "loading": "Laden...",
+    "error": "Fout",
+    "success": "Succes",
+    "close": "Sluiten",
+    "phone": "Telefoon",
+    "email": "E-mail",
+    "address": "Adres"
+  },
+  "nav": {
+    "products": "Producten",
+    "resources": "Bronnen",
+    "services": "Diensten",
+    "spareParts": "Reserveonderdelen",
+    "sparePartsSub": "Catalogus reserveonderdelen voor XAG producten",
+    "viewAllSpareParts": "Alle reserveonderdelen bekijken",
+    "company": "Bedrijf",
+    "airborne": "Luchtgebonden",
+    "airborneSub": "Landbouwdrones",
+    "landborne": "Grondgebonden",
+    "landborneSub": "Grondapparatuur",
+    "blog": "Blog",
+    "caseStudies": "Casestudies",
+    "videosTutorials": "Video's & Tutorials",
+    "downloadCenter": "Downloadcentrum",
+    "droneSafety": "Droneveiligheid",
+    "fieldOperations": "Veldoperaties",
+    "trainingPrograms": "Trainingsprogramma's",
+    "xagCareExpress": "XAG Care Express",
+    "aboutUs": "Over ons",
+    "events": "Evenementen",
+    "careers": "Carrière",
+    "contact": "Contact",
+    "viewAllProducts": "Alle producten bekijken"
+  },
+  "home": {
+    "heroTagline": "Vooruitgang in landbouw met innovatieve technologie",
+    "heroSubtitle": "Landbouwdrone",
+    "ctaLearnMore": "Meer informatie",
+    "ctaContact": "Neem contact op",
+    "ctaOrderNow": "Nu bestellen",
+    "statsYears": "Jaren ervaring",
+    "statsYearsSub": "in landbouwdrones",
+    "statsHectares": "Bewerkte hectares",
+    "statsHectaresSub": "jaarlijks",
+    "statsCountries": "Landen",
+    "statsCountriesSub": "wereldwijde aanwezigheid",
+    "statsFlightHours": "Vlieguren",
+    "statsFlightHoursSub": "cumulatief",
+    "scrollToExplore": "Scroll om te ontdekken",
+    "readyToTransform": "Klaar om uw bedrijf te transformeren?",
+    "readyToTransformDesc": "Neem contact op met ons team om te ontdekken hoe XAG drones uw landbouwactiviteiten kunnen revolutioneren.",
+    "viewProducts": "Producten bekijken",
+    "p150MaxSubtitle": "De snelste landbouwdrone",
+    "p100ProSubtitle": "Precisie ontmoet prestatie",
+    "r150Subtitle": "Grondgebaseerde precisie",
+    "apc2Subtitle": "Autopilot voor machines"
+  },
+  "stats": {
+    "globalImpact": "Wereldwijde impact",
+    "title": "Indrukwekkende cijfers achter ons bedrijf",
+    "description": "XAG wordt vertrouwd door boeren en landbouwprofessionals wereldwijd",
+    "tons": "Ton",
+    "tonsSub": "verhoogde gewasopbrengst",
+    "countries": "Landen",
+    "countriesSub": "& regio's wereldwijd",
+    "dronePilots": "Dronepiloten",
+    "dronePilotsSub": "wereldwijd opgeleid",
+    "hectares": "Hectares",
+    "hectaresSub": "wereldwijd bewerkt",
+    "suffixes": {
+      "million": " miljoen",
+      "plus": "+",
+      "kPlus": "K+"
+    }
+  },
+  "productCollections": {
+    "ourProducts": "Onze producten",
+    "title": "Landbouwtechnologie",
+    "description": "Ontdek ons assortiment slimme landbouwdrones en grondrobots ontworpen om uw bedrijfsvoering te optimaliseren.",
+    "featuredProducts": "Aanbevolen producten",
+    "viewAll": "Alles bekijken",
+    "airborne": "Luchtgebonden",
+    "airborneDesc": "Landbouwdrones voor precisie spuiten, zaaien en karteren",
+    "landborne": "Grondgebonden",
+    "landborneDesc": "Autonome grondrobots voor boomgaarden, wijngaarden en rijgewassen",
+    "autopilot": "Autopilot",
+    "autopilotDesc": "Autonoom stuursysteem voor traditionele landbouwmachines",
+    "new": "Nieuw",
+    "popular": "Populair"
+  },
+  "contact": {
+    "title": "Contact",
+    "heroTitle": "Neem contact op",
+    "heroDescription": "Heeft u vragen over onze producten of diensten? Ons team helpt u graag de juiste oplossing te vinden voor uw landbouwbehoeften.",
+    "infoTitle": "Contactgegevens",
+    "formTitle": "Stuur ons een bericht",
+    "fullName": "Volledige naam",
+    "fullNamePlaceholder": "Jan Jansen",
+    "emailAddress": "E-mailadres",
+    "emailPlaceholder": "jan@voorbeeld.nl",
+    "phoneNumber": "Telefoonnummer",
+    "phonePlaceholder": "+31 123 456 789",
+    "companyName": "Bedrijf / Boerderijnaam",
+    "companyPlaceholder": "Uw bedrijf",
+    "subject": "Onderwerp",
+    "subjectPlaceholder": "Selecteer een onderwerp",
+    "subjectOptions": {
+      "productInquiry": "Productvraag",
+      "quoteRequest": "Offerte aanvragen",
+      "training": "Trainingsprogramma's",
+      "support": "Technische ondersteuning",
+      "partnership": "Partnerschapsmogelijkheid",
+      "other": "Anders"
+    },
+    "message": "Bericht",
+    "messagePlaceholder": "Vertel ons hoe we kunnen helpen...",
+    "sendMessage": "Bericht verzenden",
+    "sending": "Verzenden...",
+    "successTitle": "Bericht verzonden!",
+    "successMessage": "Bedankt voor uw contact. Ons team zal zo snel mogelijk op uw bericht reageren.",
+    "errorTitle": "Fout bij verzenden",
+    "errorMessage": "Sorry, er is een probleem opgetreden bij het verzenden van uw bericht. Probeer het opnieuw of neem direct contact met ons op.",
+    "salesSpecialist": "Verkoopspecialist",
+    "ceo": "Directeur",
+    "addressValue": "ul. Smolna 14\n44-200 Rybnik\nPolen"
+  },
+  "resources": {
+    "badge": "Bronnen",
+    "title": "Leren & Ontdekken",
+    "description": "Toegang tot video tutorials en technische documentatie om het meeste uit uw XAG producten te halen.",
+    "recentUpdates": "Recente updates",
+    "viewAll": "Alles bekijken",
+    "items": {
+      "videos": {
+        "title": "Video's & Tutorials",
+        "description": "Productdemo's en handleidingen",
+        "image": "/images/videos/p150-max-overview.jpg",
+        "href": "/videos-tutorials",
+        "count": "50+ video's"
+      },
+      "downloads": {
+        "title": "Downloadcentrum",
+        "description": "Handleidingen, technische specificaties en gidsen",
+        "image": "/images/products/p150-max/thumbnail.webp",
+        "href": "/download-center",
+        "count": "Documenten"
+      }
+    }
+  },
+  "videosTutorials": {
+    "badge": "Bronnen",
+    "title": "Video's & Tutorials",
+    "description": "Bekijk productdemonstraties, praktische tutorials en leer hoe u uw landbouwactiviteiten kunt optimaliseren met XAG drones.",
+    "all": "Alle",
+    "product": "Product",
+    "tutorial": "Tutorial",
+    "watchNow": "Nu bekijken",
+    "videos": {
+      "p150Overview": {
+        "title": "P150 Max productoverzicht",
+        "description": "Ontdek de functies en mogelijkheden van de XAG P150 Max landbouwdrone.",
+        "duration": "5:32",
+        "category": "Product"
+      },
+      "calibration": {
+        "title": "Hoe kalibreert u uw XAG drone",
+        "description": "Stapsgewijze handleiding voor het kalibreren van uw XAG drone voor optimale prestaties.",
+        "duration": "8:15",
+        "category": "Tutorial"
+      },
+      "spraying": {
+        "title": "Precisie spuiten - beste praktijken",
+        "description": "Leer technieken voor optimale spuitdekking en efficiëntie.",
+        "duration": "12:45",
+        "category": "Tutorial"
+      },
+      "r150Action": {
+        "title": "R150 grondrobot in actie",
+        "description": "Bekijk de R150 autonome grondspuit in actie in een wijngaard.",
+        "duration": "4:20",
+        "category": "Product"
+      },
+      "cloudSetup": {
+        "title": "XAG Agriculture Cloud instellen",
+        "description": "Hoe het XAG Agriculture Cloud platform in te stellen en te gebruiken.",
+        "duration": "10:30",
+        "category": "Tutorial"
+      },
+      "maintenance": {
+        "title": "Basis drone onderhoud",
+        "description": "Essentiële gids voor regelmatig onderhoud van uw XAG landbouwdrone.",
+        "duration": "6:15",
+        "category": "Tutorial"
+      }
+    }
+  },
+  "xagCareExpress": {
+    "badge": "Ondersteuning",
+    "title": "XAG Care Express",
+    "description": "Premium ondersteuning en onderhoudsdiensten om uw XAG apparatuur optimaal te laten presteren.",
+    "services": {
+      "badge": "Onze diensten",
+      "title": "Wat is inbegrepen",
+      "priorityRepairs": {
+        "title": "Prioriteitsreparaties",
+        "description": "Snelle reparatieservice met voorrangsbehandeling voor minimale downtime."
+      },
+      "genuineParts": {
+        "title": "Originele onderdelen",
+        "description": "Alleen authentieke XAG componenten voor alle reparaties en vervangingen."
+      },
+      "expertTechnicians": {
+        "title": "Expert technici",
+        "description": "Fabrieksopgeleide technici met uitgebreide XAG productkennis."
+      },
+      "extendedWarranty": {
+        "title": "Uitgebreide garantie",
+        "description": "Optionele uitgebreide garantiedekking voor extra gemoedsrust."
+      }
+    },
+    "plans": {
+      "badge": "Prijzen",
+      "title": "Kies uw plan",
+      "mostPopular": "Meest populair",
+      "getStarted": "Aan de slag",
+      "perYear": "/jaar",
+      "basic": {
+        "name": "Basic Care",
+        "price": "€700",
+        "features": {
+          "priority": "Standaard reparatieprioriteit",
+          "discount": "10% korting op onderdelen",
+          "support": "Telefonische ondersteuning",
+          "check": "Jaarlijkse gezondheidscheck"
+        }
+      },
+      "plus": {
+        "name": "Care Plus",
+        "price": "€1.000",
+        "features": {
+          "priority": "Prioriteit reparatieservice",
+          "discount": "20% korting op onderdelen",
+          "support": "Telefoon & e-mail ondersteuning",
+          "check": "Halfjaarlijkse gezondheidscheck",
+          "firmware": "Gratis firmware updates",
+          "loaner": "Leendrone beschikbaar"
+        }
+      },
+      "premium": {
+        "name": "Care Premium",
+        "price": "€2.000",
+        "features": {
+          "priority": "Express reparatieservice",
+          "discount": "30% korting op onderdelen",
+          "support": "24/7 toegewijde ondersteuning",
+          "check": "Driemaandelijkse gezondheidscheck",
+          "firmware": "Gratis firmware updates",
+          "loaner": "Gegarandeerde leendrone",
+          "onsite": "Technicus bezoek ter plaatse"
+        }
+      }
+    },
+    "cta": {
+      "title": "Directe ondersteuning nodig?",
+      "description": "Neem contact op met ons supportteam voor dringende reparaties of technische hulp.",
+      "requestRepair": "Reparatie aanvragen",
+      "contactSupport": "Contact ondersteuning"
+    }
+  },
+  "fieldOperations": {
+    "badge": "Diensten",
+    "title": "Veldoperaties",
+    "description": "Professionele drone spuit- en landbouwdiensten uitgevoerd door onze ervaren operators. Laat ons uw gewasbescherming verzorgen.",
+    "requestQuote": "Offerte aanvragen",
+    "services": {
+      "badge": "Onze diensten",
+      "title": "Wat we aanbieden",
+      "spray": {
+        "title": "Gewasspuiten",
+        "description": "Precisie herbicide, pesticide en fungicide toepassing voor alle gewastypes."
+      },
+      "seed": {
+        "title": "Zaaien & Strooien",
+        "description": "Efficiënt luchtzaaien voor dekgewassen en granulaat meststof strooien."
+      },
+      "monitor": {
+        "title": "Gewasmonitoring",
+        "description": "Luchtverkenningen en NDVI kartering om probleemgebieden te identificeren."
+      },
+      "custom": {
+        "title": "Aangepaste oplossingen",
+        "description": "Op maat gemaakte dronediensten voor uw specifieke landbouwbehoeften."
+      }
+    },
+    "benefits": {
+      "badge": "Waarom wij",
+      "title": "Voordelen van drone operaties",
+      "items": {
+        "chemicals": "Verminder chemicaliëngebruik tot 30%",
+        "coverage": "Bedek meer oppervlakte in minder tijd",
+        "terrain": "Toegang tot moeilijk terrein en natte velden",
+        "damage": "Minimaliseer gewasschade door grondapparatuur",
+        "precision": "Precisie toepassing met GPS geleiding",
+        "data": "Realtime data en rapportage"
+      }
+    },
+    "process": {
+      "badge": "Hoe het werkt",
+      "title": "Ons proces",
+      "step1": {
+        "title": "Neem contact op",
+        "description": "Vraag een offerte aan met uw veldgegevens"
+      },
+      "step2": {
+        "title": "Locatiebeoordeling",
+        "description": "Wij evalueren uw terrein en behoeften"
+      },
+      "step3": {
+        "title": "Planning",
+        "description": "Boek uw gewenste operatiedatum"
+      },
+      "step4": {
+        "title": "Uitvoering",
+        "description": "Ons team voert de operatie uit"
+      }
+    },
+    "cta": {
+      "title": "Klaar om te beginnen?",
+      "description": "Neem vandaag nog contact met ons op voor een gratis offerte voor onze veldoperatiediensten."
+    }
+  },
+  "downloadCenter": {
+    "badge": "Bronnen",
+    "title": "Downloadcentrum",
+    "description": "Toegang tot productbrochures, gebruikershandleidingen, software updates en technische documentatie.",
+    "documentType": "Documenttype",
+    "product": "Product",
+    "all": "Alle",
+    "allProducts": "Alle producten",
+    "brochure": "Brochure",
+    "manual": "Handleiding",
+    "guide": "Gids",
+    "download": "Downloaden",
+    "app": {
+      "badge": "Mobiele app",
+      "title": "XAG One App",
+      "description": "Compleet landbouwbeheerplatform voor het plannen, uitvoeren en analyseren van uw operaties met landbouwdrones.",
+      "feature1": "AI-aangedreven vluchtplanning",
+      "feature2": "Realtime operatiemonitoring",
+      "feature3": "Gedetailleerde analyses & rapporten",
+      "feature4": "Multi-drone vlootbeheer",
+      "downloadOn": "Download op",
+      "getItOn": "Verkrijgbaar op"
+    },
+    "docs": {
+      "badge": "Documentatie",
+      "title": "Handleidingen & Specificaties",
+      "description": "Download gebruikershandleidingen, technische gidsen en productspecificaties."
+    },
+    "downloads": {
+      "p150maxManual": {
+        "title": "P150 Max gebruikershandleiding",
+        "description": "Complete gebruikershandleiding voor de XAG P150 Max 2024 landbouwdrone.",
+        "type": "Handleiding",
+        "fileSize": "32 MB",
+        "format": "PDF",
+        "product": "P150 Max"
+      },
+      "p100proSpecs": {
+        "title": "P100 Pro technische specificaties",
+        "description": "Complete specificaties en functie-overzicht van de P100 Pro drone.",
+        "type": "Handleiding",
+        "fileSize": "2,5 MB",
+        "format": "PDF",
+        "product": "P100 Pro"
+      },
+      "r150Specs": {
+        "title": "R150 technische specificaties",
+        "description": "Uitgebreide specificatiegids voor de R150 grondrobot.",
+        "type": "Handleiding",
+        "fileSize": "1,8 MB",
+        "format": "PDF",
+        "product": "R150"
+      },
+      "v40Specs": {
+        "title": "V40 technische specificaties",
+        "description": "Specificaties en functies van de V40 landbouwdrone.",
+        "type": "Handleiding",
+        "fileSize": "2,1 MB",
+        "format": "PDF",
+        "product": "V40"
+      }
+    }
+  },
+  "training": {
+    "badge": "Trainingsprogramma's",
+    "title": "Word gecertificeerd dronepiloot",
+    "description": "Krijg erkende training en certificering voor professionele bediening van landbouwdrones. Onze uitgebreide programma's dekken alles van basisoperaties tot geavanceerde spuittechnieken.",
+    "viewPrograms": "Programma's bekijken",
+    "enquireNow": "Nu informeren",
+    "pilotsTrained": "Dronepiloten wereldwijd opgeleid",
+    "features": {
+      "certified": {
+        "title": "Officiële certificering",
+        "subtitle": "Erkende certificering"
+      },
+      "handsOn": {
+        "title": "Praktische training",
+        "subtitle": "Praktijkervaring"
+      },
+      "experts": {
+        "title": "Expert instructeurs",
+        "subtitle": "Brancheprofessionals"
+      },
+      "nationwide": {
+        "title": "Landelijk",
+        "subtitle": "Locaties door heel Polen"
+      }
+    }
+  },
+  "support": {
+    "badge": "Klantenondersteuning",
+    "title": "Wij staan voor u klaar",
+    "description": "Ons toegewijde supportteam staat klaar om u te helpen met vragen, technische problemen of serviceaanvragen. Krijg de hulp die u nodig heeft om uw operaties soepel te laten verlopen.",
+    "contactSupport": "Contact ondersteuning",
+    "email": "E-mail",
+    "items": {
+      "technical": {
+        "title": "Technische ondersteuning",
+        "description": "Deskundige hulp voor alle XAG producten"
+      },
+      "docs": {
+        "title": "Documentatie",
+        "description": "Handleidingen, gidsen en bronnen"
+      },
+      "warranty": {
+        "title": "Garantieservice",
+        "description": "Dekking en claimondersteuning"
+      },
+      "repair": {
+        "title": "Reparatieservice",
+        "description": "Snelle reparaties met originele onderdelen"
+      }
+    }
+  },
+  "partsCatalog": {
+    "home": "Home",
+    "spareParts": "Reserveonderdelen",
+    "heroDescription": "Vind de juiste reserveonderdelen voor uw drone. Blader door onze complete catalogus van originele XAG vervangingsonderdelen en accessoires.",
+    "selectCategory": "Selecteer een categorie",
+    "selectCategoryDescription": "Kies een componentgroep om beschikbare onderdelen te bekijken"
+  },
+  "footer": {
+    "description": "XAG IMEGA biedt een breed scala aan landbouwdrones om landbouwactiviteiten te optimaliseren en gewasopbrengsten te verhogen.",
+    "products": "Producten",
+    "resources": "Bronnen",
+    "company": "Bedrijf",
+    "support": "Ondersteuning",
+    "privacyPolicy": "Privacybeleid",
+    "termsOfUse": "Gebruiksvoorwaarden",
+    "copyright": "© 2026 XAG IMEGA Poland. Alle rechten voorbehouden."
+  },
+  "whyChoose": {
+    "badge": "Waarom XAG",
+    "title": "Waarom kiezen voor XAG Polen",
+    "description": "Wij zijn toegewijd aan het leveren van de beste landbouwdroneoplossingen met ongeëvenaarde ondersteuning en expertise.",
+    "items": {
+      "technology": {
+        "title": "Geavanceerde technologie",
+        "description": "Toonaangevende 4D beeldradar en AI-aangedreven autonome systemen"
+      },
+      "support": {
+        "title": "Lokale ondersteuning",
+        "description": "In Polen gevestigde technische ondersteuning en landelijk servicenetwerk"
+      },
+      "training": {
+        "title": "Professionele training",
+        "description": "Gecertificeerde trainingsprogramma's en certificeringscursussen"
+      },
+      "efficiency": {
+        "title": "Maximale efficiëntie",
+        "description": "Bedek meer oppervlakte in minder tijd met precisie toepassing"
+      },
+      "sustainability": {
+        "title": "Duurzame landbouw",
+        "description": "Verminder chemicaliëngebruik en milieu-impact"
+      },
+      "warranty": {
+        "title": "Uitgebreide garantie",
+        "description": "Verlengde garantieopties en XAG Care Express ondersteuning"
+      }
+    }
+  },
+  "products": {
+    "specifications": "Specificaties",
+    "features": "Functies",
+    "payloadCapacity": "Laadvermogen",
+    "maxSprayWidth": "Max. spuitbreedte",
+    "flightTime": "Vliegtijd",
+    "tankVolume": "Tankvolume",
+    "workingWidth": "Werkbreedte",
+    "operatingTime": "Bedrijfstijd",
+    "speed": "Snelheid"
+  },
+  "p100pro": {
+    "badge": "Landbouw UAS",
+    "title": "XAG P100 Pro",
+    "description": "De ultieme precisie landbouwdrone met geavanceerde spuit- en strooimogelijkheden voor boerderijen.",
+    "requestQuote": "Offerte aanvragen",
+    "viewSpecs": "Specificaties bekijken",
+    "specs": {
+      "badge": "Prestaties",
+      "title": "Belangrijke specificaties",
+      "description": "Gebouwd voor veeleisende landbouwoperaties met precisie en betrouwbaarheid",
+      "maxPayload": "Max. laadvermogen",
+      "maxPayloadDesc": "Toonaangevende capaciteit",
+      "maxSpeed": "Max. snelheid",
+      "maxSpeedDesc": "Snelle velddekking",
+      "atomization": "Verneveling",
+      "atomizationDesc": "Ultrafijne druppelgrootte",
+      "protection": "Bescherming",
+      "protectionDesc": "Allweerbediening"
+    },
+    "fieldPerformance": {
+      "badge": "Veldprestaties",
+      "title": "Transformeer uw operaties",
+      "description": "Vergelijk traditionele methoden met XAG precisie landbouw",
+      "sprayingEfficiency": "Spuitefficiëntie",
+      "chemicalSavings": "Chemicaliënbesparing",
+      "coveragePrecision": "Dekkingsprecisie",
+      "drone": "XAG P100 Pro",
+      "traditional": "Traditioneel",
+      "hectaresHour": "20+ hectare/uur",
+      "hectaresHourTraditional": "2-3 hectare/uur",
+      "faster": "10x sneller",
+      "reduction": "30% reductie",
+      "standardUsage": "Standaard gebruik",
+      "costEffective": "Kosteneffectief",
+      "accuracy": "±2cm nauwkeurigheid",
+      "variableCoverage": "Variabele dekking",
+      "gpsGuided": "GPS geleid"
+    },
+    "revospray": {
+      "badge": "Spuitsysteem",
+      "title": "RevoSpray P3",
+      "description": "Revolutionair centrifugaal spuitsysteem met intelligente debietregeling. Bereik uniforme dekking met ultrafijne verneveling tot 500µm druppelgrootte.",
+      "features": {
+        "flowRate": "24L/min maximaal debiet",
+        "sprayDiscs": "8 onafhankelijke spuitschijven",
+        "variableRate": "AI-aangedreven variabele dosering",
+        "antiDrift": "Anti-drift technologie"
+      }
+    },
+    "revocast": {
+      "badge": "Strooiersysteem",
+      "title": "RevoCast P3",
+      "description": "Hoogcapaciteit strooiersysteem voor granulaat meststoffen en zaden. Precisie distributie met instelbare strooibreedte tot 7 meter.",
+      "features": {
+        "hopper": "50kg hopperkapaciteit",
+        "spreadWidth": "7m strooibreedte",
+        "variableRate": "Variabele dosering",
+        "compatible": "Zaad & meststof compatibel"
+      }
+    },
+    "radar": {
+      "badge": "Obstakelontwijking",
+      "title": "4D beeldradar",
+      "description": "Volgende generatie radartechnologie voor intelligente obstakeldetectie en terreinvolging",
+      "detection360": "360° detectie",
+      "detection360Desc": "Volledige omnidirectionele obstakelwaarneming",
+      "range50m": "50m bereik",
+      "range50mDesc": "Langeafstandsdetectie voor vroege ontwijking",
+      "allWeather": "Allweer",
+      "allWeatherDesc": "Werkt in stof, mist en weinig licht",
+      "terrainFollowing": "Terreinvolging",
+      "terrainFollowingDesc": "Adaptieve hoogteregeling over oneffen terrein"
+    },
+    "superx": {
+      "badge": "Vluchtbesturing",
+      "title": "SuperX 4 Pro",
+      "description": "Geavanceerd vliegbesturingssysteem met drievoudige redundantie en AI-aangedreven autonome mogelijkheden. Ontworpen voor betrouwbare landbouwoperaties.",
+      "dualIMU": "Dubbele IMU",
+      "dualIMUDesc": "Redundante vluchtsensoren",
+      "rtkGPS": "RTK GPS",
+      "rtkGPSDesc": "Centimeter-niveau positionering",
+      "aiCore": "AI kern",
+      "aiCoreDesc": "Intelligente vluchtplanning",
+      "fiveGReady": "5G gereed",
+      "fiveGReadyDesc": "Hogesnelheid dataoverdracht"
+    },
+    "remote": {
+      "badge": "Afstandsbediening",
+      "title": "ARC3 Pro",
+      "description": "Ervaar het gemak van een lichtgewicht afstandsbediening, ontworpen om pilootbelasting tijdens lange operaties te verminderen. De ARC3 Pro is compact, duurzaam en heeft een verlengde batterijduur - de perfecte metgezel voor landbouwtaken.",
+      "controlRange": "Besturingsbereik",
+      "hdDisplay": "HD display",
+      "dustWater": "Stof & water",
+      "batteryLife": "Batterijduur"
+    },
+    "power": {
+      "badge": "Voedingssysteem",
+      "title": "Intelligent energiebeheer",
+      "description": "Snelwisselbaar batterijsysteem met intelligent laden voor continue operaties",
+      "capacity": "Capaciteit",
+      "voltage": "Spanning",
+      "flightTime": "Vliegtijd",
+      "b100Battery": "B100 batterij",
+      "b150Battery": "B150 batterij"
+    },
+    "positioning": {
+      "badge": "Navigatie",
+      "title": "Positioneringsmodi",
+      "description": "Meerdere positioneringsopties voor elke omgeving",
+      "mode": "Modus",
+      "accuracy": "Nauwkeurigheid",
+      "descriptionCol": "Beschrijving",
+      "rtk": "RTK",
+      "rtkDesc": "Realtime kinematiek voor maximale precisie",
+      "gnss": "GNSS",
+      "gnssDesc": "Standaard GPS positionering",
+      "vision": "Visie",
+      "visionDesc": "Visueel positioneringssysteem voor GPS-vrije gebieden"
+    },
+    "dayNight": {
+      "badge": "24/7 operaties",
+      "title": "Dag & nacht capaciteit",
+      "description": "Krachtige LED-verlichting en geavanceerde sensoren maken non-stop operaties mogelijk",
+      "dayMode": "Dagmodus",
+      "nightMode": "Nachtmodus"
+    },
+    "app": {
+      "badge": "Slim boeren",
+      "title": "XAG One App",
+      "description": "Compleet boerderijbeheerplatform voor het plannen, uitvoeren en analyseren van uw landbouwdroneoperaties.",
+      "features": {
+        "aiPlanning": "AI-aangedreven vluchtplanning",
+        "realTimeMonitoring": "Realtime operatiemonitoring",
+        "analytics": "Gedetailleerde analyses & rapporten",
+        "fleetManagement": "Multi-drone vlootbeheer"
+      },
+      "appStore": "App Store",
+      "googlePlay": "Google Play"
+    },
+    "contact": {
+      "badge": "Neem contact op",
+      "title": "Klaar om uw boerderij te transformeren?",
+      "description": "Neem contact op met ons team om meer te weten over de P100 Pro en hoe deze uw landbouwoperaties kan revolutioneren.",
+      "callUs": "Bel ons",
+      "emailUs": "Mail ons",
+      "form": {
+        "name": "Naam *",
+        "email": "E-mail *",
+        "phone": "Telefoon",
+        "company": "Bedrijf",
+        "message": "Bericht *",
+        "messagePlaceholder": "Vertel ons over uw landbouwbehoeften...",
+        "submit": "Aanvraag verzenden"
+      }
+    }
+  },
+  "p150max": {
+    "badge": "Landbouw UAS",
+    "title": "XAG P150 Max",
+    "tagline": "Vlieg Max. Prestaties op het maximum.",
+    "description": "Eénpersoons landbouwdrone voor veldkartering, spuiten, strooien en logistiek met 80kg laadvermogen.",
+    "orderNow": "Nu bestellen",
+    "viewSpecs": "Specificaties bekijken",
+    "downloads": "Downloads",
+    "specs": {
+      "badge": "Prestaties",
+      "title": "Kernspecificaties",
+      "description": "Toonaangevende prestaties voor veeleisende landbouwoperaties",
+      "sprayingTank": "Spuittank",
+      "sprayingTankDesc": "Maximale capaciteit",
+      "maxFlowRate": "Max. debiet",
+      "maxFlowRateDesc": "Spuitoutput",
+      "spreadingTank": "Strooitank",
+      "spreadingTankDesc": "Granulaatcontainer",
+      "spreadRate": "Strooitempo",
+      "spreadRateDesc": "Maximale output",
+      "liftingCapacity": "Hefcapaciteit",
+      "liftingCapacityDesc": "Laadvermogen",
+      "coverageFlight": "Dekking/vlucht",
+      "coverageFlightDesc": "Per batterijcyclus",
+      "maxSpeed": "Max. snelheid",
+      "maxSpeedDesc": "Operatiesnelheid",
+      "bodyWeight": "Lichaamsgewicht",
+      "bodyWeightDesc": "Dronegewicht"
+    },
+    "revospray": {
+      "badge": "Spuitsysteem",
+      "title": "RevoSpray P5",
+      "description": "Geavanceerd centrifugaal spuitsysteem met intelligente debietregeling. Uitbreidbaar naar 46 L/min debiet met vierdelige spuitkopset voor maximale dekkingsefficiëntie.",
+      "features": {
+        "tankCapacity": "80L tankkapaciteit met 46 L/min debiet",
+        "dropletSize": "Druppelgrootte bereik: 60-500 μm",
+        "sprayWidth": "Spuitbreedte: 5-10 meter",
+        "impellerPumps": "Flexibele waaierpomp met 300+ uur levensduur",
+        "centrifugalNozzle": "Intelligent centrifugaal spuitsysteem",
+        "smartTank": "Slimme vloeistoftank met capillaire pneumatische sensor"
+      }
+    },
+    "revocast": {
+      "badge": "Strooiersysteem",
+      "title": "RevoCast P5",
+      "description": "Hoogcapaciteit strooiersysteem met verticale golfbewegingtechnologie voor precieze granulaatdistributie van zaden, meststoffen en poeders.",
+      "features": {
+        "granuleContainer": "115L granulaatcontainer capaciteit",
+        "maxSpreadRate": "300 kg/min maximale strooitempo",
+        "spreadWidth": "9 meter strooibaan breedte",
+        "waving": "Verticale golfbeweging strooitechnologie",
+        "feeders": "Drie verwisselbare vijzelinvoeren (groot, midden, klein)",
+        "compatible": "Compatibel met zaden, meststof en poeders"
+      }
+    },
+    "revosling": {
+      "badge": "Veldlogistiek",
+      "title": "RevoSling",
+      "description": "Transformeer uw P150 Max in een logistieke krachtpatser met 80kg laadvermogen voor transport van voorraden, apparatuur en materialen over uw boerderij.",
+      "payloadCapacity": "Laadvermogen",
+      "maxFlightSpeed": "Max. vluchtsnelheid",
+      "features": {
+        "securityLock": "Beveiligingsslot systeem",
+        "remoteControl": "Afstandsbediening via SRC 5",
+        "abRoute": "A/B route automatisering",
+        "liveWeighing": "Live in-flight weging"
+      }
+    },
+    "obstacleAvoidance": {
+      "badge": "Veiligheid eerst",
+      "title": "Obstakelontwijking & veiligheid",
+      "description": "Geavanceerde sensortechnologie voor veilige autonome operaties in complexe omgevingen",
+      "features": {
+        "radar": "4D beeldradar",
+        "radarDesc": "Detecteert obstakels 1,5-100 meter ver",
+        "aiVision": "AI visie",
+        "aiVisionDesc": "Realtime 3D AR markers overlay",
+        "terrainFollowing": "Terreinvolging",
+        "terrainFollowingDesc": "Geen voorgeladen kaarten nodig",
+        "fpv": "Groothoek FPV",
+        "fpvDesc": "Geïntegreerde camera voor vol zicht"
+      }
+    },
+    "controlSystems": {
+      "badge": "Besturing & overdracht",
+      "title": "Intelligente besturingssystemen",
+      "src5": {
+        "name": "SRC5 afstandsbediening",
+        "features": {
+          "xlink": "Geïntegreerde XLink HD overdracht (tot 2 km bereik)",
+          "fpv": "Ultra-groothoek FPV weergave met AR overlays",
+          "oneClick": "Eén-klik autonome operatie workflow"
+        }
+      },
+      "xrtk7": {
+        "name": "XRTK7 (optioneel)",
+        "features": {
+          "accuracy": "Centimeter-niveau RTK nauwkeurigheid",
+          "onePress": "Eén-druk basisstation activering",
+          "relay": "Ingebouwde relay voor hoge gewassen/boomgaarden"
+        }
+      },
+      "superx4": {
+        "name": "SuperX 4 Pro",
+        "subtitle": "Intelligent besturingssysteem",
+        "processor": "Processor",
+        "communication": "Communicatie",
+        "imu": "IMU",
+        "positioning": "Positionering",
+        "description": "Geavanceerde vluchtbesturing met AI foutvoorspelling voor betrouwbare autonome operaties.",
+        "features": {
+          "processor": "1 GHz onafhankelijke processor",
+          "dualLink": "Dual-link communicatie",
+          "imu": "3× IMU + AI foutvoorspelling",
+          "dualAntenna": "Dubbele-antenne RTK positionering"
+        }
+      }
+    },
+    "workflow": {
+      "badge": "Simpele workflow",
+      "title": "Instellen in 4 eenvoudige stappen",
+      "step1": {
+        "number": "01",
+        "title": "Snelle apparaatkoppeling",
+        "description": "Eenvoudig tik-gebaseerd koppelproces"
+      },
+      "step2": {
+        "number": "02",
+        "title": "Eenvoudige veldplanning",
+        "description": "Meerdere karteringsmethoden beschikbaar"
+      },
+      "step3": {
+        "number": "03",
+        "title": "Eén-klik operatie",
+        "description": "Volledig autonome vluchtuitvoering"
+      },
+      "step4": {
+        "number": "04",
+        "title": "Slimme thuiskomst",
+        "description": "Auto terugkeer bij vooringestelde drempels"
+      }
+    },
+    "autonomous": {
+      "badge": "Autonome vlucht",
+      "title": "Intelligente mogelijkheden",
+      "description": "Geavanceerde autonome functies voor efficiënte en precieze operaties",
+      "features": {
+        "fieldMapping": "Veldkartering",
+        "fieldMappingDesc": "HD beelden samengevoegd na vlucht met AI obstakeldetectie",
+        "routePlanning": "Intelligente routeplanning",
+        "routePlanningDesc": "Automatisch gegenereerde paden met spiraalvormige omtrek-naar-centrum routes",
+        "safetyModes": "Veiligheidsmodi",
+        "safetyModesDesc": "Veiligheidspunt modus en veiligheidszone modus voor gecontroleerde in-/uitgang",
+        "multiField": "Multi-veld operatie",
+        "multiFieldDesc": "Plan tot 10 velden in één workflow",
+        "swarm": "Zwerm operatie",
+        "swarmDesc": "Eén controller beheert twee drones tegelijk",
+        "variableRate": "Variabele dosering toepassing",
+        "variableRateDesc": "Intelligente optimalisatie per veldzone"
+      }
+    },
+    "power": {
+      "badge": "Voedingssysteem",
+      "title": "B141050 slimme batterij",
+      "capacity": "Wh capaciteit",
+      "weight": "kg gewicht",
+      "cycleWarranty": "Cyclusgarantie",
+      "chargingOptions": "Laadopties",
+      "chargers": {
+        "cm13600s": {
+          "name": "CM13600S",
+          "type": "AC invoer, 3400W",
+          "time": "~12 min (30-95%)"
+        },
+        "cm15300d": {
+          "name": "CM15300D",
+          "type": "DC invoer, 72V+",
+          "time": "Snel laden"
+        },
+        "parallel": {
+          "name": "Parallel kit",
+          "type": "AC, 6800W",
+          "time": "~7 min (30-95%)"
+        },
+        "cooling": {
+          "name": "Koeltoren",
+          "type": "Continu",
+          "time": "6-8 uur operatie"
+        }
+      }
+    },
+    "testimonials": {
+      "badge": "Klantverhalen",
+      "title": "Vertrouwd door boeren"
+    },
+    "contact": {
+      "badge": "Neem contact op",
+      "title": "Klaar om het potentieel van uw boerderij te maximaliseren?",
+      "description": "Neem contact op met ons team om meer te weten over de P150 Max en hoe deze uw landbouwoperaties kan transformeren.",
+      "salesSpecialist": "Verkoopspecialist",
+      "ceo": "Directeur",
+      "form": {
+        "name": "Naam *",
+        "email": "E-mail *",
+        "phone": "Telefoon",
+        "company": "Bedrijf",
+        "message": "Bericht *",
+        "messagePlaceholder": "Vertel ons over uw landbouwbehoeften...",
+        "submit": "Aanvraag verzenden"
+      }
+    }
+  },
+  "apc2": {
+    "badge": "AutoPilot Console",
+    "title": "XAG APC2",
+    "tagline": "Navigeer met precisie",
+    "description": "Een geautomatiseerde stuuroplossing voor handsfree boerderijoperaties. Maakt het mogelijk voor landbouwmachines zoals tractoren en oogstmachines om te werken met centimeter-niveau positioneringsnauwkeurigheid.",
+    "orderNow": "Nu bestellen",
+    "viewSpecs": "Specificaties bekijken",
+    "downloads": "Downloads",
+    "features": {
+      "badge": "Belangrijke functies",
+      "title": "Waarom APC2 kiezen",
+      "description": "Geavanceerde autopilottechnologie voor precisie landbouw",
+      "allInOne": "Alles-in-één ontwerp",
+      "allInOneDesc": "Installeert in ongeveer 20 minuten met minimale setup",
+      "highPrecision": "Hoge precisie",
+      "highPrecisionDesc": "±2,5 cm positioneringsnauwkeurigheid voor precieze operaties",
+      "dualPositioning": "Dubbele positionering",
+      "dualPositioningDesc": "Ondersteunt zowel RTK als PPP correctiesignalen",
+      "advancedGuidance": "Geavanceerde geleiding",
+      "advancedGuidanceDesc": "Meerdere geleidingslijmodi voor gevarieerde veldomstandigheden",
+      "mobileControl": "Mobiele besturing",
+      "mobileControlDesc": "Smartphone app maakt padplanning en operatie mogelijk",
+      "wideCompatibility": "Brede compatibiliteit",
+      "wideCompatibilityDesc": "Werkt met meerdere landbouwmachine merken/modellen",
+      "offlineOperation": "Offline operatie",
+      "offlineOperationDesc": "Functioneert zonder netwerk via mobiel basisstation",
+      "otaUpdates": "OTA updates",
+      "otaUpdatesDesc": "Over-the-air firmware updates voor nieuwe functies"
+    },
+    "variants": {
+      "badge": "Systeemvarianten",
+      "title": "Kies uw configuratie",
+      "description": "Twee systeemopties ontworpen voor verschillende behoeften",
+      "standard": {
+        "name": "APC2 Standard",
+        "description": "Geautomatiseerd stuurwiel met paddle shifter bediening",
+        "feature1": "Geautomatiseerde stuurwiel vervanging",
+        "feature2": "Paddle shifter bediening voor eenvoudige operatie",
+        "feature3": "Minimaal onderhoud (1.000+ uur intervallen)",
+        "feature4": "Geïntegreerd display en bediening"
+      },
+      "flex": {
+        "name": "APC2 Flex",
+        "description": "Stuurmotor aandrijving behoudt origineel wiel",
+        "feature1": "Behoudt origineel stuurwiel",
+        "feature2": "Stuur-gemonteerde knopbediening",
+        "feature3": "Compact snelinstallatie ontwerp",
+        "feature4": "Geschikt voor diverse machinetypes"
+      }
+    },
+    "specs": {
+      "badge": "Specificaties",
+      "title": "Technische details",
+      "description": "Toonaangevende precisie en compatibiliteit",
+      "accuracy": "Positioneringsnauwkeurigheid",
+      "accuracyValue": "±2,5 cm",
+      "guidanceModes": "Geleidingsmodi",
+      "guidanceModesValue": "5 modi",
+      "positioning": "Positioneringsmethoden",
+      "positioningValue": "RTK/PPP/CORS",
+      "installation": "Installatietijd",
+      "installationValue": "~20 min"
+    },
+    "guidance": {
+      "badge": "Geleidingssysteem",
+      "title": "Meerdere geleidingsmodi",
+      "description": "Flexibele padplanning voor alle veldtypes",
+      "modes": {
+        "abStraight": "AB rechte lijn",
+        "abStraightDesc": "Standaard parallelle passes voor rechthoekige velden",
+        "abCurve": "AB curve",
+        "abCurveDesc": "Volg contouren voor onregelmatig terrein",
+        "abEquidistant": "AB gelijke afstand curve",
+        "abEquidistantDesc": "Behoud consistente afstand op curves",
+        "drillSeeding": "Rijenzaai",
+        "drillSeedingDesc": "Geoptimaliseerd voor precisie zaaioperaties",
+        "diagonalHarrowing": "Diagonaal eggen",
+        "diagonalHarrowingDesc": "Kruispatroon voor grondige bodemvoorbereiding"
+      }
+    },
+    "compatibility": {
+      "badge": "Compatibiliteit",
+      "title": "Werkt met uw apparatuur",
+      "description": "Compatibel met een breed scala aan landbouwmachines",
+      "riceTransplanters": "Rijstplanters",
+      "tractors": "Tractoren",
+      "sprayers": "Spuitmachines",
+      "harvesters": "Oogstmachines",
+      "paddyFields": "Rijstvelden",
+      "dryFields": "Droge velden",
+      "mountainTerrain": "Bergterrein"
+    },
+    "accessories": {
+      "badge": "Optionele accessoires",
+      "title": "Breid uw systeem uit",
+      "description": "Verbeter mogelijkheden met compatibele accessoires",
+      "xrtk7": {
+        "name": "XRTK7 mobiel station",
+        "description": "Draagbaar RTK basisstation voor gebieden zonder netwerkdekking"
+      },
+      "xre1": {
+        "name": "XRE1 bereikverlenging",
+        "description": "Breidt communicatiebereik uit tot 2 km"
+      },
+      "wcp1": {
+        "name": "WCP1 draadloos bedieningspaneel",
+        "description": "Draadloze afstandsbediening voor gemakkelijke operatie"
+      }
+    },
+    "contact": {
+      "badge": "Neem contact op",
+      "title": "Klaar om uw boerderij te automatiseren?",
+      "description": "Neem contact op met ons team om meer te weten over de APC2 en hoe deze uw landbouwoperaties kan transformeren.",
+      "salesSpecialist": "Verkoopspecialist",
+      "ceo": "Directeur",
+      "form": {
+        "name": "Naam *",
+        "email": "E-mail *",
+        "phone": "Telefoon",
+        "company": "Bedrijf",
+        "message": "Bericht *",
+        "messagePlaceholder": "Vertel ons over uw landbouwbehoeften...",
+        "submit": "Aanvraag verzenden"
+      }
+    }
+  },
+  "productsPage": {
+    "badge": "Producten",
+    "title": "Ons productassortiment",
+    "description": "Ontdek ons uitgebreide assortiment landbouwdrones en autonome grondrobots ontworpen voor precisie landbouw.",
+    "airborne": {
+      "badge": "Luchtgebonden",
+      "title": "Landbouwdrones",
+      "viewAll": "Alles bekijken"
+    },
+    "landborne": {
+      "badge": "Grondgebonden",
+      "title": "Grondrobots",
+      "viewAll": "Alles bekijken"
+    },
+    "autopilot": {
+      "badge": "Autopilot",
+      "title": "Autonome stuursystemen",
+      "viewAll": "Meer bekijken"
+    }
+  },
+  "aboutUs": {
+    "badge": "Over ons",
+    "title": "Revolutionering van de Poolse landbouw",
+    "subtitle": "XAG IMEGA Poland is de geautoriseerde distributeur van XAG landbouwdrones in Polen, toegewijd aan het transformeren van landbouw door innovatieve technologie.",
+    "stats": {
+      "established": "Opgericht",
+      "establishedValue": "2019",
+      "teamMembers": "Teamleden",
+      "dronesDeployed": "Drones ingezet",
+      "hectaresCovered": "Hectares bewerkt"
+    },
+    "story": {
+      "badge": "Ons verhaal",
+      "title": "Pioniers van slimme landbouw in Polen",
+      "p1": "XAG IMEGA Poland introduceert drones, robots, autopilots, kunstmatige intelligentie en IoT-oplossingen in de landbouwproductie, waardoor een intelligent landbouwecosysteem ontstaat dat kenmerkend is voor Landbouw 4.0.",
+      "p2": "Onze missie is om landbouw slimmer te maken door toonaangevende dronetechnologie te combineren met IoT-veldmonitoringstations, GNSS RTK geo-ruimtelijke intelligentie en cloud computing.",
+      "p3": "We streven ernaar vergrijzende plattelandsbevolkingen te ondersteunen, natuurlijke hulpbronnen en biodiversiteit te beschermen, en de productiviteit te verbeteren terwijl we voedselzekerheid waarborgen."
+    },
+    "mission": {
+      "badge": "Onze missie",
+      "title": "Produceer meer met minder",
+      "description": "Volgens VN Agenda 2030 lijden wereldwijd 821 miljoen mensen aan honger. Met een verwachte wereldbevolking van 9 miljard in 2050, moet de landbouwproductie met ongeveer 60% stijgen om aan de vraag te voldoen. Wij zetten ons in om boeren te helpen meer voedsel te produceren met minder middelen.",
+      "items": {
+        "foodSecurity": "Wereldwijde voedselzekerheid",
+        "foodSecurityDesc": "Ondersteuning van langetermijn voedselzekerheid en milieubeheer",
+        "monitoring": "Gewasmonitoring",
+        "monitoringDesc": "Monitoring op afstand van gewassen en productieprocessen via continue IoT-veldmonitoringstations",
+        "xaiPlatform": "XAI Platform",
+        "xaiPlatformDesc": "Data-uitwisselingsplatform dat intelligente XAG-apparaten verbindt en landbouwproductie integreert met slimme technologieën"
+      }
+    },
+    "values": {
+      "badge": "Onze waarden",
+      "title": "Wat ons drijft",
+      "innovation": "Innovatie",
+      "innovationDesc": "We verleggen voortdurend de grenzen van landbouwtechnologie om geavanceerde oplossingen te leveren.",
+      "sustainability": "Duurzaamheid",
+      "sustainabilityDesc": "Onze precisie landbouwoplossingen helpen chemicaliëngebruik en milieu-impact te verminderen.",
+      "excellence": "Excellentie",
+      "excellenceDesc": "We zijn toegewijd aan het leveren van producten en diensten van de hoogste kwaliteit aan onze klanten.",
+      "partnership": "Partnerschap",
+      "partnershipDesc": "We werken nauw samen met boeren om hun behoeften te begrijpen en op maat gemaakte oplossingen te bieden."
+    },
+    "cta": {
+      "title": "Klaar om uw boerderij te transformeren?",
+      "description": "Neem contact op met ons team om te ontdekken hoe XAG drones uw landbouwoperaties kunnen optimaliseren.",
+      "contactUs": "Neem contact op",
+      "viewProducts": "Producten bekijken"
+    }
+  },
+  "termsOfUse": {
+    "title": "Gebruiksvoorwaarden",
+    "lastUpdated": "Laatst bijgewerkt: januari 2026",
+    "general": {
+      "title": "1. Algemene bepalingen",
+      "operator": "De online winkel www.imegagroup.pl wordt beheerd door IMEGA Sp. z o.o. gevestigd in Rybnik, ul. Smolna 14, 44-200 Rybnik, KvK: PL6423233602, e-mail: biuro@imegagroup.pl.",
+      "scope": "Het werkterrein is de verkoop van professionele landbouwplatformen, inclusief XAG drones en grondrobots.",
+      "customer": "Een klant kan een volwassen natuurlijke persoon, rechtspersoon of organisatorische eenheid met rechtsbevoegdheid zijn.",
+      "consumer": "Een consument is een natuurlijke persoon die een aankoop doet die niet gerelateerd is aan professionele activiteit."
+    },
+    "technical": {
+      "title": "2. Technische vereisten",
+      "requirements": "Internettoegang en een browser die JavaScript ondersteunt (Chrome, Firefox, Safari, Edge) zijn vereist om de winkel te gebruiken. Minimale schermresolutie: 1024×768 pixels.",
+      "prohibited": "Gebruikers mogen de site niet onrechtmatig gebruiken, persoonlijke rechten van anderen schenden, sitefunctionaliteit verstoren of onwettige inhoud verspreiden."
+    },
+    "orders": {
+      "title": "3. Bestellingen plaatsen",
+      "availability": "Bestellingen kunnen op elk moment via de website worden geplaatst.",
+      "process": "Bestelproces: (1) selecteer producten en hoeveelheden; (2) kies levering en betaalmethoden; (3) controleer bestelsamenvatting; (4) bevestig bestelling.",
+      "confirmation": "Na ontvangst van de bestelling bevestigt de verkoper de besteldetails elektronisch en controleert de productbeschikbaarheid.",
+      "agreement": "Een verkoopovereenkomst wordt gesloten tussen de klant en verkoper na verzending van de betalingsbevestiging.",
+      "language": "Verkoopovereenkomsten worden in het Pools gesloten."
+    },
+    "payments": {
+      "title": "4. Betalingen",
+      "methods": "Geaccepteerde betaalmethoden: bankoverschrijving, online betaling, betaling bij levering."
+    },
+    "delivery": {
+      "title": "5. Levering",
+      "options": "We leveren goederen in heel Polen en de Europese Unie via koeriersdiensten.",
+      "time": "Levertijd is afhankelijk van productbeschikbaarheid en bedraagt meestal 2-7 werkdagen."
+    },
+    "withdrawal": {
+      "title": "6. Herroepingsrecht",
+      "period": "Consumenten hebben het recht om binnen 14 dagen zonder opgave van redenen van overeenkomsten op afstand af te zien.",
+      "deadline": "Het indienen van een schriftelijke herroepingsverklaring voor de deadline is voldoende om aan de deadline te voldoen.",
+      "start": "De herroepingstermijn begint vanaf de dag dat de klant de goederen ontvangt."
+    },
+    "complaints": {
+      "title": "7. Klachten",
+      "liability": "De verkoper is verplicht goederen zonder gebreken te leveren.",
+      "warranty": "De verkoper is aansprakelijk voor fysieke en juridische gebreken van goederen volgens het Burgerlijk Wetboek.",
+      "filing": "Klachten kunnen in elke voor de verkoper begrijpelijke vorm worden ingediend. Gebreken en klanteisen moeten worden gespecificeerd.",
+      "period": "De klant moet het gebrek binnen één jaar na ontdekking melden (indien ontdekt binnen twee jaar na levering).",
+      "resolution": "De verkoper handelt klachten af binnen 14 dagen na ontvangst."
+    },
+    "guarantee": {
+      "title": "8. Kwaliteitsgarantie",
+      "period": "De verkoper garandeert productfunctionaliteit voor één jaar vanaf ontvangst, tenzij anders vermeld in de productbeschrijving.",
+      "scope": "De garantie dekt alleen fabricagefouten en geldt binnen Polen en EU-grondgebied.",
+      "exclusions": "De garantie dekt geen onjuiste installatie, misbruik, verwaarlozing of normale slijtage.",
+      "remedies": "Remedie-opties omvatten: reparatie, vervanging (indien reparatie onmogelijk), of prijsvermindering/terugbetaling (indien vervanging onmogelijk)."
+    },
+    "dataProtection": {
+      "title": "9. Gegevensbescherming",
+      "handling": "De operator verwerkt klantgegevens in overeenstemming met de Poolse wet op de bescherming van persoonsgegevens en de wet op elektronische diensten.",
+      "policy": "Gedetailleerde regels over persoonsgegevens en cookieverwerking zijn vastgelegd in het Privacybeleid."
+    },
+    "final": {
+      "title": "10. Slotbepalingen",
+      "disputes": "Geschillen tussen de operator en consumenten worden opgelost in overeenstemming met toepasselijk recht.",
+      "alternative": "Consumenten hebben toegang tot buitengerechtelijke klachtenprocedures via: http://www.uokik.gov.pl, http://www.rzu.gov.pl, of regionale consumentenbeschermingskantoren.",
+      "business": "Niet-consumentengeschillen worden beslecht voor rechtbanken die bevoegd zijn voor de statutaire zetel van de verkoper.",
+      "law": "Pools recht is van toepassing op zaken die hierin niet worden geregeld.",
+      "compliance": "Deze voorwaarden beperken de klantenrechten onder toepasselijk recht niet."
+    },
+    "contact": {
+      "title": "Contact",
+      "intro": "Voor vragen kunt u contact opnemen met:",
+      "email": "E-mail",
+      "phone": "Telefoon",
+      "address": "Adres"
+    }
+  },
+  "privacyPolicy": {
+    "title": "Privacybeleid",
+    "lastUpdated": "Laatst bijgewerkt: januari 2026",
+    "administrator": {
+      "title": "Gegevensbeheerder",
+      "content": "De beheerder van uw persoonsgegevens is IMEGA Sp. z o.o. gevestigd in Rybnik, ul. Smolna 14, 44-200 Rybnik, KvK: 6423233602."
+    },
+    "dataCollection": {
+      "title": "1. Gegevens die we verzamelen",
+      "intro": "We kunnen de volgende persoonsgegevens verzamelen:",
+      "items": {
+        "personal": "Naam, adres, e-mailadres, telefoonnummer",
+        "company": "Bedrijfsnaam en bedrijfsgegevens",
+        "technical": "IP-adres, browsertype, apparaatinformatie",
+        "usage": "Bezochte pagina's en tijd besteed op de site"
+      }
+    },
+    "purpose": {
+      "title": "2. Doel van gegevensverwerking",
+      "intro": "We verwerken uw gegevens voor de volgende doeleinden:",
+      "items": {
+        "services": "Dienstverlening en accountbeheer",
+        "newsletter": "Nieuwsbriefbezorging met commerciële informatie",
+        "orders": "Orderverwerking",
+        "complaints": "Klachtenafhandeling en retouren",
+        "inquiries": "Beantwoorden van klantvragen",
+        "marketing": "Directe marketing",
+        "legal": "Naleving van wettelijke verplichtingen (boekhouding, belastingvereisten)",
+        "legitimate": "Legitieme zakelijke belangen"
+      }
+    },
+    "retention": {
+      "title": "3. Bewaartermijn gegevens",
+      "content": "Gegevens worden bewaard gedurende de contractuele relatie en wettelijke verplichtingsperiode, of tot intrekking van toestemming of formeel bezwaar."
+    },
+    "profiling": {
+      "title": "4. Profilering",
+      "content": "De site gebruikt automatische inhoudspersonalisatie op basis van gebruikersgedrag om relevante producten aan te bevelen. Dit heeft geen juridisch bindende gevolgen."
+    },
+    "recipients": {
+      "title": "5. Ontvangers van gegevens",
+      "intro": "Uw gegevens kunnen worden gedeeld met de volgende entiteiten:",
+      "items": {
+        "it": "IT-dienstverleners",
+        "marketing": "Marketingbureaus",
+        "couriers": "Koeriersbedrijven",
+        "accounting": "Boekhoudkundige en financiële bedrijven",
+        "authorities": "Overheidsinstanties wanneer wettelijk vereist"
+      },
+      "transfer": "Er vinden geen overdrachten plaats buiten de Europese Economische Ruimte."
+    },
+    "rights": {
+      "title": "6. Uw rechten",
+      "intro": "Onder AVG heeft u de volgende rechten:",
+      "items": {
+        "access": "Recht op toegang tot uw gegevens",
+        "rectification": "Recht op rectificatie van uw gegevens",
+        "erasure": "Recht op verwijdering van gegevens",
+        "restriction": "Recht op beperking van verwerking",
+        "portability": "Recht op gegevensoverdraagbaarheid",
+        "objection": "Recht om bezwaar te maken tegen verwerking",
+        "complaint": "Recht om klachten in te dienen bij toezichthoudende autoriteiten"
+      }
+    },
+    "cookies": {
+      "title": "7. Cookies",
+      "intro": "We gebruiken cookies voor de volgende doeleinden:",
+      "items": {
+        "session": "Sessiebeheer",
+        "statistics": "Statistieken en analyses",
+        "marketing": "Marketing en reclame",
+        "functionality": "Sitefunctionaliteit",
+        "fraud": "Fraudepreventie",
+        "improvement": "Siteverbetering"
+      },
+      "disable": "U kunt cookies uitschakelen in uw browserinstellingen, hoewel dit de sitefunctionaliteit kan beperken."
+    },
+    "security": {
+      "title": "8. Gegevensbeveiliging",
+      "content": "Gegevensbescherming implementeert SSL-versleuteling, beveiligde databases met technische waarborgen en toegangscontroles conform AVG-vereisten."
+    },
+    "contact": {
+      "title": "9. Contact",
+      "intro": "Voor zaken gerelateerd aan persoonsgegevensbescherming kunt u contact opnemen met:",
+      "email": "E-mail",
+      "phone": "Telefoon",
+      "address": "Adres"
+    }
+  },
+  "r200": {
+    "badge": "Landbouwrover",
+    "title": "XAG R200",
+    "tagline": "Slimme boerderij co-piloot",
+    "description": "Zeswielig precisie spuitplatform voor boomgaarden en kassen, met intuïtieve afstandsbediening en modulaire uitbreidbaarheid voor diverse moderne landbouwtoepassingen.",
+    "orderNow": "Nu bestellen",
+    "viewSpecs": "Specificaties bekijken",
+    "downloads": "Downloads",
+    "features": {
+      "badge": "Belangrijke functies",
+      "title": "Waarom R200 kiezen",
+      "description": "Hoogcapaciteit autonome rover met zeswielige stabiliteit voor veeleisende boomgaard- en kasoperaties",
+      "precision": {
+        "title": "Grootvolume spuiten",
+        "description": "240L tank met 16 L/min debiet voor langdurige operaties"
+      },
+      "navigation": {
+        "title": "Intelligente navigatie",
+        "description": "Meerdere autonome bedieningsmodi met realtime padvolging"
+      },
+      "sixWheel": {
+        "title": "Zeswielige stabiliteit",
+        "description": "Superieure tractie en terreinhantering met onafhankelijke motoraandrijving"
+      },
+      "electric": {
+        "title": "Elektrische aandrijving",
+        "description": "Economische en lage-emissie werking"
+      },
+      "remote": {
+        "title": "Afstandsbediening",
+        "description": "Elimineert blootstelling van de operator aan chemicaliën"
+      },
+      "modular": {
+        "title": "Modulair platform",
+        "description": "Uitbreidbaar met extra add-ons"
+      }
+    },
+    "specs": {
+      "badge": "Prestaties",
+      "title": "Kernspecificaties",
+      "description": "Gebouwd voor hoogcapaciteit precisie grondoperaties in boomgaarden en kassen",
+      "vehicleWidth": "Voertuigbreedte",
+      "vehicleWidthValue": "80 cm",
+      "curbWeight": "Rijklaargewicht",
+      "curbWeightValue": "130 kg",
+      "maxSpeed": "Max. snelheid",
+      "maxSpeedValue": "1,5 m/s",
+      "gradeability": "Max. hellingvermogen",
+      "gradeabilityValue": "20%",
+      "groundClearance": "Bodemvrijheid",
+      "groundClearanceValue": "270 mm"
+    },
+    "chassis": {
+      "badge": "Chassis & aandrijflijn",
+      "title": "Zeswielig platform",
+      "description": "Volledig aluminium constructie met zeswielige onafhankelijke motoraandrijving voor superieure terreinhantering en tractierecuperatie",
+      "features": {
+        "aluminum": "Volledig aluminium gegoten chassis",
+        "suspension": "Opgehangen portaalaconstructie",
+        "sixWheel": "Zeswielige onafhankelijke motoraandrijving",
+        "torque": "Intelligente koppelherverdeling"
+      }
+    },
+    "revospray": {
+      "badge": "Spuitsysteem",
+      "title": "RevoSpray systeem",
+      "description": "Hoogcapaciteit spuitsysteem met vier pompen en vier centrifugale vernevelaars die ultrafijne druppels produceren voor uitgebreide baldakijndekking.",
+      "tankCapacity": "Tankkapaciteit",
+      "tankCapacityValue": "240 L",
+      "flowRate": "Max. debiet",
+      "flowRateValue": "16 L/min",
+      "dropletSize": "Druppelgrootte",
+      "dropletSizeValue": "60-200 μm",
+      "sprayRange": "Spuitbereik",
+      "sprayRangeValue": "7 m/zijde",
+      "features": {
+        "pumps": "Vier flexibele waaierpompen (300+ uur levensduur)",
+        "atomizers": "Vier centrifugale vernevelaars voor ultrafijne druppels",
+        "jetsprayer": "JetSprayer met hoge-efficiëntie kanaalventilatoren",
+        "brackets": "Verstelbare montagebeugels voor meervoudige hoekspuit",
+        "airGuide": "Luchtgeleidingskappen voor verbrede spuithoeken"
+      }
+    },
+    "control": {
+      "badge": "Besturingssysteem",
+      "title": "SRC 5 afstandsbediening",
+      "description": "Professionele afstandsbediening met hoge-helderheid display en ingebouwde FPV-camera voor uitgebreide operatiemonitoring.",
+      "display": "7\" display",
+      "displayValue": "1200 nit helderheid",
+      "fov": "Gezichtsveld",
+      "fovValue": "150° horizontaal",
+      "battery": "Batterijduur",
+      "batteryValue": "8 uur",
+      "connectivity": "Connectiviteit",
+      "connectivityValue": "XLink HD"
+    },
+    "navigation": {
+      "badge": "Slimme navigatie",
+      "title": "SuperX 5 Ultra besturingssysteem",
+      "description": "Geavanceerd intelligent besturingssysteem met meerdere bedieningsmodi voor veelzijdige autonome landbouw.",
+      "modes": {
+        "cruise": {
+          "title": "Cruisemodus",
+          "description": "Houdt 0,1-1,5 m/s tempo aan met consistent spuiten"
+        },
+        "pathTracking": {
+          "title": "Padvolging",
+          "description": "Visiealgoritmen detecteren afwijkingen en corrigeren automatisch in realtime"
+        },
+        "variableRate": {
+          "title": "Variabele dosering spuiten",
+          "description": "Volume past zich automatisch aan bewegingssnelheid aan"
+        },
+        "repeat": {
+          "title": "Herhaalmodus",
+          "description": "Registreert handmatige ritten voor autonome herhalingen"
+        },
+        "planning": {
+          "title": "Padplanning",
+          "description": "Satellietbeeld kartering voor handsfree operatie"
+        },
+        "realTerra": {
+          "title": "RealTerra kartering",
+          "description": "Vogelvluchtweergave generatie voor onboard kartering"
+        }
+      }
+    },
+    "safety": {
+      "badge": "Veiligheidsfuncties",
+      "title": "AI veiligheidsassistentie",
+      "description": "Geavanceerde veiligheidssystemen voor betrouwbare werking in complexe omgevingen.",
+      "features": {
+        "pedestrian": "Voetgangerdetectie (4m waarschuwing, 2m stop)",
+        "adaptive": "Adaptieve snelheidsregeling met IMU monitoring",
+        "posture": "Realtime houding aanpassing op hellingen"
+      }
+    },
+    "power": {
+      "badge": "Voedingssysteem",
+      "title": "B141050 slimme batterij",
+      "description": "Ultrahoge capaciteit intelligent batterijsysteem voor langdurige werking.",
+      "capacity": "Capaciteit",
+      "capacityValue": "1050 Wh",
+      "cycles": "Cycluslevensduur",
+      "cyclesValue": "1500 cycli",
+      "runtime": "Werktijd",
+      "runtimeValue": "Tot 15 min",
+      "charger": {
+        "title": "CM13600S lader",
+        "power": "3,4 kW output",
+        "time": "~12 min (30-95%)"
+      }
+    },
+    "applications": {
+      "badge": "Toepassingen",
+      "title": "Veelzijdige gewasdekking",
+      "description": "Ontworpen voor grootvolume spuiten in boomgaarden en kassen",
+      "crops": {
+        "lemons": "Citroenen",
+        "dragonFruit": "Drakenfruit",
+        "avocados": "Avocado's",
+        "grapes": "Druiven"
+      }
+    },
+    "contact": {
+      "badge": "Neem contact op",
+      "title": "Klaar om uw boomgaardoperaties te transformeren?",
+      "description": "Neem contact op met ons team om meer te weten over de R200 en hoe deze uw landbouwoperaties kan revolutioneren.",
+      "callUs": "Bel ons",
+      "emailUs": "Mail ons",
+      "form": {
+        "name": "Naam *",
+        "email": "E-mail *",
+        "phone": "Telefoon",
+        "company": "Bedrijf",
+        "message": "Bericht *",
+        "messagePlaceholder": "Vertel ons over uw landbouwbehoeften...",
+        "submit": "Aanvraag verzenden"
+      }
+    }
+  },
+  "r100": {
+    "badge": "Landbouwrover",
+    "title": "XAG R100",
+    "tagline": "Slimme boerderij co-piloot",
+    "description": "Een betrouwbare partner voor boomgaarden en kassen die precies, uniform spuiten levert met eenvoudige afstandsbediening en diverse landbouwoperaties mogelijk maakt.",
+    "orderNow": "Nu bestellen",
+    "viewSpecs": "Specificaties bekijken",
+    "downloads": "Downloads",
+    "features": {
+      "badge": "Belangrijke functies",
+      "title": "Waarom R100 kiezen",
+      "description": "Intelligente autonome rover ontworpen voor precisie landbouw in boomgaarden en kassen",
+      "precision": {
+        "title": "Precisie spuiten",
+        "description": "Bespaart water en pesticiden met nauwkeurige toepassing"
+      },
+      "navigation": {
+        "title": "Intelligente navigatie",
+        "description": "Meerdere routemodi voor veelzijdige operatie"
+      },
+      "compact": {
+        "title": "Compact ontwerp",
+        "description": "Toegang tot smalle, ruwe terreinen met gemak"
+      },
+      "electric": {
+        "title": "Elektrische aandrijving",
+        "description": "Economische en lage-emissie werking"
+      },
+      "remote": {
+        "title": "Afstandsbediening",
+        "description": "Elimineert blootstelling van de operator aan chemicaliën"
+      },
+      "modular": {
+        "title": "Modulair platform",
+        "description": "Uitbreidbaar met extra add-ons"
+      }
+    },
+    "specs": {
+      "badge": "Prestaties",
+      "title": "Kernspecificaties",
+      "description": "Gebouwd voor precisie grondoperaties in boomgaarden en kassen",
+      "vehicleWidth": "Voertuigbreedte",
+      "vehicleWidthValue": "80 cm",
+      "curbWeight": "Rijklaargewicht",
+      "curbWeightValue": "80 kg",
+      "maxSpeed": "Max. snelheid",
+      "maxSpeedValue": "1,5 m/s",
+      "gradeability": "Max. hellingvermogen",
+      "gradeabilityValue": "20%",
+      "groundClearance": "Bodemvrijheid",
+      "groundClearanceValue": "270 mm"
+    },
+    "chassis": {
+      "badge": "Chassis & aandrijflijn",
+      "title": "Robuust platform",
+      "description": "Volledig aluminium gegoten chassis met opgehangen portaalaconstructie voor superieure terreinhantering",
+      "features": {
+        "aluminum": "Volledig aluminium gegoten chassis",
+        "suspension": "Opgehangen portaalaconstructie",
+        "fourWheel": "Vierwielige onafhankelijke motoraandrijving",
+        "vcu": "Geïntegreerde voertuigbesturingseenheid (VCU)"
+      }
+    },
+    "revospray": {
+      "badge": "Spuitsysteem",
+      "title": "RevoSpray systeem",
+      "description": "Hoogcapaciteit spuitsysteem met dubbele centrifugale vernevelaars die ultrafijne druppels produceren voor uitgebreide dekking.",
+      "tankCapacity": "Tankkapaciteit",
+      "tankCapacityValue": "120 L",
+      "flowRate": "Max. debiet",
+      "flowRateValue": "8 L/min",
+      "dropletSize": "Druppelgrootte",
+      "dropletSizeValue": "60-200 μm",
+      "sprayRange": "Spuitbereik",
+      "sprayRangeValue": "7 m/zijde",
+      "features": {
+        "atomizers": "Dubbele centrifugale vernevelaars voor ultrafijne druppels",
+        "pumps": "Dubbele flexibele waaierpompen (300+ uur levensduur)",
+        "sensor": "Hoge-precisie niveausensor met capillaire luchtbuis",
+        "fan": "Hoge-efficiëntie kanaalventilator (JetSprayer)",
+        "brackets": "Verstelbare montagebeugels voor meervoudige hoekspuit"
+      }
+    },
+    "control": {
+      "badge": "Besturingssysteem",
+      "title": "SRC 5 afstandsbediening",
+      "description": "Professionele afstandsbediening met hoge-helderheid display en ingebouwde FPV-camera voor uitgebreide operatiemonitoring.",
+      "display": "7\" display",
+      "displayValue": "1200 nit helderheid",
+      "fov": "Gezichtsveld",
+      "fovValue": "150° horizontaal",
+      "battery": "Batterijduur",
+      "batteryValue": "8 uur",
+      "connectivity": "Connectiviteit",
+      "connectivityValue": "XLink HD"
+    },
+    "navigation": {
+      "badge": "Slimme navigatie",
+      "title": "SuperX 5 Ultra besturingssysteem",
+      "description": "Geavanceerd intelligent besturingssysteem met meerdere bedieningsmodi voor veelzijdige autonome landbouw.",
+      "modes": {
+        "cruise": {
+          "title": "Cruisemodus",
+          "description": "Houdt 0,1-1,5 m/s tempo aan voor gestage beweging"
+        },
+        "pathTracking": {
+          "title": "Padvolging",
+          "description": "Visiealgoritmen detecteren afwijkingen en corrigeren automatisch in realtime"
+        },
+        "variableRate": {
+          "title": "Variabele dosering spuiten",
+          "description": "Volume past zich automatisch aan bewegingssnelheid aan"
+        },
+        "repeat": {
+          "title": "Herhaalmodus",
+          "description": "Registreert handmatige ritten voor autonome herhalingen"
+        },
+        "planning": {
+          "title": "Padplanning",
+          "description": "Satellietbeeld kartering voor handsfree operatie"
+        },
+        "realTerra": {
+          "title": "RealTerra kartering",
+          "description": "Vogelvluchtweergave generatie voor onboard kartering"
+        }
+      }
+    },
+    "positioning": {
+      "badge": "Precisie positionering",
+      "title": "CM-niveau nauwkeurigheid",
+      "description": "Centimeter-niveau positionering met cloud RTK en mobiele RTK ondersteuning voor precieze navigatie.",
+      "features": {
+        "cloudRtk": "Cloud RTK ondersteuning",
+        "mobileRtk": "Mobiele RTK capaciteit",
+        "cmLevel": "Centimeter-niveau nauwkeurigheid"
+      }
+    },
+    "safety": {
+      "badge": "Veiligheidsfuncties",
+      "title": "AI veiligheidsassistentie",
+      "description": "Geavanceerde veiligheidssystemen voor betrouwbare werking in complexe omgevingen.",
+      "features": {
+        "pedestrian": "Voetgangerdetectie (4m waarschuwing, 2m stop)",
+        "adaptive": "Adaptieve snelheidsregeling met IMU monitoring",
+        "posture": "Realtime houding aanpassing"
+      }
+    },
+    "power": {
+      "badge": "Voedingssysteem",
+      "title": "B141050 slimme batterij",
+      "description": "Ultrahoge capaciteit intelligent batterijsysteem voor langdurige werking.",
+      "capacity": "Capaciteit",
+      "capacityValue": "1050 Wh",
+      "cycles": "Cycluslevensduur",
+      "cyclesValue": "1500 cycli",
+      "runtime": "Werktijd",
+      "runtimeValue": "Tot 30 min",
+      "charger": {
+        "title": "CM13600S lader",
+        "power": "3,4 kW output",
+        "time": "~12 min (30-95%)"
+      }
+    },
+    "applications": {
+      "badge": "Toepassingen",
+      "title": "Veelzijdige gewasdekking",
+      "description": "Ontworpen voor meerdere gewasscenario's in boomgaarden en kassen",
+      "crops": {
+        "grapes": "Druiven",
+        "dragonFruit": "Drakenfruit",
+        "blueberries": "Bosbessen",
+        "citrus": "Citrus"
+      }
+    },
+    "contact": {
+      "badge": "Neem contact op",
+      "title": "Klaar om uw boomgaardoperaties te transformeren?",
+      "description": "Neem contact op met ons team om meer te weten over de R100 en hoe deze uw landbouwoperaties kan revolutioneren.",
+      "callUs": "Bel ons",
+      "emailUs": "Mail ons",
+      "form": {
+        "name": "Naam *",
+        "email": "E-mail *",
+        "phone": "Telefoon",
+        "company": "Bedrijf",
+        "message": "Bericht *",
+        "messagePlaceholder": "Vertel ons over uw landbouwbehoeften...",
+        "submit": "Aanvraag verzenden"
+      }
+    }
+  },
+  "warrantyService": {
+    "badge": "Ondersteuning",
+    "title": "Garantieservice aanvragen",
+    "description": "Dien een garantieclaim in voor uw XAG product. Ons team zal uw aanvraag beoordelen en binnen 48 uur reageren.",
+    "infoTitle": "Garantiedekking informatie",
+    "infoDescription": "XAG producten hebben een standaard 12 maanden garantie vanaf de aankoopdatum. Uitgebreide garantieopties zijn beschikbaar via XAG Care Express. Houd uw aankoopbewijs gereed bij het indienen van een garantieclaim.",
+    "formTitle": "Garantieclaim formulier",
+    "contactInfo": "Contactgegevens",
+    "fullName": "Volledige naam",
+    "emailAddress": "E-mailadres",
+    "phoneNumber": "Telefoonnummer",
+    "companyName": "Bedrijf/Boerderijnaam",
+    "productPurchaseInfo": "Product & aankoopinformatie",
+    "productModel": "Productmodel",
+    "selectProduct": "Selecteer een product",
+    "serialNumber": "Serienummer",
+    "purchaseDate": "Aankoopdatum",
+    "purchaseLocation": "Aankooplocatie",
+    "purchaseLocationPlaceholder": "Dealer/winkelnaam",
+    "claimDetails": "Garantieclaim details",
+    "issueLabel": "Beschrijf het defect of probleem",
+    "issuePlaceholder": "Beschrijf het defect, wanneer het optrad en alle relevante details...",
+    "noteLabel": "Opmerking:",
+    "noteText": "Houd uw aankoopbewijs (bon of factuur) beschikbaar. We kunnen aanvullende documentatie nodig hebben om uw garantieclaim te verwerken.",
+    "submitButton": "Garantieclaim indienen",
+    "successMessage": "Bedankt voor uw garantieclaim. Ons team zal deze beoordelen en binnen 48 uur reageren."
+  },
+  "repairService": {
+    "badge": "Ondersteuning",
+    "title": "Reparatieservice aanvragen",
+    "description": "Dien een reparatieaanvraag in en ons technisch team neemt binnen 24 uur contact met u op.",
+    "formTitle": "Reparatieaanvraag formulier",
+    "contactInfo": "Contactgegevens",
+    "fullName": "Volledige naam",
+    "emailAddress": "E-mailadres",
+    "phoneNumber": "Telefoonnummer",
+    "companyName": "Bedrijf/Boerderijnaam",
+    "productInfo": "Productinformatie",
+    "productModel": "Productmodel",
+    "selectProduct": "Selecteer een product",
+    "serialNumber": "Serienummer",
+    "purchaseDate": "Aankoopdatum",
+    "priorityLevel": "Prioriteitsniveau",
+    "priorityStandard": "Standaard",
+    "priorityPlus": "Prioriteit (XAG Care Plus)",
+    "priorityPremium": "Express (XAG Care Premium)",
+    "issueSection": "Probleembeschrijving",
+    "issueLabel": "Beschrijf het probleem",
+    "issuePlaceholder": "Beschrijf het probleem dat u ervaart, wanneer het begon en eventuele foutmeldingen...",
+    "submitButton": "Reparatieaanvraag indienen",
+    "successMessage": "Bedankt voor uw reparatieaanvraag. Ons team neemt binnen 24 uur contact met u op."
+  },
+  "r150": {
+    "badge": "Onbemand grondvoertuig EV",
+    "title": "XAG R150 2022",
+    "tagline": "Transformeer voor elke landbouwmissie",
+    "description": "Autonoom grondvoertuig met multifunctionele mogelijkheden voor maaien, gewasbescherming en transportoperaties.",
+    "orderNow": "Nu bestellen",
+    "viewSpecs": "Specificaties bekijken",
+    "downloads": "Downloads",
+    "taglines": {
+      "terrain": "Ik rijd over veld en rivier",
+      "autonomous": "Ik doe het boerderijwerk helemaal zelf",
+      "easy": "Werk met mij en ontspan"
+    },
+    "specs": {
+      "sectionTitle": "Kernspecificaties",
+      "sectionBadge": "Prestaties",
+      "sectionDesc": "Gebouwd voor precisie grondoperaties in diverse landbouwomgevingen",
+      "ratedTorque": "Nominaal koppel",
+      "maxSpeed": "Max. snelheid",
+      "turningDiameter": "Draaicirkel",
+      "climbingSlope": "Klimhelling",
+      "approachAngle": "Aanrijhoek",
+      "departureAngle": "Vertrekhoek",
+      "batteryCapacity": "Batterijcapaciteit",
+      "chargeTime": "Laadtijd",
+      "motorPower": "Motorvermogen",
+      "operatingSpeed": "Bedrijfssnelheid",
+      "minimumRadius": "Minimale radius",
+      "maximumGrade": "Maximale helling",
+      "frontClearance": "Voorste vrijheid",
+      "rearClearance": "Achterste vrijheid",
+      "battery": "B13960S batterij",
+      "fullCharge": "Volledig opladen"
+    },
+    "autonomous": {
+      "badge": "Autonome werking",
+      "title": "Intelligente routeplanning",
+      "description": "Geavanceerd autonoom navigatiesysteem met RTK positionering voor precieze, handsfree werking over uw hele boerderij.",
+      "features": {
+        "rtk": "Intelligente routeplanning met RTK positionering",
+        "dualAntenna": "Dubbele-antenne RTK plus vaste station toegang",
+        "processor": "1 GHz onafhankelijke processor",
+        "precision": "Centimeter-niveau positioneringsnauwkeurigheid",
+        "obstacle": "Automatische obstakeldetectie",
+        "return": "Slimme terugkeer-naar-basis functionaliteit"
+      }
+    },
+    "revospray": {
+      "badge": "Spuitsysteem",
+      "title": "XAG RevoSpray Ground 2",
+      "description": "Hoogcapaciteit grondspuitsysteem met 360° verneveling voor uitgebreide gewasbeschermingsdekking.",
+      "tankCapacity": "Tankkapaciteit",
+      "sprayWidth": "Spuitbreedte",
+      "features": {
+        "tank": "150L vloeistoftank capaciteit",
+        "droplet": "Instelbare druppelgrootte: 60-200 μm",
+        "width": "Maximale spuitbreedte: 12 meter",
+        "atomization": "360° vernevelingscapaciteit",
+        "flow": "Precies debiet controlesysteem",
+        "monitoring": "Slimme tankniveau monitoring"
+      }
+    },
+    "revomower": {
+      "badge": "Maaisysteem",
+      "title": "XAG RevoMower 2",
+      "description": "Professionele autonome maai-accessoire met variabele maaihoogte voor precieze gras- en vegetatiebeheer.",
+      "cuttingWidth": "Maaibreedte",
+      "heightRange": "Hoogtebereik",
+      "features": {
+        "width": "90 cm maximale maaibreedte",
+        "height": "Instelbare hoogte: 2-17 cm",
+        "blades": "Dubbele gelegeerd stalen messen",
+        "speed": "Variabele snelheid werking",
+        "adjustment": "Intelligente hoogte aanpassing",
+        "maintenance": "Laag onderhoud ontwerp"
+      }
+    },
+    "cargo": {
+      "badge": "Transportsysteem",
+      "title": "XAG Cargo Rack 2",
+      "description": "Transformeer uw R150 in een logistieke krachtpatser met zware lading capaciteit voor transport van voorraden en materialen over uw boerderij.",
+      "maxPayload": "Max. laadvermogen",
+      "rackSize": "Rack afmeting",
+      "features": {
+        "payload": "200 kg maximaal laadvermogen",
+        "rack": "Stevig rack: 1080 x 1080 mm",
+        "routing": "Slimme retour routering",
+        "detection": "Automatische lading detectie"
+      }
+    },
+    "controls": {
+      "badge": "Bedieningsopties",
+      "title": "Eenvoudig te bedienen",
+      "description": "Meerdere bedieningsopties voor flexibele werkingsmodi",
+      "xagOneApp": {
+        "title": "XAG One App",
+        "features": {
+          "oneTap": "Eén-tik werking",
+          "routing": "Slimme routeplanning",
+          "multiOp": "Multi-operatie capaciteit",
+          "compatible": "iOS en Android compatibel"
+        }
+      },
+      "arc3": {
+        "title": "XAG Agricultural Remote Controller 3",
+        "features": {
+          "knobs": "Vier draaiknoppen met meerdere knoppen",
+          "rtk": "Optionele RTK module",
+          "battery": "5-6 uur batterijduur",
+          "design": "Tweehandig ergonomisch ontwerp"
+        }
+      }
+    },
+    "operationModes": {
+      "badge": "Werkingsmodi",
+      "title": "Vier manieren om te werken",
+      "modes": {
+        "route": {
+          "title": "Routemodus",
+          "desc": "Voer meerdere autonome routes uit met precieze padvolging"
+        },
+        "remote": {
+          "title": "Afstandsbedieningsmodus",
+          "desc": "Directe handmatige bediening voor specifieke taken en krappe ruimtes"
+        },
+        "planning": {
+          "title": "Veldplanning",
+          "desc": "Slimme grenskartering met automatische routegeneratie"
+        },
+        "multiTask": {
+          "title": "Multi-task werking",
+          "desc": "Wissel tussen accessoires voor verschillende veldtaken"
+        }
+      }
+    },
+    "power": {
+      "badge": "Voedingssysteem",
+      "title": "B13960S SuperCharge batterij",
+      "description": "Intelligent batterijsysteem met ultrasnelladen voor continue werking gedurende de hele werkdag.",
+      "capacity": "Wh capaciteit",
+      "minCharge": "Min. laden",
+      "batteriesPerTank": "Batterijen/tank",
+      "chargingStation": {
+        "title": "GC4000+ laadstation",
+        "description": "Watergekoeld laadstation voor snelle batterij doorlooptijd",
+        "features": {
+          "batteries": "Laadt tot 25 batterijen per 15L brandstoftank",
+          "charge": "11 minuten volledig laden met waterkoeling",
+          "portable": "Draagbare veld laadoplossing"
+        }
+      }
+    },
+    "terrain": {
+      "badge": "Veelzijdigheid",
+      "title": "Gebouwd voor elk terrein",
+      "description": "Meerdere wielopties en robuust ontwerp voor diverse landbouwomgevingen",
+      "types": {
+        "field": {
+          "name": "Veldoperaties",
+          "desc": "Rijgewassen en open velden"
+        },
+        "orchards": {
+          "name": "Boomgaarden",
+          "desc": "Fruitbomen en wijngaarden"
+        },
+        "forestry": {
+          "name": "Bosbouw",
+          "desc": "Boomplantages en bossen"
+        },
+        "disinfection": {
+          "name": "Desinfectie",
+          "desc": "Vee en facility toepassingen"
+        }
+      }
+    },
+    "contact": {
+      "badge": "Neem contact op",
+      "title": "Klaar om uw grondoperaties te transformeren?",
+      "description": "Neem contact op met ons team om meer te weten over de R150 2022 en hoe deze uw landbouw grondwerk kan revolutioneren.",
+      "callUs": "Bel ons",
+      "emailUs": "Mail ons",
+      "form": {
+        "name": "Naam *",
+        "email": "E-mail *",
+        "phone": "Telefoon",
+        "company": "Bedrijf",
+        "message": "Bericht *",
+        "messagePlaceholder": "Vertel ons over uw landbouwbehoeften...",
+        "submit": "Aanvraag verzenden"
+      }
+    }
+  }
+}

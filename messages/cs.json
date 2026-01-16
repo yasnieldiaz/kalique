@@ -1,0 +1,1857 @@
+{
+  "common": {
+    "learnMore": "Zjistit více",
+    "contactUs": "Kontaktujte nás",
+    "getQuote": "Získat nabídku",
+    "viewAll": "Zobrazit vše",
+    "viewAllProducts": "Zobrazit všechny produkty",
+    "readMore": "Číst více",
+    "submit": "Odeslat",
+    "loading": "Načítání...",
+    "error": "Chyba",
+    "success": "Úspěch",
+    "close": "Zavřít",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "address": "Adresa"
+  },
+  "nav": {
+    "products": "Produkty",
+    "resources": "Zdroje",
+    "services": "Služby",
+    "spareParts": "Náhradní díly",
+    "sparePartsSub": "Katalog náhradních dílů pro produkty XAG",
+    "viewAllSpareParts": "Zobrazit všechny náhradní díly",
+    "company": "Společnost",
+    "airborne": "Vzdušné",
+    "airborneSub": "Zemědělské drony",
+    "landborne": "Pozemní",
+    "landborneSub": "Pozemní zařízení",
+    "blog": "Blog",
+    "caseStudies": "Případové studie",
+    "videosTutorials": "Videa a návody",
+    "downloadCenter": "Centrum stahování",
+    "droneSafety": "Bezpečnost dronů",
+    "fieldOperations": "Polní operace",
+    "trainingPrograms": "Školicí programy",
+    "xagCareExpress": "XAG Care Express",
+    "aboutUs": "O nás",
+    "events": "Události",
+    "careers": "Kariéra",
+    "contact": "Kontakt",
+    "viewAllProducts": "Zobrazit všechny produkty"
+  },
+  "home": {
+    "heroTagline": "Pokročilé zemědělství s inovativní technologií",
+    "heroSubtitle": "Zemědělský dron",
+    "ctaLearnMore": "Zjistit více",
+    "ctaContact": "Kontaktujte nás",
+    "ctaOrderNow": "Objednat nyní",
+    "statsYears": "Roky zkušeností",
+    "statsYearsSub": "v zemědělských dronech",
+    "statsHectares": "Ošetřené hektary",
+    "statsHectaresSub": "ročně",
+    "statsCountries": "Země",
+    "statsCountriesSub": "celosvětová přítomnost",
+    "statsFlightHours": "Letové hodiny",
+    "statsFlightHoursSub": "kumulativně",
+    "scrollToExplore": "Posuňte pro prozkoumání",
+    "readyToTransform": "Připraveni transformovat váš provoz?",
+    "readyToTransformDesc": "Kontaktujte náš tým a zjistěte, jak mohou drony XAG revolucionizovat vaše zemědělské operace.",
+    "viewProducts": "Zobrazit produkty",
+    "p150MaxSubtitle": "Nejrychlejší zemědělský dron",
+    "p100ProSubtitle": "Přesnost a výkon",
+    "r150Subtitle": "Pozemní přesnost",
+    "apc2Subtitle": "Autopilot pro stroje"
+  },
+  "stats": {
+    "globalImpact": "Globální dopad",
+    "title": "Působivá čísla za naším podnikáním",
+    "description": "XAG důvěřují zemědělci a odborníci po celém světě",
+    "tons": "Tun",
+    "tonsSub": "zvýšený výnos plodin",
+    "countries": "Země",
+    "countriesSub": "a regiony celosvětově",
+    "dronePilots": "Pilotů dronů",
+    "dronePilotsSub": "vyškolených globálně",
+    "hectares": "Hektarů",
+    "hectaresSub": "obhospodařovaných celosvětově",
+    "suffixes": {
+      "million": " milionů",
+      "plus": "+",
+      "kPlus": "K+"
+    }
+  },
+  "productCollections": {
+    "ourProducts": "Naše produkty",
+    "title": "Zemědělská technologie",
+    "description": "Objevte naši řadu chytrých zemědělských dronů a pozemních robotů navržených pro optimalizaci vašich provozních operací.",
+    "featuredProducts": "Doporučené produkty",
+    "viewAll": "Zobrazit vše",
+    "airborne": "Vzdušné",
+    "airborneDesc": "Zemědělské drony pro přesné postřiky, setí a mapování",
+    "landborne": "Pozemní",
+    "landborneDesc": "Autonomní pozemní roboty pro sady, vinice a řádkové plodiny",
+    "autopilot": "Autopilot",
+    "autopilotDesc": "Autonomní naváděcí systém pro tradiční zemědělské stroje",
+    "new": "Nové",
+    "popular": "Oblíbené"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "heroTitle": "Kontaktujte nás",
+    "heroDescription": "Máte otázky ohledně našich produktů nebo služeb? Náš tým vám rád pomůže najít správné řešení pro vaše zemědělské potřeby.",
+    "infoTitle": "Kontaktní informace",
+    "formTitle": "Pošlete nám zprávu",
+    "fullName": "Celé jméno",
+    "fullNamePlaceholder": "Jan Novák",
+    "emailAddress": "E-mailová adresa",
+    "emailPlaceholder": "jan@priklad.cz",
+    "phoneNumber": "Telefonní číslo",
+    "phonePlaceholder": "+420 123 456 789",
+    "companyName": "Firma / Název farmy",
+    "companyPlaceholder": "Vaše společnost",
+    "subject": "Předmět",
+    "subjectPlaceholder": "Vyberte předmět",
+    "subjectOptions": {
+      "productInquiry": "Dotaz na produkt",
+      "quoteRequest": "Žádost o nabídku",
+      "training": "Školicí programy",
+      "support": "Technická podpora",
+      "partnership": "Partnerská příležitost",
+      "other": "Jiné"
+    },
+    "message": "Zpráva",
+    "messagePlaceholder": "Sdělte nám, jak vám můžeme pomoci...",
+    "sendMessage": "Odeslat zprávu",
+    "sending": "Odesílání...",
+    "successTitle": "Zpráva odeslána!",
+    "successMessage": "Děkujeme za kontakt. Náš tým odpoví na vaši zprávu co nejdříve.",
+    "errorTitle": "Chyba při odesílání",
+    "errorMessage": "Omlouváme se, při odesílání vaší zprávy došlo k problému. Zkuste to prosím znovu nebo nás kontaktujte přímo.",
+    "salesSpecialist": "Obchodní specialista",
+    "ceo": "Generální ředitel",
+    "addressValue": "ul. Smolna 14\n44-200 Rybnik\nPolsko"
+  },
+  "resources": {
+    "badge": "Zdroje",
+    "title": "Učte se a objevujte",
+    "description": "Přístup k video tutoriálům a technické dokumentaci pro maximální využití vašich produktů XAG.",
+    "recentUpdates": "Poslední aktualizace",
+    "viewAll": "Zobrazit vše",
+    "items": {
+      "videos": {
+        "title": "Videa a návody",
+        "description": "Produktová dema a návody",
+        "image": "/images/videos/p150-max-overview.jpg",
+        "href": "/videos-tutorials",
+        "count": "50+ videí"
+      },
+      "downloads": {
+        "title": "Centrum stahování",
+        "description": "Manuály, technické specifikace a průvodce",
+        "image": "/images/products/p150-max/thumbnail.webp",
+        "href": "/download-center",
+        "count": "Dokumenty"
+      }
+    }
+  },
+  "videosTutorials": {
+    "badge": "Zdroje",
+    "title": "Videa a návody",
+    "description": "Sledujte produktové demonstrace, praktické tutoriály a naučte se optimalizovat zemědělské operace s drony XAG.",
+    "all": "Vše",
+    "product": "Produkt",
+    "tutorial": "Návod",
+    "watchNow": "Sledovat nyní",
+    "videos": {
+      "p150Overview": {
+        "title": "Přehled produktu P150 Max",
+        "description": "Objevte funkce a schopnosti zemědělského dronu XAG P150 Max.",
+        "duration": "5:32",
+        "category": "Produkt"
+      },
+      "calibration": {
+        "title": "Jak kalibrovat váš dron XAG",
+        "description": "Podrobný průvodce kalibrací dronu XAG pro optimální výkon.",
+        "duration": "8:15",
+        "category": "Návod"
+      },
+      "spraying": {
+        "title": "Přesné postřiky - osvědčené postupy",
+        "description": "Naučte se techniky pro optimální pokrytí postřiku a efektivitu.",
+        "duration": "12:45",
+        "category": "Návod"
+      },
+      "r150Action": {
+        "title": "Pozemní robot R150 v akci",
+        "description": "Podívejte se na autonomní pozemní postřikovač R150 při práci ve vinici.",
+        "duration": "4:20",
+        "category": "Produkt"
+      },
+      "cloudSetup": {
+        "title": "Nastavení XAG Agriculture Cloud",
+        "description": "Jak nastavit a používat platformu XAG Agriculture Cloud.",
+        "duration": "10:30",
+        "category": "Návod"
+      },
+      "maintenance": {
+        "title": "Základní údržba dronu",
+        "description": "Základní průvodce pravidelnou údržbou zemědělského dronu XAG.",
+        "duration": "6:15",
+        "category": "Návod"
+      }
+    }
+  },
+  "xagCareExpress": {
+    "badge": "Podpora",
+    "title": "XAG Care Express",
+    "description": "Prémiová podpora a údržbové služby pro udržení vašeho zařízení XAG ve špičkovém stavu.",
+    "services": {
+      "badge": "Naše služby",
+      "title": "Co je zahrnuto",
+      "priorityRepairs": {
+        "title": "Prioritní opravy",
+        "description": "Rychlá oprava s přednostním zpracováním pro minimální prostoje."
+      },
+      "genuineParts": {
+        "title": "Originální díly",
+        "description": "Pouze autentické komponenty XAG pro všechny opravy a náhrady."
+      },
+      "expertTechnicians": {
+        "title": "Odborní technici",
+        "description": "Továrně školení technici s rozsáhlými znalostmi produktů XAG."
+      },
+      "extendedWarranty": {
+        "title": "Prodloužená záruka",
+        "description": "Volitelné prodloužené záruční krytí pro větší klid."
+      }
+    },
+    "plans": {
+      "badge": "Ceník",
+      "title": "Vyberte si svůj plán",
+      "mostPopular": "Nejoblíbenější",
+      "getStarted": "Začít",
+      "perYear": "/rok",
+      "basic": {
+        "name": "Basic Care",
+        "price": "700 €",
+        "features": {
+          "priority": "Standardní priorita oprav",
+          "discount": "10% sleva na díly",
+          "support": "Telefonická podpora",
+          "check": "Roční kontrola stavu"
+        }
+      },
+      "plus": {
+        "name": "Care Plus",
+        "price": "1 000 €",
+        "features": {
+          "priority": "Prioritní opravná služba",
+          "discount": "20% sleva na díly",
+          "support": "Telefonická a e-mailová podpora",
+          "check": "Pololetní kontrola stavu",
+          "firmware": "Bezplatné aktualizace firmware",
+          "loaner": "Náhradní dron k dispozici"
+        }
+      },
+      "premium": {
+        "name": "Care Premium",
+        "price": "2 000 €",
+        "features": {
+          "priority": "Expresní opravná služba",
+          "discount": "30% sleva na díly",
+          "support": "24/7 vyhrazená podpora",
+          "check": "Čtvrtletní kontrola stavu",
+          "firmware": "Bezplatné aktualizace firmware",
+          "loaner": "Garantovaný náhradní dron",
+          "onsite": "Návštěva technika na místě"
+        }
+      }
+    },
+    "cta": {
+      "title": "Potřebujete okamžitou podporu?",
+      "description": "Kontaktujte náš tým podpory pro urgentní opravy nebo technickou pomoc.",
+      "requestRepair": "Požádat o opravu",
+      "contactSupport": "Kontaktovat podporu"
+    }
+  },
+  "fieldOperations": {
+    "badge": "Služby",
+    "title": "Polní operace",
+    "description": "Profesionální postřikové a zemědělské služby prováděné našimi zkušenými operátory. Nechte nás postarat se o ochranu vašich plodin.",
+    "requestQuote": "Požádat o nabídku",
+    "services": {
+      "badge": "Naše služby",
+      "title": "Co nabízíme",
+      "spray": {
+        "title": "Postřik plodin",
+        "description": "Přesná aplikace herbicidů, pesticidů a fungicidů pro všechny typy plodin."
+      },
+      "seed": {
+        "title": "Setí a rozmetání",
+        "description": "Efektivní letecké setí meziplodin a rozmetání granulovaných hnojiv."
+      },
+      "monitor": {
+        "title": "Monitoring plodin",
+        "description": "Letecké průzkumy a NDVI mapování pro identifikaci problémových oblastí."
+      },
+      "custom": {
+        "title": "Individuální řešení",
+        "description": "Dronové služby na míru pro vaše specifické zemědělské potřeby."
+      }
+    },
+    "benefits": {
+      "badge": "Proč my",
+      "title": "Výhody dronových operací",
+      "items": {
+        "chemicals": "Snížení spotřeby chemikálií až o 30%",
+        "coverage": "Pokrytí větší plochy za kratší čas",
+        "terrain": "Přístup k obtížnému terénu a mokrým polím",
+        "damage": "Minimalizace škod na plodinách od pozemních zařízení",
+        "precision": "Přesná aplikace s GPS naváděním",
+        "data": "Data a reporty v reálném čase"
+      }
+    },
+    "process": {
+      "badge": "Jak to funguje",
+      "title": "Náš proces",
+      "step1": {
+        "title": "Kontaktujte nás",
+        "description": "Požádejte o nabídku s údaji o vašem poli"
+      },
+      "step2": {
+        "title": "Posouzení místa",
+        "description": "Vyhodnotíme váš pozemek a potřeby"
+      },
+      "step3": {
+        "title": "Plánování",
+        "description": "Rezervujte si preferovaný termín operace"
+      },
+      "step4": {
+        "title": "Realizace",
+        "description": "Náš tým provede operaci"
+      }
+    },
+    "cta": {
+      "title": "Připraveni začít?",
+      "description": "Kontaktujte nás ještě dnes pro bezplatnou nabídku našich služeb polních operací."
+    }
+  },
+  "downloadCenter": {
+    "badge": "Zdroje",
+    "title": "Centrum stahování",
+    "description": "Přístup k produktovým brožurám, uživatelským manuálům, aktualizacím softwaru a technické dokumentaci.",
+    "documentType": "Typ dokumentu",
+    "product": "Produkt",
+    "all": "Vše",
+    "allProducts": "Všechny produkty",
+    "brochure": "Brožura",
+    "manual": "Manuál",
+    "guide": "Průvodce",
+    "download": "Stáhnout",
+    "app": {
+      "badge": "Mobilní aplikace",
+      "title": "XAG One App",
+      "description": "Kompletní platforma pro řízení zemědělství pro plánování, realizaci a analýzu operací s drony.",
+      "feature1": "AI letové plánování",
+      "feature2": "Monitoring operací v reálném čase",
+      "feature3": "Detailní analýzy a reporty",
+      "feature4": "Správa flotily více dronů",
+      "downloadOn": "Stáhnout na",
+      "getItOn": "Získat na"
+    },
+    "docs": {
+      "badge": "Dokumentace",
+      "title": "Manuály a specifikace",
+      "description": "Stáhněte si uživatelské manuály, technické průvodce a produktové specifikace."
+    },
+    "downloads": {
+      "p150maxManual": {
+        "title": "Uživatelský manuál P150 Max",
+        "description": "Kompletní uživatelský manuál pro zemědělský dron XAG P150 Max 2024.",
+        "type": "Manuál",
+        "fileSize": "32 MB",
+        "format": "PDF",
+        "product": "P150 Max"
+      },
+      "p100proSpecs": {
+        "title": "Technické specifikace P100 Pro",
+        "description": "Kompletní specifikace a přehled funkcí dronu P100 Pro.",
+        "type": "Manuál",
+        "fileSize": "2,5 MB",
+        "format": "PDF",
+        "product": "P100 Pro"
+      },
+      "r150Specs": {
+        "title": "Technické specifikace R150",
+        "description": "Komplexní průvodce specifikacemi pozemního robota R150.",
+        "type": "Manuál",
+        "fileSize": "1,8 MB",
+        "format": "PDF",
+        "product": "R150"
+      },
+      "v40Specs": {
+        "title": "Technické specifikace V40",
+        "description": "Specifikace a funkce zemědělského dronu V40.",
+        "type": "Manuál",
+        "fileSize": "2,1 MB",
+        "format": "PDF",
+        "product": "V40"
+      }
+    }
+  },
+  "training": {
+    "badge": "Školicí programy",
+    "title": "Staňte se certifikovaným pilotem dronu",
+    "description": "Získejte schválené školení a certifikaci pro profesionální provoz zemědělských dronů. Naše komplexní programy pokrývají vše od základních operací po pokročilé postřikové techniky.",
+    "viewPrograms": "Zobrazit programy",
+    "enquireNow": "Dotazovat se nyní",
+    "pilotsTrained": "Pilotů dronů vyškolených celosvětově",
+    "features": {
+      "certified": {
+        "title": "Oficiální certifikace",
+        "subtitle": "Uznávaná certifikace"
+      },
+      "handsOn": {
+        "title": "Praktické školení",
+        "subtitle": "Praktické zkušenosti"
+      },
+      "experts": {
+        "title": "Odborní instruktoři",
+        "subtitle": "Profesionálové z oboru"
+      },
+      "nationwide": {
+        "title": "Celostátně",
+        "subtitle": "Lokality po celém Polsku"
+      }
+    }
+  },
+  "support": {
+    "badge": "Zákaznická podpora",
+    "title": "Jsme tu pro vás",
+    "description": "Náš oddaný tým podpory je připraven pomoci vám s jakýmikoli otázkami, technickými problémy nebo servisními požadavky. Získejte pomoc, kterou potřebujete pro hladký chod vašich operací.",
+    "contactSupport": "Kontaktovat podporu",
+    "email": "E-mail",
+    "items": {
+      "technical": {
+        "title": "Technická podpora",
+        "description": "Odborná pomoc pro všechny produkty XAG"
+      },
+      "docs": {
+        "title": "Dokumentace",
+        "description": "Manuály, průvodce a zdroje"
+      },
+      "warranty": {
+        "title": "Záruční servis",
+        "description": "Krytí a podpora reklamací"
+      },
+      "repair": {
+        "title": "Opravná služba",
+        "description": "Rychlé opravy s originálními díly"
+      }
+    }
+  },
+  "partsCatalog": {
+    "home": "Domů",
+    "spareParts": "Náhradní díly",
+    "heroDescription": "Najděte správné náhradní díly pro váš dron. Procházejte náš kompletní katalog originálních náhradních dílů a příslušenství XAG.",
+    "selectCategory": "Vyberte kategorii",
+    "selectCategoryDescription": "Vyberte skupinu komponent pro zobrazení dostupných dílů"
+  },
+  "footer": {
+    "description": "XAG IMEGA poskytuje širokou škálu zemědělských dronů pro optimalizaci zemědělských operací a zvýšení výnosů plodin.",
+    "products": "Produkty",
+    "resources": "Zdroje",
+    "company": "Společnost",
+    "support": "Podpora",
+    "privacyPolicy": "Zásady ochrany osobních údajů",
+    "termsOfUse": "Podmínky použití",
+    "copyright": "© 2026 XAG IMEGA Poland. Všechna práva vyhrazena."
+  },
+  "whyChoose": {
+    "badge": "Proč XAG",
+    "title": "Proč zvolit XAG Polsko",
+    "description": "Jsme odhodláni dodávat nejlepší řešení zemědělských dronů s bezkonkurenční podporou a odborností.",
+    "items": {
+      "technology": {
+        "title": "Špičková technologie",
+        "description": "Průmyslově vedoucí 4D obrazový radar a AI autonomní systémy"
+      },
+      "support": {
+        "title": "Místní podpora",
+        "description": "Technická podpora se sídlem v Polsku a celostátní servisní síť"
+      },
+      "training": {
+        "title": "Profesionální školení",
+        "description": "Certifikované školicí programy a certifikační kurzy"
+      },
+      "efficiency": {
+        "title": "Maximální efektivita",
+        "description": "Pokrytí větší plochy za kratší čas s přesnou aplikací"
+      },
+      "sustainability": {
+        "title": "Udržitelné zemědělství",
+        "description": "Snížení spotřeby chemikálií a dopadu na životní prostředí"
+      },
+      "warranty": {
+        "title": "Komplexní záruka",
+        "description": "Rozšířené záruční možnosti a podpora XAG Care Express"
+      }
+    }
+  },
+  "products": {
+    "specifications": "Specifikace",
+    "features": "Funkce",
+    "payloadCapacity": "Nosnost",
+    "maxSprayWidth": "Max. šířka postřiku",
+    "flightTime": "Doba letu",
+    "tankVolume": "Objem nádrže",
+    "workingWidth": "Pracovní šířka",
+    "operatingTime": "Provozní doba",
+    "speed": "Rychlost"
+  },
+  "p100pro": {
+    "badge": "Zemědělský UAS",
+    "title": "XAG P100 Pro",
+    "description": "Ultimátní precizní zemědělský dron s pokročilými postřikovými a rozmetacími schopnostmi pro farmy.",
+    "requestQuote": "Požádat o nabídku",
+    "viewSpecs": "Zobrazit specifikace",
+    "specs": {
+      "badge": "Výkon",
+      "title": "Klíčové specifikace",
+      "description": "Postaveno pro náročné zemědělské operace s přesností a spolehlivostí",
+      "maxPayload": "Max. nosnost",
+      "maxPayloadDesc": "Průmyslově vedoucí kapacita",
+      "maxSpeed": "Max. rychlost",
+      "maxSpeedDesc": "Rychlé pokrytí pole",
+      "atomization": "Atomizace",
+      "atomizationDesc": "Ultrajemná velikost kapek",
+      "protection": "Ochrana",
+      "protectionDesc": "Celopočasový provoz"
+    },
+    "fieldPerformance": {
+      "badge": "Polní výkon",
+      "title": "Transformujte své operace",
+      "description": "Porovnejte tradiční metody s přesným zemědělstvím XAG",
+      "sprayingEfficiency": "Efektivita postřiku",
+      "chemicalSavings": "Úspora chemikálií",
+      "coveragePrecision": "Přesnost pokrytí",
+      "drone": "XAG P100 Pro",
+      "traditional": "Tradiční",
+      "hectaresHour": "20+ hektarů/hodina",
+      "hectaresHourTraditional": "2-3 hektary/hodina",
+      "faster": "10x rychlejší",
+      "reduction": "30% snížení",
+      "standardUsage": "Standardní spotřeba",
+      "costEffective": "Nákladově efektivní",
+      "accuracy": "±2cm přesnost",
+      "variableCoverage": "Proměnlivé pokrytí",
+      "gpsGuided": "GPS naváděný"
+    },
+    "revospray": {
+      "badge": "Postřikový systém",
+      "title": "RevoSpray P3",
+      "description": "Revoluční odstředivý postřikový systém s inteligentním řízením průtoku. Dosáhněte rovnoměrného pokrytí s ultrajemnou atomizací až 500µm velikost kapek.",
+      "features": {
+        "flowRate": "24L/min maximální průtok",
+        "sprayDiscs": "8 nezávislých postřikových disků",
+        "variableRate": "AI variabilní dávkování",
+        "antiDrift": "Anti-drift technologie"
+      }
+    },
+    "revocast": {
+      "badge": "Rozmetací systém",
+      "title": "RevoCast P3",
+      "description": "Vysokokapacitní rozmetací systém pro granulovaná hnojiva a osiva. Přesná distribuce s nastavitelnou šířkou rozmetání až 7 metrů.",
+      "features": {
+        "hopper": "50kg kapacita zásobníku",
+        "spreadWidth": "7m šířka rozmetání",
+        "variableRate": "Variabilní dávkování",
+        "compatible": "Kompatibilní s osivy a hnojivy"
+      }
+    },
+    "radar": {
+      "badge": "Vyhýbání překážkám",
+      "title": "4D obrazový radar",
+      "description": "Radarová technologie nové generace pro inteligentní detekci překážek a sledování terénu",
+      "detection360": "360° detekce",
+      "detection360Desc": "Plná všesměrová detekce překážek",
+      "range50m": "50m dosah",
+      "range50mDesc": "Detekce na dlouhou vzdálenost pro včasné vyhnutí",
+      "allWeather": "Celopočasový",
+      "allWeatherDesc": "Funguje v prachu, mlze a špatném osvětlení",
+      "terrainFollowing": "Sledování terénu",
+      "terrainFollowingDesc": "Adaptivní řízení výšky nad nerovným terénem"
+    },
+    "superx": {
+      "badge": "Řízení letu",
+      "title": "SuperX 4 Pro",
+      "description": "Pokročilý systém řízení letu s trojitou redundancí a AI autonomními schopnostmi. Navrženo pro spolehlivé zemědělské operace.",
+      "dualIMU": "Duální IMU",
+      "dualIMUDesc": "Redundantní letové senzory",
+      "rtkGPS": "RTK GPS",
+      "rtkGPSDesc": "Centimetrová přesnost polohování",
+      "aiCore": "AI jádro",
+      "aiCoreDesc": "Inteligentní plánování letu",
+      "fiveGReady": "5G připraveno",
+      "fiveGReadyDesc": "Vysokorychlostní přenos dat"
+    },
+    "remote": {
+      "badge": "Dálkové ovládání",
+      "title": "ARC3 Pro",
+      "description": "Zažijte pohodlí lehkého dálkového ovladače navrženého pro snížení zátěže pilota během dlouhých operací. ARC3 Pro je kompaktní, odolný a má prodlouženou výdrž baterie - perfektní společník pro zemědělské úkoly.",
+      "controlRange": "Dosah ovládání",
+      "hdDisplay": "HD displej",
+      "dustWater": "Prach a voda",
+      "batteryLife": "Výdrž baterie"
+    },
+    "power": {
+      "badge": "Energetický systém",
+      "title": "Inteligentní správa energie",
+      "description": "Systém rychlé výměny baterií s inteligentním nabíjením pro nepřetržitý provoz",
+      "capacity": "Kapacita",
+      "voltage": "Napětí",
+      "flightTime": "Doba letu",
+      "b100Battery": "Baterie B100",
+      "b150Battery": "Baterie B150"
+    },
+    "positioning": {
+      "badge": "Navigace",
+      "title": "Režimy polohování",
+      "description": "Více možností polohování pro jakékoli prostředí",
+      "mode": "Režim",
+      "accuracy": "Přesnost",
+      "descriptionCol": "Popis",
+      "rtk": "RTK",
+      "rtkDesc": "Kinematika v reálném čase pro maximální přesnost",
+      "gnss": "GNSS",
+      "gnssDesc": "Standardní GPS polohování",
+      "vision": "Vision",
+      "visionDesc": "Vizuální systém polohování pro oblasti bez GPS"
+    },
+    "dayNight": {
+      "badge": "Provoz 24/7",
+      "title": "Denní a noční schopnost",
+      "description": "Výkonné LED osvětlení a pokročilé senzory umožňují nepřetržitý provoz",
+      "dayMode": "Denní režim",
+      "nightMode": "Noční režim"
+    },
+    "app": {
+      "badge": "Chytré zemědělství",
+      "title": "XAG One App",
+      "description": "Kompletní platforma pro řízení farmy pro plánování, realizaci a analýzu operací s drony.",
+      "features": {
+        "aiPlanning": "AI plánování letu",
+        "realTimeMonitoring": "Monitoring operací v reálném čase",
+        "analytics": "Detailní analýzy a reporty",
+        "fleetManagement": "Správa flotily více dronů"
+      },
+      "appStore": "App Store",
+      "googlePlay": "Google Play"
+    },
+    "contact": {
+      "badge": "Kontakt",
+      "title": "Připraveni transformovat vaši farmu?",
+      "description": "Kontaktujte náš tým a zjistěte více o P100 Pro a jak může revolucionizovat vaše zemědělské operace.",
+      "callUs": "Zavolejte nám",
+      "emailUs": "Napište nám",
+      "form": {
+        "name": "Jméno *",
+        "email": "E-mail *",
+        "phone": "Telefon",
+        "company": "Společnost",
+        "message": "Zpráva *",
+        "messagePlaceholder": "Řekněte nám o vašich zemědělských potřebách...",
+        "submit": "Odeslat poptávku"
+      }
+    }
+  },
+  "p150max": {
+    "badge": "Zemědělský UAS",
+    "title": "XAG P150 Max",
+    "tagline": "Leťte Max. Výkon na maximum.",
+    "description": "Zemědělský dron pro jednoho operátora podporující mapování polí, postřik, rozmetání a logistiku s nosností 80kg.",
+    "orderNow": "Objednat nyní",
+    "viewSpecs": "Zobrazit specifikace",
+    "downloads": "Ke stažení",
+    "specs": {
+      "badge": "Výkon",
+      "title": "Základní specifikace",
+      "description": "Průmyslově vedoucí výkon pro náročné zemědělské operace",
+      "sprayingTank": "Postřiková nádrž",
+      "sprayingTankDesc": "Maximální kapacita",
+      "maxFlowRate": "Max. průtok",
+      "maxFlowRateDesc": "Postřikový výkon",
+      "spreadingTank": "Rozmetací nádrž",
+      "spreadingTankDesc": "Zásobník granulí",
+      "spreadRate": "Rychlost rozmetání",
+      "spreadRateDesc": "Maximální výkon",
+      "liftingCapacity": "Nosnost",
+      "liftingCapacityDesc": "Kapacita nákladu",
+      "coverageFlight": "Pokrytí/let",
+      "coverageFlightDesc": "Na cyklus baterie",
+      "maxSpeed": "Max. rychlost",
+      "maxSpeedDesc": "Provozní rychlost",
+      "bodyWeight": "Hmotnost těla",
+      "bodyWeightDesc": "Hmotnost dronu"
+    },
+    "revospray": {
+      "badge": "Postřikový systém",
+      "title": "RevoSpray P5",
+      "description": "Pokročilý odstředivý postřikový systém s inteligentním řízením průtoku. Rozšiřitelný na 46 L/min průtok se sadou čtyř trysek pro maximální efektivitu pokrytí.",
+      "features": {
+        "tankCapacity": "80L kapacita nádrže s průtokem 46 L/min",
+        "dropletSize": "Velikost kapek: 60-500 μm",
+        "sprayWidth": "Šířka postřiku: 5-10 metrů",
+        "impellerPumps": "Flexibilní lopatkové čerpadla s životností 300+ hodin",
+        "centrifugalNozzle": "Inteligentní systém odstředivých trysek",
+        "smartTank": "Chytrá nádrž s kapilárním pneumatickým senzorem"
+      }
+    },
+    "revocast": {
+      "badge": "Rozmetací systém",
+      "title": "RevoCast P5",
+      "description": "Vysokokapacitní rozmetací systém s vertikální vlnovou technologií pro přesnou distribuci granulí osiv, hnojiv a prášků.",
+      "features": {
+        "granuleContainer": "115L kapacita zásobníku granulí",
+        "maxSpreadRate": "300 kg/min maximální rychlost rozmetání",
+        "spreadWidth": "9 metrů šířka rozmetání",
+        "waving": "Vertikální vlnová rozmetací technologie",
+        "feeders": "Tři vyměnitelné šnekové podavače (velký, střední, malý)",
+        "compatible": "Kompatibilní s osivy, hnojivy a prášky"
+      }
+    },
+    "revosling": {
+      "badge": "Polní logistika",
+      "title": "RevoSling",
+      "description": "Proměňte svůj P150 Max v logistické zařízení s nosností 80kg pro přepravu zásob, vybavení a materiálů po vaší farmě.",
+      "payloadCapacity": "Nosnost",
+      "maxFlightSpeed": "Max. rychlost letu",
+      "features": {
+        "securityLock": "Bezpečnostní zámkový systém",
+        "remoteControl": "Dálkové ovládání přes SRC 5",
+        "abRoute": "A/B automatizace trasy",
+        "liveWeighing": "Živé vážení za letu"
+      }
+    },
+    "obstacleAvoidance": {
+      "badge": "Bezpečnost na prvním místě",
+      "title": "Vyhýbání překážkám a bezpečnost",
+      "description": "Pokročilá senzorová technologie pro bezpečný autonomní provoz v komplexním prostředí",
+      "features": {
+        "radar": "4D obrazový radar",
+        "radarDesc": "Detekce překážek 1,5-100 metrů daleko",
+        "aiVision": "AI Vision",
+        "aiVisionDesc": "3D AR markery v reálném čase",
+        "terrainFollowing": "Sledování terénu",
+        "terrainFollowingDesc": "Není třeba přednahrávat mapy",
+        "fpv": "Širokoúhlý FPV",
+        "fpvDesc": "Integrovaná kamera pro plný přehled"
+      }
+    },
+    "controlSystems": {
+      "badge": "Řízení a přenos",
+      "title": "Inteligentní řídicí systémy",
+      "src5": {
+        "name": "SRC5 dálkový ovladač",
+        "features": {
+          "xlink": "Integrovaný XLink HD přenos (dosah až 2 km)",
+          "fpv": "Ultra širokoúhlý FPV pohled s AR překryvy",
+          "oneClick": "Jedním kliknutím autonomní pracovní postup"
+        }
+      },
+      "xrtk7": {
+        "name": "XRTK7 (volitelné)",
+        "features": {
+          "accuracy": "Centimetrová přesnost RTK",
+          "onePress": "Aktivace základnové stanice jedním stiskem",
+          "relay": "Vestavěný relé pro vysoké plodiny/sady"
+        }
+      },
+      "superx4": {
+        "name": "SuperX 4 Pro",
+        "subtitle": "Inteligentní řídicí systém",
+        "processor": "Procesor",
+        "communication": "Komunikace",
+        "imu": "IMU",
+        "positioning": "Polohování",
+        "description": "Pokročilé řízení letu s AI predikcí poruch pro spolehlivý autonomní provoz.",
+        "features": {
+          "processor": "1 GHz nezávislý procesor",
+          "dualLink": "Dual-link komunikace",
+          "imu": "3× IMU + AI predikce poruch",
+          "dualAntenna": "Dvouanténní RTK polohování"
+        }
+      }
+    },
+    "workflow": {
+      "badge": "Jednoduchý pracovní postup",
+      "title": "Nastavení ve 4 snadných krocích",
+      "step1": {
+        "number": "01",
+        "title": "Rychlé spárování zařízení",
+        "description": "Jednoduchý proces párování dotykem"
+      },
+      "step2": {
+        "number": "02",
+        "title": "Snadné plánování pole",
+        "description": "K dispozici více metod mapování"
+      },
+      "step3": {
+        "number": "03",
+        "title": "Provoz jedním kliknutím",
+        "description": "Plně autonomní realizace letu"
+      },
+      "step4": {
+        "number": "04",
+        "title": "Chytrý návrat domů",
+        "description": "Automatický návrat při dosažení prahových hodnot"
+      }
+    },
+    "autonomous": {
+      "badge": "Autonomní let",
+      "title": "Inteligentní schopnosti",
+      "description": "Pokročilé autonomní funkce pro efektivní a přesné operace",
+      "features": {
+        "fieldMapping": "Mapování pole",
+        "fieldMappingDesc": "HD snímky spojené po letu s AI detekcí překážek",
+        "routePlanning": "Inteligentní plánování trasy",
+        "routePlanningDesc": "Automaticky generované trasy se spirálovými cestami od obvodu ke středu",
+        "safetyModes": "Bezpečnostní režimy",
+        "safetyModesDesc": "Režim bezpečnostního bodu a zóny pro řízený vstup/výstup",
+        "multiField": "Provoz více polí",
+        "multiFieldDesc": "Naplánujte až 10 polí v jednom pracovním postupu",
+        "swarm": "Rojový provoz",
+        "swarmDesc": "Jeden ovladač spravuje dva drony současně",
+        "variableRate": "Variabilní dávkování",
+        "variableRateDesc": "Inteligentní optimalizace pro každou zónu pole"
+      }
+    },
+    "power": {
+      "badge": "Energetický systém",
+      "title": "B141050 chytrá baterie",
+      "capacity": "Wh kapacita",
+      "weight": "kg hmotnost",
+      "cycleWarranty": "Záruka na cykly",
+      "chargingOptions": "Možnosti nabíjení",
+      "chargers": {
+        "cm13600s": {
+          "name": "CM13600S",
+          "type": "AC vstup, 3400W",
+          "time": "~12 min (30-95%)"
+        },
+        "cm15300d": {
+          "name": "CM15300D",
+          "type": "DC vstup, 72V+",
+          "time": "Rychlé nabíjení"
+        },
+        "parallel": {
+          "name": "Paralelní sada",
+          "type": "AC, 6800W",
+          "time": "~7 min (30-95%)"
+        },
+        "cooling": {
+          "name": "Chladicí věž",
+          "type": "Nepřetržitý",
+          "time": "6-8 hodin provozu"
+        }
+      }
+    },
+    "testimonials": {
+      "badge": "Příběhy zákazníků",
+      "title": "Důvěřují nám farmáři"
+    },
+    "contact": {
+      "badge": "Kontakt",
+      "title": "Připraveni maximalizovat potenciál vaší farmy?",
+      "description": "Kontaktujte náš tým a zjistěte více o P150 Max a jak může transformovat vaše zemědělské operace.",
+      "salesSpecialist": "Obchodní specialista",
+      "ceo": "Generální ředitel",
+      "form": {
+        "name": "Jméno *",
+        "email": "E-mail *",
+        "phone": "Telefon",
+        "company": "Společnost",
+        "message": "Zpráva *",
+        "messagePlaceholder": "Řekněte nám o vašich zemědělských potřebách...",
+        "submit": "Odeslat poptávku"
+      }
+    }
+  },
+  "apc2": {
+    "badge": "Autopilotní konzole",
+    "title": "XAG APC2",
+    "tagline": "Navigujte s přesností",
+    "description": "Automatizované řídicí řešení pro bezruční zemědělský provoz. Umožňuje zemědělským strojům jako traktory a kombajny pracovat s centimetrovou přesností polohování.",
+    "orderNow": "Objednat nyní",
+    "viewSpecs": "Zobrazit specifikace",
+    "downloads": "Ke stažení",
+    "features": {
+      "badge": "Klíčové vlastnosti",
+      "title": "Proč zvolit APC2",
+      "description": "Pokročilá autopilotní technologie pro přesné zemědělství",
+      "allInOne": "All-in-one design",
+      "allInOneDesc": "Instalace za cca 20 minut s minimálním nastavením",
+      "highPrecision": "Vysoká přesnost",
+      "highPrecisionDesc": "±2,5 cm přesnost polohování pro precizní operace",
+      "dualPositioning": "Duální polohování",
+      "dualPositioningDesc": "Podporuje RTK i PPP korekční signály",
+      "advancedGuidance": "Pokročilé navádění",
+      "advancedGuidanceDesc": "Více režimů naváděcích linií pro různé podmínky pole",
+      "mobileControl": "Mobilní ovládání",
+      "mobileControlDesc": "Aplikace pro smartphone umožňuje plánování a provoz",
+      "wideCompatibility": "Široká kompatibilita",
+      "wideCompatibilityDesc": "Funguje s více značkami/modely zemědělských strojů",
+      "offlineOperation": "Offline provoz",
+      "offlineOperationDesc": "Funguje bez sítě přes mobilní základnovou stanici",
+      "otaUpdates": "OTA aktualizace",
+      "otaUpdatesDesc": "Aktualizace firmware přes vzduch pro nové funkce"
+    },
+    "variants": {
+      "badge": "Varianty systému",
+      "title": "Vyberte si konfiguraci",
+      "description": "Dvě systémové možnosti pro různé potřeby",
+      "standard": {
+        "name": "APC2 Standard",
+        "description": "Automatizovaný volant s pádlovými ovladači",
+        "feature1": "Automatizovaná náhrada volantu",
+        "feature2": "Pádlové ovladače pro snadnou obsluhu",
+        "feature3": "Minimální údržba (intervaly 1000+ hodin)",
+        "feature4": "Integrovaný displej a ovládání"
+      },
+      "flex": {
+        "name": "APC2 Flex",
+        "description": "Pohon řídicího motoru zachovává původní volant",
+        "feature1": "Zachovává původní volant",
+        "feature2": "Tlačítkové ovládání na volantu",
+        "feature3": "Kompaktní design rychlé instalace",
+        "feature4": "Vhodné pro různé typy strojů"
+      }
+    },
+    "specs": {
+      "badge": "Specifikace",
+      "title": "Technické detaily",
+      "description": "Průmyslově vedoucí přesnost a kompatibilita",
+      "accuracy": "Přesnost polohování",
+      "accuracyValue": "±2,5 cm",
+      "guidanceModes": "Režimy navádění",
+      "guidanceModesValue": "5 režimů",
+      "positioning": "Metody polohování",
+      "positioningValue": "RTK/PPP/CORS",
+      "installation": "Doba instalace",
+      "installationValue": "~20 min"
+    },
+    "guidance": {
+      "badge": "Naváděcí systém",
+      "title": "Více režimů navádění",
+      "description": "Flexibilní plánování trasy pro všechny typy polí",
+      "modes": {
+        "abStraight": "AB přímka",
+        "abStraightDesc": "Standardní paralelní průjezdy pro obdélníková pole",
+        "abCurve": "AB křivka",
+        "abCurveDesc": "Sledování obrysů pro nerovný terén",
+        "abEquidistant": "AB ekvidistantní křivka",
+        "abEquidistantDesc": "Udržování konstantního rozestupu v zatáčkách",
+        "drillSeeding": "Secí řádky",
+        "drillSeedingDesc": "Optimalizováno pro přesné secí operace",
+        "diagonalHarrowing": "Diagonální vláčení",
+        "diagonalHarrowingDesc": "Křížový vzor pro důkladnou přípravu půdy"
+      }
+    },
+    "compatibility": {
+      "badge": "Kompatibilita",
+      "title": "Funguje s vaším vybavením",
+      "description": "Kompatibilní se širokou škálou zemědělských strojů",
+      "riceTransplanters": "Sázečky rýže",
+      "tractors": "Traktory",
+      "sprayers": "Postřikovače",
+      "harvesters": "Kombajny",
+      "paddyFields": "Rýžová pole",
+      "dryFields": "Suchá pole",
+      "mountainTerrain": "Horský terén"
+    },
+    "accessories": {
+      "badge": "Volitelné příslušenství",
+      "title": "Rozšiřte svůj systém",
+      "description": "Rozšiřte možnosti kompatibilním příslušenstvím",
+      "xrtk7": {
+        "name": "XRTK7 mobilní stanice",
+        "description": "Přenosná RTK základnová stanice pro oblasti bez pokrytí sítí"
+      },
+      "xre1": {
+        "name": "XRE1 prodlužovač dosahu",
+        "description": "Rozšiřuje komunikační dosah až na 2 km"
+      },
+      "wcp1": {
+        "name": "WCP1 bezdrátový ovládací panel",
+        "description": "Bezdrátové dálkové ovládání pro pohodlnou obsluhu"
+      }
+    },
+    "contact": {
+      "badge": "Kontakt",
+      "title": "Připraveni automatizovat svou farmu?",
+      "description": "Kontaktujte náš tým a zjistěte více o APC2 a jak může transformovat vaše zemědělské operace.",
+      "salesSpecialist": "Obchodní specialista",
+      "ceo": "Generální ředitel",
+      "form": {
+        "name": "Jméno *",
+        "email": "E-mail *",
+        "phone": "Telefon",
+        "company": "Společnost",
+        "message": "Zpráva *",
+        "messagePlaceholder": "Řekněte nám o vašich zemědělských potřebách...",
+        "submit": "Odeslat poptávku"
+      }
+    }
+  },
+  "productsPage": {
+    "badge": "Produkty",
+    "title": "Naše produktová řada",
+    "description": "Objevte naši komplexní řadu zemědělských dronů a autonomních pozemních robotů pro přesné zemědělství.",
+    "airborne": {
+      "badge": "Vzdušné",
+      "title": "Zemědělské drony",
+      "viewAll": "Zobrazit vše"
+    },
+    "landborne": {
+      "badge": "Pozemní",
+      "title": "Pozemní roboty",
+      "viewAll": "Zobrazit vše"
+    },
+    "autopilot": {
+      "badge": "Autopilot",
+      "title": "Autonomní naváděcí systémy",
+      "viewAll": "Zobrazit více"
+    }
+  },
+  "aboutUs": {
+    "badge": "O nás",
+    "title": "Revolucionizace polského zemědělství",
+    "subtitle": "XAG IMEGA Poland je autorizovaný distributor zemědělských dronů XAG v Polsku, oddaný transformaci zemědělství prostřednictvím inovativní technologie.",
+    "stats": {
+      "established": "Založeno",
+      "establishedValue": "2019",
+      "teamMembers": "Členové týmu",
+      "dronesDeployed": "Nasazené drony",
+      "hectaresCovered": "Ošetřené hektary"
+    },
+    "story": {
+      "badge": "Náš příběh",
+      "title": "Průkopníci chytrého zemědělství v Polsku",
+      "p1": "XAG IMEGA Poland zavádí drony, roboty, autopiloty, umělou inteligenci a IoT řešení do zemědělské produkce a vytváří inteligentní ekosystém charakteristický pro Zemědělství 4.0.",
+      "p2": "Naším posláním je učinit zemědělství chytřejším kombinací špičkové dronové technologie s IoT monitorovacími stanicemi, GNSS RTK geoprostorovou inteligencí a cloud computingem.",
+      "p3": "Usilujeme o řešení stárnoucí venkovské populace, ochranu přírodních zdrojů a biodiverzity a zvýšení produktivity při zajištění potravinové bezpečnosti."
+    },
+    "mission": {
+      "badge": "Naše mise",
+      "title": "Produkovat více s méně",
+      "description": "Podle Agendy OSN 2030 trpí celosvětově 821 milionů lidí hladem. S očekávaným nárůstem světové populace na 9 miliard do roku 2050 musí zemědělská produkce vzrůst přibližně o 60%, aby pokryla poptávku. Jsme odhodláni pomáhat farmářům produkovat více potravin s menšími zdroji.",
+      "items": {
+        "foodSecurity": "Globální potravinová bezpečnost",
+        "foodSecurityDesc": "Podpora dlouhodobé potravinové bezpečnosti a péče o životní prostředí",
+        "monitoring": "Monitoring plodin",
+        "monitoringDesc": "Vzdálený monitoring plodin a produkčních procesů prostřednictvím nepřetržitých IoT monitorovacích stanic",
+        "xaiPlatform": "XAI platforma",
+        "xaiPlatformDesc": "Platforma pro výměnu dat propojující inteligentní zařízení XAG a integrující zemědělskou produkci s chytrými technologiemi"
+      }
+    },
+    "values": {
+      "badge": "Naše hodnoty",
+      "title": "Co nás pohání",
+      "innovation": "Inovace",
+      "innovationDesc": "Neustále posouváme hranice zemědělské technologie, abychom dodávali špičková řešení.",
+      "sustainability": "Udržitelnost",
+      "sustainabilityDesc": "Naše řešení přesného zemědělství pomáhají snižovat spotřebu chemikálií a dopad na životní prostředí.",
+      "excellence": "Excelence",
+      "excellenceDesc": "Jsme odhodláni dodávat našim zákazníkům produkty a služby nejvyšší kvality.",
+      "partnership": "Partnerství",
+      "partnershipDesc": "Úzce spolupracujeme s farmáři, abychom pochopili jejich potřeby a poskytli řešení na míru."
+    },
+    "cta": {
+      "title": "Připraveni transformovat svou farmu?",
+      "description": "Kontaktujte náš tým a zjistěte, jak mohou drony XAG optimalizovat vaše zemědělské operace.",
+      "contactUs": "Kontaktujte nás",
+      "viewProducts": "Zobrazit produkty"
+    }
+  },
+  "termsOfUse": {
+    "title": "Podmínky použití",
+    "lastUpdated": "Poslední aktualizace: leden 2026",
+    "general": {
+      "title": "1. Obecná ustanovení",
+      "operator": "Internetový obchod www.imegagroup.pl provozuje společnost IMEGA Sp. z o.o. se sídlem v Rybniku, ul. Smolna 14, 44-200 Rybnik, IČ: PL6423233602, e-mail: biuro@imegagroup.pl.",
+      "scope": "Předmětem podnikání je prodej profesionálních zemědělských platforem, včetně dronů XAG a pozemních robotů.",
+      "customer": "Zákazníkem může být plnoletá fyzická osoba, právnická osoba nebo organizační složka s právní způsobilostí.",
+      "consumer": "Spotřebitel je fyzická osoba, která provádí nákup nesouvisející s profesní činností."
+    },
+    "technical": {
+      "title": "2. Technické požadavky",
+      "requirements": "Pro využívání obchodu je vyžadován přístup k internetu a prohlížeč podporující JavaScript (Chrome, Firefox, Safari, Edge). Minimální rozlišení obrazovky: 1024×768 pixelů.",
+      "prohibited": "Uživatelé nesmí používat stránky nezákonně, porušovat osobní práva ostatních, narušovat funkčnost stránek nebo šířit nezákonný obsah."
+    },
+    "orders": {
+      "title": "3. Zadávání objednávek",
+      "availability": "Objednávky lze zadávat kdykoli prostřednictvím webových stránek.",
+      "process": "Proces objednávky: (1) výběr produktů a množství; (2) výběr způsobu doručení a platby; (3) kontrola souhrnu objednávky; (4) potvrzení objednávky.",
+      "confirmation": "Po obdržení objednávky prodávající elektronicky potvrdí detaily objednávky a ověří dostupnost produktu.",
+      "agreement": "Kupní smlouva je uzavřena mezi zákazníkem a prodávajícím po odeslání potvrzení platby.",
+      "language": "Kupní smlouvy jsou uzavírány v polštině."
+    },
+    "payments": {
+      "title": "4. Platby",
+      "methods": "Přijímané platební metody: bankovní převod, online platba, platba při doručení."
+    },
+    "delivery": {
+      "title": "5. Doručení",
+      "options": "Dodáváme zboží po celém Polsku a Evropské unii prostřednictvím kurýrních společností.",
+      "time": "Doba doručení závisí na dostupnosti produktu a obvykle činí 2-7 pracovních dnů."
+    },
+    "withdrawal": {
+      "title": "6. Právo na odstoupení",
+      "period": "Spotřebitelé mají právo odstoupit od smlouvy uzavřené na dálku do 14 dnů bez udání důvodu.",
+      "deadline": "Pro dodržení lhůty stačí odeslat písemné prohlášení o odstoupení před uplynutím lhůty.",
+      "start": "Lhůta pro odstoupení začíná dnem, kdy zákazník obdrží zboží."
+    },
+    "complaints": {
+      "title": "7. Reklamace",
+      "liability": "Prodávající je povinen dodat zboží bez vad.",
+      "warranty": "Prodávající odpovídá za fyzické a právní vady zboží v souladu s občanským zákoníkem.",
+      "filing": "Reklamace lze podat jakoukoli formou srozumitelnou prodávajícímu. Musí být uvedeny vady a požadavky zákazníka.",
+      "period": "Zákazník by měl vadu nahlásit do jednoho roku od jejího zjištění (pokud byla zjištěna do dvou let od doručení).",
+      "resolution": "Prodávající vyřizuje reklamace do 14 dnů od obdržení."
+    },
+    "guarantee": {
+      "title": "8. Záruka kvality",
+      "period": "Prodávající zaručuje funkčnost produktu po dobu jednoho roku od obdržení, není-li v popisu produktu uvedeno jinak.",
+      "scope": "Záruka pokrývá pouze výrobní vady a platí na území Polska a EU.",
+      "exclusions": "Záruka se nevztahuje na nesprávnou instalaci, zneužití, zanedbání nebo běžné opotřebení.",
+      "remedies": "Možnosti nápravy zahrnují: opravu, výměnu (pokud oprava není možná) nebo snížení ceny/vrácení peněz (pokud výměna není možná)."
+    },
+    "dataProtection": {
+      "title": "9. Ochrana osobních údajů",
+      "handling": "Provozovatel zpracovává údaje zákazníků v souladu s polským zákonem o ochraně osobních údajů a zákonem o elektronických službách.",
+      "policy": "Podrobná pravidla zpracování osobních údajů a cookies jsou stanovena v Zásadách ochrany osobních údajů."
+    },
+    "final": {
+      "title": "10. Závěrečná ustanovení",
+      "disputes": "Spory mezi provozovatelem a spotřebiteli se řeší v souladu s platnými právními předpisy.",
+      "alternative": "Spotřebitelé mohou využít mimosoudní postupy vyřizování stížností prostřednictvím: http://www.uokik.gov.pl, http://www.rzu.gov.pl nebo regionálních úřadů na ochranu spotřebitele.",
+      "business": "Spory mimo spotřebitelské vztahy se řeší před soudy příslušnými pro sídlo prodávajícího.",
+      "law": "Na záležitosti neupravené těmito podmínkami se vztahuje polské právo.",
+      "compliance": "Tyto podmínky neomezují práva zákazníků podle platných právních předpisů."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "intro": "V případě dotazů nás prosím kontaktujte:",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "address": "Adresa"
+    }
+  },
+  "privacyPolicy": {
+    "title": "Zásady ochrany osobních údajů",
+    "lastUpdated": "Poslední aktualizace: leden 2026",
+    "administrator": {
+      "title": "Správce údajů",
+      "content": "Správcem vašich osobních údajů je společnost IMEGA Sp. z o.o. se sídlem v Rybniku, ul. Smolna 14, 44-200 Rybnik, IČ: 6423233602."
+    },
+    "dataCollection": {
+      "title": "1. Údaje, které shromažďujeme",
+      "intro": "Můžeme shromažďovat následující osobní údaje:",
+      "items": {
+        "personal": "Jméno, adresa, e-mailová adresa, telefonní číslo",
+        "company": "Název společnosti a obchodní údaje",
+        "technical": "IP adresa, typ prohlížeče, informace o zařízení",
+        "usage": "Navštívené stránky a čas strávený na webu"
+      }
+    },
+    "purpose": {
+      "title": "2. Účel zpracování údajů",
+      "intro": "Vaše údaje zpracováváme pro následující účely:",
+      "items": {
+        "services": "Poskytování služeb a správa účtu",
+        "newsletter": "Zasílání newsletteru s obchodními informacemi",
+        "orders": "Plnění objednávek",
+        "complaints": "Vyřizování reklamací a vrácení",
+        "inquiries": "Odpovídání na dotazy zákazníků",
+        "marketing": "Přímý marketing",
+        "legal": "Plnění zákonných povinností (účetnictví, daňové požadavky)",
+        "legitimate": "Oprávněné obchodní zájmy"
+      }
+    },
+    "retention": {
+      "title": "3. Doba uchovávání údajů",
+      "content": "Údaje jsou uchovávány po celou dobu smluvního vztahu a dobu zákonné povinnosti, nebo do odvolání souhlasu či formální námitky."
+    },
+    "profiling": {
+      "title": "4. Profilování",
+      "content": "Web používá automatickou personalizaci obsahu na základě chování uživatele pro doporučení relevantních produktů. To nemá právně závazné účinky."
+    },
+    "recipients": {
+      "title": "5. Příjemci údajů",
+      "intro": "Vaše údaje mohou být sdíleny s následujícími subjekty:",
+      "items": {
+        "it": "Poskytovatelé IT služeb",
+        "marketing": "Marketingové agentury",
+        "couriers": "Kurýrní společnosti",
+        "accounting": "Účetní a finanční firmy",
+        "authorities": "Veřejné orgány, pokud to vyžaduje zákon"
+      },
+      "transfer": "Nedochází k přenosům mimo Evropský hospodářský prostor."
+    },
+    "rights": {
+      "title": "6. Vaše práva",
+      "intro": "Podle GDPR máte následující práva:",
+      "items": {
+        "access": "Právo na přístup k vašim údajům",
+        "rectification": "Právo na opravu vašich údajů",
+        "erasure": "Právo na výmaz údajů",
+        "restriction": "Právo na omezení zpracování",
+        "portability": "Právo na přenositelnost údajů",
+        "objection": "Právo vznést námitku proti zpracování",
+        "complaint": "Právo podat stížnost u dozorových úřadů"
+      }
+    },
+    "cookies": {
+      "title": "7. Cookies",
+      "intro": "Používáme cookies pro následující účely:",
+      "items": {
+        "session": "Správa relace",
+        "statistics": "Statistiky a analytika",
+        "marketing": "Marketing a reklama",
+        "functionality": "Funkčnost webu",
+        "fraud": "Prevence podvodů",
+        "improvement": "Zlepšování webu"
+      },
+      "disable": "Cookies můžete zakázat v nastavení prohlížeče, i když to může omezit funkčnost webu."
+    },
+    "security": {
+      "title": "8. Zabezpečení údajů",
+      "content": "Ochrana údajů implementuje SSL šifrování, bezpečné databáze s technickými ochrannými opatřeními a kontroly přístupu v souladu s požadavky GDPR."
+    },
+    "contact": {
+      "title": "9. Kontakt",
+      "intro": "V záležitostech týkajících se ochrany osobních údajů nás prosím kontaktujte:",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "address": "Adresa"
+    }
+  },
+  "r200": {
+    "badge": "Zemědělský rover",
+    "title": "XAG R200",
+    "tagline": "Chytrý farmový kopilot",
+    "description": "Šestikolová platforma pro přesné postřiky v sadech a sklenících s intuitivním dálkovým ovládáním a modulární rozšiřitelností pro různé moderní zemědělské aplikace.",
+    "orderNow": "Objednat nyní",
+    "viewSpecs": "Zobrazit specifikace",
+    "downloads": "Ke stažení",
+    "features": {
+      "badge": "Klíčové vlastnosti",
+      "title": "Proč zvolit R200",
+      "description": "Vysokokapacitní autonomní rover se šestikolovou stabilitou pro náročné operace v sadech a sklenících",
+      "precision": {
+        "title": "Velkoobjemové postřiky",
+        "description": "240L nádrž s průtokem 16 L/min pro delší operace"
+      },
+      "navigation": {
+        "title": "Inteligentní navigace",
+        "description": "Více autonomních provozních režimů s trasováním v reálném čase"
+      },
+      "sixWheel": {
+        "title": "Šestikolová stabilita",
+        "description": "Vynikající trakce a zvládání terénu s nezávislým pohonem motorů"
+      },
+      "electric": {
+        "title": "Elektrický pohon",
+        "description": "Ekonomický a nízkoemisní provoz"
+      },
+      "remote": {
+        "title": "Dálkové ovládání",
+        "description": "Eliminuje expozici operátora chemikáliím"
+      },
+      "modular": {
+        "title": "Modulární platforma",
+        "description": "Rozšiřitelná o další doplňky"
+      }
+    },
+    "specs": {
+      "badge": "Výkon",
+      "title": "Základní specifikace",
+      "description": "Postaveno pro vysokokapacitní přesné pozemní operace v sadech a sklenících",
+      "vehicleWidth": "Šířka vozidla",
+      "vehicleWidthValue": "80 cm",
+      "curbWeight": "Pohotovostní hmotnost",
+      "curbWeightValue": "130 kg",
+      "maxSpeed": "Max. rychlost",
+      "maxSpeedValue": "1,5 m/s",
+      "gradeability": "Max. stoupavost",
+      "gradeabilityValue": "20%",
+      "groundClearance": "Světlá výška",
+      "groundClearanceValue": "270 mm"
+    },
+    "chassis": {
+      "badge": "Podvozek a pohon",
+      "title": "Šestikolová platforma",
+      "description": "Celoaluminiová konstrukce se šestikolovým nezávislým pohonem motorů pro vynikající zvládání terénu a obnovu trakce",
+      "features": {
+        "aluminum": "Celoaluminiový litý podvozek",
+        "suspension": "Zavěšená portálová náprava",
+        "sixWheel": "Šestikolový nezávislý pohon motorů",
+        "torque": "Inteligentní redistribuce točivého momentu"
+      }
+    },
+    "revospray": {
+      "badge": "Postřikový systém",
+      "title": "Systém RevoSpray",
+      "description": "Vysokokapacitní postřikový systém se čtyřmi čerpadly a čtyřmi odstředivými atomizéry produkující ultrajemné kapky pro komplexní pokrytí koruny.",
+      "tankCapacity": "Kapacita nádrže",
+      "tankCapacityValue": "240 L",
+      "flowRate": "Max. průtok",
+      "flowRateValue": "16 L/min",
+      "dropletSize": "Velikost kapek",
+      "dropletSizeValue": "60-200 μm",
+      "sprayRange": "Dosah postřiku",
+      "sprayRangeValue": "7 m/strana",
+      "features": {
+        "pumps": "Čtyři flexibilní lopatkové čerpadla (životnost 300+ hodin)",
+        "atomizers": "Čtyři odstředivé atomizéry pro ultrajemné kapky",
+        "jetsprayer": "JetSprayer s vysoce účinnými ventilátory",
+        "brackets": "Nastavitelné montážní držáky pro víceúhlový postřik",
+        "airGuide": "Vzduchové vodítka pro rozšířené úhly postřiku"
+      }
+    },
+    "control": {
+      "badge": "Řídicí systém",
+      "title": "Dálkové ovládání SRC 5",
+      "description": "Profesionální dálkové ovládání s vysoce jasným displejem a vestavěnou FPV kamerou pro komplexní monitoring operací.",
+      "display": "7\" displej",
+      "displayValue": "1200 nitů jas",
+      "fov": "Zorné pole",
+      "fovValue": "150° horizontálně",
+      "battery": "Výdrž baterie",
+      "batteryValue": "8 hodin",
+      "connectivity": "Konektivita",
+      "connectivityValue": "XLink HD"
+    },
+    "navigation": {
+      "badge": "Inteligentní navigace",
+      "title": "Řídicí systém SuperX 5 Ultra",
+      "description": "Pokročilý inteligentní řídicí systém s více provozními režimy pro všestranné autonomní zemědělství.",
+      "modes": {
+        "cruise": {
+          "title": "Režim plavby",
+          "description": "Udržuje tempo 0,1-1,5 m/s s konstantním postřikem"
+        },
+        "pathTracking": {
+          "title": "Sledování trasy",
+          "description": "Vizuální algoritmy detekují odchylky a automaticky korigují v reálném čase"
+        },
+        "variableRate": {
+          "title": "Variabilní dávkování",
+          "description": "Objem se automaticky přizpůsobuje rychlosti pohybu"
+        },
+        "repeat": {
+          "title": "Režim opakování",
+          "description": "Zaznamenává manuální jízdy pro autonomní opakování"
+        },
+        "planning": {
+          "title": "Plánování trasy",
+          "description": "Mapování satelitními snímky pro bezruční provoz"
+        },
+        "realTerra": {
+          "title": "RealTerra mapování",
+          "description": "Generování pohledu z ptačí perspektivy pro onboard mapování"
+        }
+      }
+    },
+    "safety": {
+      "badge": "Bezpečnostní funkce",
+      "title": "AI bezpečnostní asistence",
+      "description": "Pokročilé bezpečnostní systémy pro spolehlivý provoz v komplexním prostředí.",
+      "features": {
+        "pedestrian": "Detekce chodců (4m varování, 2m zastavení)",
+        "adaptive": "Adaptivní řízení rychlosti s IMU monitoringem",
+        "posture": "Úprava polohy v reálném čase na svazích"
+      }
+    },
+    "power": {
+      "badge": "Energetický systém",
+      "title": "B141050 chytrá baterie",
+      "description": "Ultravysokokapacitní inteligentní bateriový systém pro prodloužený provoz.",
+      "capacity": "Kapacita",
+      "capacityValue": "1050 Wh",
+      "cycles": "Životnost cyklů",
+      "cyclesValue": "1500 cyklů",
+      "runtime": "Doba provozu",
+      "runtimeValue": "Až 15 min",
+      "charger": {
+        "title": "Nabíječka CM13600S",
+        "power": "3,4 kW výkon",
+        "time": "~12 min (30-95%)"
+      }
+    },
+    "applications": {
+      "badge": "Aplikace",
+      "title": "Všestranné pokrytí plodin",
+      "description": "Navrženo pro velkoobjemové postřiky v sadech a sklenících",
+      "crops": {
+        "lemons": "Citróny",
+        "dragonFruit": "Dračí ovoce",
+        "avocados": "Avokáda",
+        "grapes": "Hrozny"
+      }
+    },
+    "contact": {
+      "badge": "Kontakt",
+      "title": "Připraveni transformovat vaše operace v sadech?",
+      "description": "Kontaktujte náš tým a zjistěte více o R200 a jak může revolucionizovat vaše zemědělské operace.",
+      "callUs": "Zavolejte nám",
+      "emailUs": "Napište nám",
+      "form": {
+        "name": "Jméno *",
+        "email": "E-mail *",
+        "phone": "Telefon",
+        "company": "Společnost",
+        "message": "Zpráva *",
+        "messagePlaceholder": "Řekněte nám o vašich zemědělských potřebách...",
+        "submit": "Odeslat poptávku"
+      }
+    }
+  },
+  "r100": {
+    "badge": "Zemědělský rover",
+    "title": "XAG R100",
+    "tagline": "Chytrý farmový kopilot",
+    "description": "Spolehlivý partner pro sady a skleníky poskytující přesné, rovnoměrné postřiky s jednoduchým dálkovým ovládáním a umožňující různé zemědělské operace.",
+    "orderNow": "Objednat nyní",
+    "viewSpecs": "Zobrazit specifikace",
+    "downloads": "Ke stažení",
+    "features": {
+      "badge": "Klíčové vlastnosti",
+      "title": "Proč zvolit R100",
+      "description": "Inteligentní autonomní rover pro přesné zemědělství v sadech a sklenících",
+      "precision": {
+        "title": "Přesné postřiky",
+        "description": "Šetří vodu a pesticidy přesnou aplikací"
+      },
+      "navigation": {
+        "title": "Inteligentní navigace",
+        "description": "Více režimů tras pro všestranný provoz"
+      },
+      "compact": {
+        "title": "Kompaktní design",
+        "description": "Snadný přístup k úzkému, náročnému terénu"
+      },
+      "electric": {
+        "title": "Elektrický pohon",
+        "description": "Ekonomický a nízkoemisní provoz"
+      },
+      "remote": {
+        "title": "Dálkové ovládání",
+        "description": "Eliminuje expozici operátora chemikáliím"
+      },
+      "modular": {
+        "title": "Modulární platforma",
+        "description": "Rozšiřitelná o další doplňky"
+      }
+    },
+    "specs": {
+      "badge": "Výkon",
+      "title": "Základní specifikace",
+      "description": "Postaveno pro přesné pozemní operace v sadech a sklenících",
+      "vehicleWidth": "Šířka vozidla",
+      "vehicleWidthValue": "80 cm",
+      "curbWeight": "Pohotovostní hmotnost",
+      "curbWeightValue": "80 kg",
+      "maxSpeed": "Max. rychlost",
+      "maxSpeedValue": "1,5 m/s",
+      "gradeability": "Max. stoupavost",
+      "gradeabilityValue": "20%",
+      "groundClearance": "Světlá výška",
+      "groundClearanceValue": "270 mm"
+    },
+    "chassis": {
+      "badge": "Podvozek a pohon",
+      "title": "Robustní platforma",
+      "description": "Celoaluminiový litý podvozek se zavěšenou portálovou nápravou pro vynikající zvládání terénu",
+      "features": {
+        "aluminum": "Celoaluminiový litý podvozek",
+        "suspension": "Zavěšená portálová náprava",
+        "fourWheel": "Čtyřkolový nezávislý pohon motorů",
+        "vcu": "Integrovaná řídicí jednotka vozidla (VCU)"
+      }
+    },
+    "revospray": {
+      "badge": "Postřikový systém",
+      "title": "Systém RevoSpray",
+      "description": "Vysokokapacitní postřikový systém s duálními odstředivými atomizéry produkující ultrajemné kapky pro komplexní pokrytí.",
+      "tankCapacity": "Kapacita nádrže",
+      "tankCapacityValue": "120 L",
+      "flowRate": "Max. průtok",
+      "flowRateValue": "8 L/min",
+      "dropletSize": "Velikost kapek",
+      "dropletSizeValue": "60-200 μm",
+      "sprayRange": "Dosah postřiku",
+      "sprayRangeValue": "7 m/strana",
+      "features": {
+        "atomizers": "Duální odstředivé atomizéry pro ultrajemné kapky",
+        "pumps": "Duální flexibilní lopatkové čerpadla (životnost 300+ hodin)",
+        "sensor": "Vysoce přesný senzor hladiny s kapilární vzduchovou trubicí",
+        "fan": "Vysoce účinný kanálový ventilátor (JetSprayer)",
+        "brackets": "Nastavitelné montážní držáky pro víceúhlový postřik"
+      }
+    },
+    "control": {
+      "badge": "Řídicí systém",
+      "title": "Dálkové ovládání SRC 5",
+      "description": "Profesionální dálkové ovládání s vysoce jasným displejem a vestavěnou FPV kamerou pro komplexní monitoring operací.",
+      "display": "7\" displej",
+      "displayValue": "1200 nitů jas",
+      "fov": "Zorné pole",
+      "fovValue": "150° horizontálně",
+      "battery": "Výdrž baterie",
+      "batteryValue": "8 hodin",
+      "connectivity": "Konektivita",
+      "connectivityValue": "XLink HD"
+    },
+    "navigation": {
+      "badge": "Inteligentní navigace",
+      "title": "Řídicí systém SuperX 5 Ultra",
+      "description": "Pokročilý inteligentní řídicí systém s více provozními režimy pro všestranné autonomní zemědělství.",
+      "modes": {
+        "cruise": {
+          "title": "Režim plavby",
+          "description": "Udržuje tempo 0,1-1,5 m/s pro plynulý pohyb"
+        },
+        "pathTracking": {
+          "title": "Sledování trasy",
+          "description": "Vizuální algoritmy detekují odchylky a automaticky korigují v reálném čase"
+        },
+        "variableRate": {
+          "title": "Variabilní dávkování",
+          "description": "Objem se automaticky přizpůsobuje rychlosti pohybu"
+        },
+        "repeat": {
+          "title": "Režim opakování",
+          "description": "Zaznamenává manuální jízdy pro autonomní opakování"
+        },
+        "planning": {
+          "title": "Plánování trasy",
+          "description": "Mapování satelitními snímky pro bezruční provoz"
+        },
+        "realTerra": {
+          "title": "RealTerra mapování",
+          "description": "Generování pohledu z ptačí perspektivy pro onboard mapování"
+        }
+      }
+    },
+    "positioning": {
+      "badge": "Přesné polohování",
+      "title": "CM přesnost",
+      "description": "Centimetrová přesnost polohování s cloud RTK a mobilní RTK podporou pro přesnou navigaci.",
+      "features": {
+        "cloudRtk": "Cloud RTK podpora",
+        "mobileRtk": "Mobilní RTK schopnost",
+        "cmLevel": "Centimetrová přesnost"
+      }
+    },
+    "safety": {
+      "badge": "Bezpečnostní funkce",
+      "title": "AI bezpečnostní asistence",
+      "description": "Pokročilé bezpečnostní systémy pro spolehlivý provoz v komplexním prostředí.",
+      "features": {
+        "pedestrian": "Detekce chodců (4m varování, 2m zastavení)",
+        "adaptive": "Adaptivní řízení rychlosti s IMU monitoringem",
+        "posture": "Úprava polohy v reálném čase"
+      }
+    },
+    "power": {
+      "badge": "Energetický systém",
+      "title": "B141050 chytrá baterie",
+      "description": "Ultravysokokapacitní inteligentní bateriový systém pro prodloužený provoz.",
+      "capacity": "Kapacita",
+      "capacityValue": "1050 Wh",
+      "cycles": "Životnost cyklů",
+      "cyclesValue": "1500 cyklů",
+      "runtime": "Doba provozu",
+      "runtimeValue": "Až 30 min",
+      "charger": {
+        "title": "Nabíječka CM13600S",
+        "power": "3,4 kW výkon",
+        "time": "~12 min (30-95%)"
+      }
+    },
+    "applications": {
+      "badge": "Aplikace",
+      "title": "Všestranné pokrytí plodin",
+      "description": "Navrženo pro různé plodinové scénáře v sadech a sklenících",
+      "crops": {
+        "grapes": "Hrozny",
+        "dragonFruit": "Dračí ovoce",
+        "blueberries": "Borůvky",
+        "citrus": "Citrusy"
+      }
+    },
+    "contact": {
+      "badge": "Kontakt",
+      "title": "Připraveni transformovat vaše operace v sadech?",
+      "description": "Kontaktujte náš tým a zjistěte více o R100 a jak může revolucionizovat vaše zemědělské operace.",
+      "callUs": "Zavolejte nám",
+      "emailUs": "Napište nám",
+      "form": {
+        "name": "Jméno *",
+        "email": "E-mail *",
+        "phone": "Telefon",
+        "company": "Společnost",
+        "message": "Zpráva *",
+        "messagePlaceholder": "Řekněte nám o vašich zemědělských potřebách...",
+        "submit": "Odeslat poptávku"
+      }
+    }
+  },
+  "warrantyService": {
+    "badge": "Podpora",
+    "title": "Požádat o záruční servis",
+    "description": "Odešlete záruční reklamaci pro váš produkt XAG. Náš tým vaši žádost posoudí a odpoví do 48 hodin.",
+    "infoTitle": "Informace o záruce",
+    "infoDescription": "Produkty XAG mají standardní 12měsíční záruku od data zakoupení. Rozšířené záruční možnosti jsou k dispozici prostřednictvím XAG Care Express. Mějte prosím připraven doklad o zakoupení při podávání záruční reklamace.",
+    "formTitle": "Formulář záruční reklamace",
+    "contactInfo": "Kontaktní informace",
+    "fullName": "Celé jméno",
+    "emailAddress": "E-mailová adresa",
+    "phoneNumber": "Telefonní číslo",
+    "companyName": "Firma/Název farmy",
+    "productPurchaseInfo": "Informace o produktu a nákupu",
+    "productModel": "Model produktu",
+    "selectProduct": "Vybrat produkt",
+    "serialNumber": "Sériové číslo",
+    "purchaseDate": "Datum zakoupení",
+    "purchaseLocation": "Místo zakoupení",
+    "purchaseLocationPlaceholder": "Název prodejce/obchodu",
+    "claimDetails": "Detaily záruční reklamace",
+    "issueLabel": "Prosím popište závadu nebo problém",
+    "issuePlaceholder": "Popište závadu, kdy nastala a všechny relevantní detaily...",
+    "noteLabel": "Poznámka:",
+    "noteText": "Mějte prosím připraven doklad o zakoupení (účtenku nebo fakturu). Pro zpracování vaší záruční reklamace můžeme požadovat další dokumentaci.",
+    "submitButton": "Odeslat záruční reklamaci",
+    "successMessage": "Děkujeme za vaši záruční reklamaci. Náš tým ji posoudí a odpoví do 48 hodin."
+  },
+  "repairService": {
+    "badge": "Podpora",
+    "title": "Požádat o opravu",
+    "description": "Odešlete žádost o opravu a náš technický tým se vám ozve do 24 hodin.",
+    "formTitle": "Formulář žádosti o opravu",
+    "contactInfo": "Kontaktní informace",
+    "fullName": "Celé jméno",
+    "emailAddress": "E-mailová adresa",
+    "phoneNumber": "Telefonní číslo",
+    "companyName": "Firma/Název farmy",
+    "productInfo": "Informace o produktu",
+    "productModel": "Model produktu",
+    "selectProduct": "Vybrat produkt",
+    "serialNumber": "Sériové číslo",
+    "purchaseDate": "Datum zakoupení",
+    "priorityLevel": "Úroveň priority",
+    "priorityStandard": "Standardní",
+    "priorityPlus": "Prioritní (XAG Care Plus)",
+    "priorityPremium": "Expresní (XAG Care Premium)",
+    "issueSection": "Popis problému",
+    "issueLabel": "Prosím popište problém",
+    "issuePlaceholder": "Popište problém, který máte, kdy začal a případné chybové hlášení...",
+    "submitButton": "Odeslat žádost o opravu",
+    "successMessage": "Děkujeme za vaši žádost o opravu. Náš tým se vám ozve do 24 hodin."
+  },
+  "r150": {
+    "badge": "Bezpilotní pozemní vozidlo EV",
+    "title": "XAG R150 2022",
+    "tagline": "Transformace pro každou zemědělskou misi",
+    "description": "Autonomní pozemní vozidlo s multifunkčními schopnostmi pro sekání, ochranu rostlin a přepravní operace.",
+    "orderNow": "Objednat nyní",
+    "viewSpecs": "Zobrazit specifikace",
+    "downloads": "Ke stažení",
+    "taglines": {
+      "terrain": "Jedu přes pole i řeku",
+      "autonomous": "Farmářskou práci zvládám sám",
+      "easy": "Pracuj se mnou a odpočívej"
+    },
+    "specs": {
+      "sectionTitle": "Základní specifikace",
+      "sectionBadge": "Výkon",
+      "sectionDesc": "Postaveno pro přesné pozemní operace v různých zemědělských prostředích",
+      "ratedTorque": "Jmenovitý točivý moment",
+      "maxSpeed": "Max. rychlost",
+      "turningDiameter": "Průměr otáčení",
+      "climbingSlope": "Stoupavost",
+      "approachAngle": "Nájezdový úhel",
+      "departureAngle": "Odjezdový úhel",
+      "batteryCapacity": "Kapacita baterie",
+      "chargeTime": "Doba nabíjení",
+      "motorPower": "Výkon motoru",
+      "operatingSpeed": "Provozní rychlost",
+      "minimumRadius": "Minimální poloměr",
+      "maximumGrade": "Maximální sklon",
+      "frontClearance": "Přední světlá výška",
+      "rearClearance": "Zadní světlá výška",
+      "battery": "Baterie B13960S",
+      "fullCharge": "Plné nabití"
+    },
+    "autonomous": {
+      "badge": "Autonomní provoz",
+      "title": "Inteligentní plánování trasy",
+      "description": "Pokročilý autonomní navigační systém s RTK polohováním pro přesný, bezruční provoz po celé vaší farmě.",
+      "features": {
+        "rtk": "Inteligentní plánování trasy s RTK polohováním",
+        "dualAntenna": "Dvouanténní RTK plus přístup k pevné stanici",
+        "processor": "1 GHz nezávislý procesor",
+        "precision": "Centimetrová přesnost polohování",
+        "obstacle": "Automatická detekce překážek",
+        "return": "Chytrý návrat na základnu"
+      }
+    },
+    "revospray": {
+      "badge": "Postřikový systém",
+      "title": "XAG RevoSpray Ground 2",
+      "description": "Vysokokapacitní pozemní postřikový systém s 360° atomizací pro komplexní pokrytí ochrany rostlin.",
+      "tankCapacity": "Kapacita nádrže",
+      "sprayWidth": "Šířka postřiku",
+      "features": {
+        "tank": "150L kapacita nádrže",
+        "droplet": "Nastavitelná velikost kapek: 60-200 μm",
+        "width": "Maximální šířka postřiku: 12 metrů",
+        "atomization": "360° atomizace",
+        "flow": "Přesný systém řízení průtoku",
+        "monitoring": "Chytrý monitoring hladiny nádrže"
+      }
+    },
+    "revomower": {
+      "badge": "Sekací systém",
+      "title": "XAG RevoMower 2",
+      "description": "Profesionální autonomní sekací příslušenství s variabilní výškou sekání pro přesnou péči o trávu a vegetaci.",
+      "cuttingWidth": "Šířka sekání",
+      "heightRange": "Rozsah výšky",
+      "features": {
+        "width": "90 cm maximální šířka sekání",
+        "height": "Nastavitelná výška: 2-17 cm",
+        "blades": "Duální ocelové nože ze slitiny",
+        "speed": "Variabilní rychlost provozu",
+        "adjustment": "Inteligentní nastavení výšky",
+        "maintenance": "Nízkoúdržbový design"
+      }
+    },
+    "cargo": {
+      "badge": "Přepravní systém",
+      "title": "XAG Cargo Rack 2",
+      "description": "Proměňte svůj R150 v logistické zařízení s vysokou nosností pro přepravu zásob a materiálů po vaší farmě.",
+      "maxPayload": "Max. nosnost",
+      "rackSize": "Velikost rámu",
+      "features": {
+        "payload": "200 kg maximální nosnost",
+        "rack": "Robustní rám: 1080 x 1080 mm",
+        "routing": "Chytré plánování okružní trasy",
+        "detection": "Automatická detekce nákladu"
+      }
+    },
+    "controls": {
+      "badge": "Možnosti ovládání",
+      "title": "Snadná obsluha",
+      "description": "Více možností ovládání pro flexibilní provozní režimy",
+      "xagOneApp": {
+        "title": "XAG One App",
+        "features": {
+          "oneTap": "Provoz jedním dotykem",
+          "routing": "Chytré plánování trasy",
+          "multiOp": "Multi-operační schopnost",
+          "compatible": "Kompatibilní s iOS a Android"
+        }
+      },
+      "arc3": {
+        "title": "XAG Agricultural Remote Controller 3",
+        "features": {
+          "knobs": "Čtyři otočné knoflíky s více tlačítky",
+          "rtk": "Volitelný RTK modul",
+          "battery": "5-6 hodin výdrž baterie",
+          "design": "Obouruční ergonomický design"
+        }
+      }
+    },
+    "operationModes": {
+      "badge": "Provozní režimy",
+      "title": "Čtyři způsoby práce",
+      "modes": {
+        "route": {
+          "title": "Režim trasy",
+          "desc": "Provádění více autonomních tras s přesným sledováním cesty"
+        },
+        "remote": {
+          "title": "Režim dálkového ovládání",
+          "desc": "Přímé manuální ovládání pro specifické úkoly a úzké prostory"
+        },
+        "planning": {
+          "title": "Plánování pole",
+          "desc": "Chytré mapování hranic s automatickým generováním trasy"
+        },
+        "multiTask": {
+          "title": "Multi-task provoz",
+          "desc": "Přepínání mezi příslušenstvím pro různé polní úkoly"
+        }
+      }
+    },
+    "power": {
+      "badge": "Energetický systém",
+      "title": "B13960S SuperCharge baterie",
+      "description": "Inteligentní bateriový systém s ultrarychlým nabíjením pro nepřetržitý provoz po celý pracovní den.",
+      "capacity": "Wh kapacita",
+      "minCharge": "Min. nabíjení",
+      "batteriesPerTank": "Baterií/nádrž",
+      "chargingStation": {
+        "title": "Nabíjecí stanice GC4000+",
+        "description": "Vodou chlazená nabíjecí stanice pro rychlou výměnu baterií",
+        "features": {
+          "batteries": "Nabije až 25 baterií na 15L nádrž paliva",
+          "charge": "11minutové plné nabití s vodním chlazením",
+          "portable": "Přenosné polní nabíjecí řešení"
+        }
+      }
+    },
+    "terrain": {
+      "badge": "Všestrannost",
+      "title": "Postaveno pro jakýkoli terén",
+      "description": "Více možností kol a robustní design pro různá zemědělská prostředí",
+      "types": {
+        "field": {
+          "name": "Polní operace",
+          "desc": "Řádkové plodiny a otevřená pole"
+        },
+        "orchards": {
+          "name": "Sady",
+          "desc": "Ovocné stromy a vinice"
+        },
+        "forestry": {
+          "name": "Lesnictví",
+          "desc": "Stromové plantáže a lesíky"
+        },
+        "disinfection": {
+          "name": "Dezinfekce",
+          "desc": "Aplikace pro dobytek a zařízení"
+        }
+      }
+    },
+    "contact": {
+      "badge": "Kontakt",
+      "title": "Připraveni transformovat vaše pozemní operace?",
+      "description": "Kontaktujte náš tým a zjistěte více o R150 2022 a jak může revolucionizovat vaše zemědělské pozemní práce.",
+      "callUs": "Zavolejte nám",
+      "emailUs": "Napište nám",
+      "form": {
+        "name": "Jméno *",
+        "email": "E-mail *",
+        "phone": "Telefon",
+        "company": "Společnost",
+        "message": "Zpráva *",
+        "messagePlaceholder": "Řekněte nám o vašich zemědělských potřebách...",
+        "submit": "Odeslat poptávku"
+      }
+    }
+  }
+}

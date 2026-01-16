@@ -1,0 +1,111 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# Para desarrollo local sin Git
+local_backend: true
+
+# Configuración de medios
+media_folder: "public/images"
+public_folder: "/images"
+
+# Colecciones de contenido
+collections:
+  # Configuración del sitio
+  - name: "settings"
+    label: "Site Settings"
+    files:
+      - name: "site"
+        label: "General Settings"
+        file: "content/settings/site.json"
+        fields:
+          - { label: "Company Name", name: "companyName", widget: "string" }
+          - { label: "Phone", name: "phone", widget: "string" }
+          - { label: "Email", name: "email", widget: "string" }
+          - { label: "Sales Email", name: "salesEmail", widget: "string" }
+          - { label: "Support Email", name: "supportEmail", widget: "string" }
+          - { label: "Footer Text", name: "footerText", widget: "text" }
+          - { label: "Copyright", name: "copyright", widget: "string" }
+          - label: "Social Links"
+            name: "socialLinks"
+            widget: "object"
+            fields:
+              - { label: "Facebook", name: "facebook", widget: "string", required: false }
+              - { label: "YouTube", name: "youtube", widget: "string", required: false }
+              - { label: "LinkedIn", name: "linkedin", widget: "string", required: false }
+              - { label: "Instagram", name: "instagram", widget: "string", required: false }
+
+  # Homepage
+  - name: "homepage"
+    label: "Homepage"
+    files:
+      - name: "home"
+        label: "Homepage Content"
+        file: "content/homepage/home.json"
+        fields:
+          - label: "Hero Slides"
+            name: "heroSlides"
+            widget: "list"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Subtitle", name: "subtitle", widget: "string" }
+              - { label: "Tagline", name: "tagline", widget: "string" }
+              - { label: "Background Image", name: "image", widget: "image" }
+              - { label: "CTA Button Text", name: "ctaText", widget: "string" }
+              - { label: "CTA Button Link", name: "ctaLink", widget: "string" }
+              - { label: "Secondary CTA Text", name: "secondaryCtaText", widget: "string", required: false }
+              - { label: "Secondary CTA Link", name: "secondaryCtaLink", widget: "string", required: false }
+          - label: "Statistics"
+            name: "stats"
+            widget: "list"
+            fields:
+              - { label: "Value", name: "value", widget: "number" }
+              - { label: "Suffix", name: "suffix", widget: "string" }
+              - { label: "Label", name: "label", widget: "string" }
+              - { label: "Sublabel", name: "sublabel", widget: "string" }
+
+  # Products
+  - name: "products"
+    label: "Products"
+    folder: "content/products"
+    create: true
+    slug: "{{slug}}"
+    extension: "json"
+    format: "json"
+    fields:
+      - { label: "Product Name", name: "name", widget: "string" }
+      - { label: "Tagline", name: "tagline", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Airborne (Drones)", value: "airborne" }
+          - { label: "Landborne (Ground)", value: "landborne" }
+      - { label: "Hero Image", name: "heroImage", widget: "image" }
+      - { label: "Card Image", name: "cardImage", widget: "image" }
+      - label: "Specifications"
+        name: "specs"
+        widget: "list"
+        fields:
+          - { label: "Label", name: "label", widget: "string" }
+          - { label: "Value", name: "value", widget: "string" }
+      - label: "Features"
+        name: "features"
+        widget: "list"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "text" }
+
+  # Pages
+  - name: "pages"
+    label: "Pages"
+    folder: "content/pages"
+    create: true
+    slug: "{{slug}}"
+    extension: "json"
+    format: "json"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }

@@ -1,0 +1,805 @@
+{
+  "common": {
+    "learnMore": "Tudj meg többet",
+    "contactUs": "Kapcsolat",
+    "getQuote": "Árajánlat kérése",
+    "viewAll": "Összes megtekintése",
+    "viewAllProducts": "Összes termék",
+    "readMore": "Tovább olvasom",
+    "submit": "Küldés",
+    "loading": "Betöltés...",
+    "error": "Hiba",
+    "success": "Sikeres",
+    "close": "Bezárás",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "address": "Cím"
+  },
+  "nav": {
+    "products": "Termékek",
+    "resources": "Források",
+    "services": "Szolgáltatások",
+    "spareParts": "Alkatrészek",
+    "sparePartsSub": "XAG termékek alkatrészkatalógusa",
+    "viewAllSpareParts": "Összes alkatrész",
+    "company": "Cég",
+    "airborne": "Légi",
+    "airborneSub": "Mezőgazdasági drónok",
+    "landborne": "Földi",
+    "landborneSub": "Földi berendezések",
+    "blog": "Blog",
+    "caseStudies": "Esettanulmányok",
+    "videosTutorials": "Videók és oktatóanyagok",
+    "downloadCenter": "Letöltőközpont",
+    "droneSafety": "Drónbiztonság",
+    "fieldOperations": "Terepi műveletek",
+    "trainingPrograms": "Képzési programok",
+    "xagCareExpress": "XAG Care Express",
+    "aboutUs": "Rólunk",
+    "events": "Események",
+    "careers": "Karrier",
+    "contact": "Kapcsolat",
+    "viewAllProducts": "Összes termék"
+  },
+  "home": {
+    "heroTagline": "A mezőgazdaság fejlesztése innovatív technológiával",
+    "heroSubtitle": "Mezőgazdasági drón",
+    "ctaLearnMore": "Tudj meg többet",
+    "ctaContact": "Kapcsolat",
+    "ctaOrderNow": "Rendelés most",
+    "statsYears": "Év tapasztalat",
+    "statsYearsSub": "mezőgazdasági drónokkal",
+    "statsHectares": "Lefedett hektár",
+    "statsHectaresSub": "évente",
+    "statsCountries": "Ország",
+    "statsCountriesSub": "világszerte",
+    "statsFlightHours": "Repülési óra",
+    "statsFlightHoursSub": "összegyűjtve",
+    "scrollToExplore": "Görgesd a felfedezéshez",
+    "readyToTransform": "Készen állsz a gazdaságod átalakítására?",
+    "readyToTransformDesc": "Lépj kapcsolatba csapatunkkal, és fedezd fel, hogyan forradalmasíthatják az XAG drónok a mezőgazdasági munkáidat.",
+    "viewProducts": "Termékek megtekintése",
+    "p150MaxSubtitle": "A leggyorsabb mezőgazdasági drón",
+    "p100ProSubtitle": "Precizitás és teljesítmény",
+    "r150Subtitle": "Földi precizitás",
+    "apc2Subtitle": "AutoPilot gépekhez"
+  },
+  "stats": {
+    "globalImpact": "Globális hatás",
+    "title": "Lenyűgöző számok üzletünk mögött",
+    "description": "Az XAG-ban bíznak a gazdálkodók és mezőgazdasági szakemberek világszerte",
+    "tons": "Tonna",
+    "tonsSub": "növekvő terméshozam",
+    "countries": "Ország",
+    "countriesSub": "és régió világszerte",
+    "dronePilots": "Drónpilóta",
+    "dronePilotsSub": "képzés világszerte",
+    "hectares": "Hektár",
+    "hectaresSub": "működtetés világszerte",
+    "suffixes": {
+      "million": " millió",
+      "plus": "+",
+      "kPlus": "K+"
+    }
+  },
+  "productCollections": {
+    "ourProducts": "Termékeink",
+    "title": "Mezőgazdasági technológia",
+    "description": "Fedezd fel okos mezőgazdasági drónjaink és földi robotjaink választékát, amelyeket a gazdálkodási műveletek optimalizálására terveztek.",
+    "featuredProducts": "Kiemelt termékek",
+    "viewAll": "Összes megtekintése",
+    "airborne": "Légi",
+    "airborneDesc": "Mezőgazdasági drónok precíziós permetezéshez, vetéshez és térképezéshez",
+    "landborne": "Földi",
+    "landborneDesc": "Autonóm földi robotok gyümölcsösökhöz, szőlészetekhez és sorművelésű kultúrákhoz",
+    "autopilot": "Autopilot",
+    "autopilotDesc": "Autonóm vezető rendszer hagyományos mezőgazdasági gépekhez",
+    "new": "Új",
+    "popular": "Népszerű"
+  },
+  "contact": {
+    "title": "Kapcsolat",
+    "heroTitle": "Lépj kapcsolatba velünk",
+    "heroDescription": "Kérdésed van termékeinkkel vagy szolgáltatásainkkal kapcsolatban? Csapatunk segít megtalálni a megfelelő megoldást mezőgazdasági igényeidre.",
+    "infoTitle": "Kapcsolati információk",
+    "formTitle": "Küldj nekünk üzenetet",
+    "fullName": "Teljes név",
+    "fullNamePlaceholder": "Kovács János",
+    "emailAddress": "E-mail cím",
+    "emailPlaceholder": "janos@pelda.hu",
+    "phoneNumber": "Telefonszám",
+    "phonePlaceholder": "+36 30 163 9994",
+    "companyName": "Cég / Gazdaság neve",
+    "companyPlaceholder": "Céged neve",
+    "subject": "Tárgy",
+    "subjectPlaceholder": "Válassz tárgyat",
+    "subjectOptions": {
+      "productInquiry": "Termék érdeklődés",
+      "quoteRequest": "Árajánlat kérése",
+      "training": "Képzési programok",
+      "support": "Technikai támogatás",
+      "partnership": "Partnerségi lehetőség",
+      "other": "Egyéb"
+    },
+    "message": "Üzenet",
+    "messagePlaceholder": "Mondd el, miben segíthetünk...",
+    "sendMessage": "Üzenet küldése",
+    "sending": "Küldés...",
+    "successTitle": "Üzenet elküldve!",
+    "successMessage": "Köszönjük, hogy felvetted velünk a kapcsolatot. Csapatunk a lehető leghamarabb válaszol az üzenetedre.",
+    "errorTitle": "Hiba az üzenet küldésekor",
+    "errorMessage": "Sajnáljuk, probléma merült fel az üzenet küldésekor. Kérjük, próbáld újra, vagy lépj kapcsolatba velünk közvetlenül.",
+    "salesSpecialist": "Értékesítési szakértő",
+    "ceo": "Ügyvezető igazgató",
+    "addressValue": "1134 Budapest\nVáci út 47e\nMagyarország"
+  },
+  "resources": {
+    "badge": "Források",
+    "title": "Tanulj és fedezz fel",
+    "description": "Férj hozzá videós oktatóanyagokhoz és műszaki dokumentációkhoz, hogy a legtöbbet hozd ki XAG termékeidből.",
+    "recentUpdates": "Legutóbbi frissítések",
+    "viewAll": "Összes megtekintése",
+    "items": {
+      "videos": {
+        "title": "Videók és oktatóanyagok",
+        "description": "Termékbemutatók és útmutatók",
+        "image": "/images/videos/p150-max-overview.jpg",
+        "href": "/videos-tutorials",
+        "count": "50+ videó"
+      },
+      "downloads": {
+        "title": "Letöltőközpont",
+        "description": "Kézikönyvek, műszaki specifikációk és útmutatók",
+        "image": "/images/products/p150-max/thumbnail.webp",
+        "href": "/download-center",
+        "count": "Dokumentumok"
+      }
+    }
+  },
+  "videosTutorials": {
+    "badge": "Források",
+    "title": "Videók és oktatóanyagok",
+    "description": "Nézz termékbemutatókat, gyakorlati oktatóanyagokat, és tanuld meg, hogyan optimalizálhatod mezőgazdasági műveleteidet XAG drónokkal.",
+    "all": "Összes",
+    "product": "Termék",
+    "tutorial": "Oktatóanyag",
+    "watchNow": "Nézd meg most",
+    "videos": {
+      "p150Overview": {
+        "title": "P150 Max termékáttekintés",
+        "description": "Fedezd fel az XAG P150 Max mezőgazdasági drón jellemzőit és képességeit.",
+        "duration": "5:32",
+        "category": "Termék"
+      },
+      "calibration": {
+        "title": "Hogyan kalibráld XAG drónodat",
+        "description": "Lépésről lépésre útmutató az XAG drón kalibrálásához az optimális teljesítményért.",
+        "duration": "8:15",
+        "category": "Oktatóanyag"
+      },
+      "spraying": {
+        "title": "Precíziós permetezés legjobb gyakorlatai",
+        "description": "Tanulj technikákat az optimális permetezési lefedettség és hatékonyság eléréséhez.",
+        "duration": "12:45",
+        "category": "Oktatóanyag"
+      },
+      "r150Action": {
+        "title": "R150 földi robot működés közben",
+        "description": "Nézd meg az R150 autonóm földi permetezőt szőlészetben működés közben.",
+        "duration": "4:20",
+        "category": "Termék"
+      },
+      "cloudSetup": {
+        "title": "XAG Agriculture Cloud beállítása",
+        "description": "Hogyan állítsd be és használd az XAG Agriculture Cloud platformot.",
+        "duration": "10:30",
+        "category": "Oktatóanyag"
+      },
+      "maintenance": {
+        "title": "Alapvető drónkarbantartás",
+        "description": "Alapvető útmutató az XAG mezőgazdasági drón rendszeres karbantartásához.",
+        "duration": "6:15",
+        "category": "Oktatóanyag"
+      }
+    }
+  },
+  "xagCareExpress": {
+    "badge": "Támogatás",
+    "title": "XAG Care Express",
+    "description": "Prémium támogatási és karbantartási szolgáltatások, amelyek az XAG berendezéseid csúcsteljesítményű működését biztosítják.",
+    "services": {
+      "badge": "Szolgáltatásaink",
+      "title": "Mit tartalmaz",
+      "priorityRepairs": {
+        "title": "Kiemelt javítás",
+        "description": "Gyorsított javítási szolgáltatás kiemelt kezeléssel a minimális állásidőért."
+      },
+      "genuineParts": {
+        "title": "Eredeti alkatrészek",
+        "description": "Csak eredeti XAG alkatrészeket használunk minden javításhoz és cseréhez."
+      },
+      "expertTechnicians": {
+        "title": "Szakértő technikusok",
+        "description": "Gyári képzésű technikusok kiterjedt XAG termékismerettel."
+      },
+      "extendedWarranty": {
+        "title": "Kiterjesztett garancia",
+        "description": "Opcionális kiterjesztett garanciális fedezet a nagyobb nyugalomért."
+      }
+    },
+    "plans": {
+      "badge": "Árazás",
+      "title": "Válaszd ki a csomagodat",
+      "mostPopular": "Legnépszerűbb",
+      "getStarted": "Kezdd el",
+      "perYear": "/év",
+      "basic": {
+        "name": "Alap Care",
+        "price": "€700",
+        "features": {
+          "priority": "Standard javítási prioritás",
+          "discount": "10% alkatrész kedvezmény",
+          "support": "Telefonos támogatás",
+          "check": "Éves állapotfelmérés"
+        }
+      },
+      "plus": {
+        "name": "Care Plus",
+        "price": "€1,000",
+        "features": {
+          "priority": "Kiemelt javítási szolgáltatás",
+          "discount": "20% alkatrész kedvezmény",
+          "support": "Telefonos és e-mail támogatás",
+          "check": "Féléves állapotfelmérés",
+          "firmware": "Ingyenes firmware frissítések",
+          "loaner": "Kölcsöndrón elérhető"
+        }
+      },
+      "premium": {
+        "name": "Care Premium",
+        "price": "€2,000",
+        "features": {
+          "priority": "Expressz javítási szolgáltatás",
+          "discount": "30% alkatrész kedvezmény",
+          "support": "24/7 dedikált támogatás",
+          "check": "Negyedéves állapotfelmérés",
+          "firmware": "Ingyenes firmware frissítések",
+          "loaner": "Garantált kölcsöndrón",
+          "onsite": "Helyszíni technikus látogatás"
+        }
+      }
+    },
+    "cta": {
+      "title": "Azonnali támogatásra van szükséged?",
+      "description": "Lépj kapcsolatba támogató csapatunkkal sürgős javításokért vagy technikai segítségért.",
+      "requestRepair": "Javítás kérése",
+      "contactSupport": "Kapcsolat a támogatással"
+    }
+  },
+  "fieldOperations": {
+    "badge": "Szolgáltatások",
+    "title": "Terepi műveletek",
+    "description": "Professzionális drónpermetezés és mezőgazdasági szolgáltatások tapasztalt operátoraink által. Bízd ránk növényvédelmi igényeidet.",
+    "requestQuote": "Árajánlat kérése",
+    "services": {
+      "badge": "Szolgáltatásaink",
+      "title": "Amit kínálunk",
+      "spray": {
+        "title": "Növénypermetezés",
+        "description": "Precíziós gyomirtó, rovarölő és gombaölő alkalmazás minden növénytípusra."
+      },
+      "seed": {
+        "title": "Vetés és szórás",
+        "description": "Hatékony légi vetés takarónövényekhez és szemcsés műtrágya szóráshoz."
+      },
+      "monitor": {
+        "title": "Növényfelügyelet",
+        "description": "Légi felmérések és NDVI térképezés a problémás területek azonosítására."
+      },
+      "custom": {
+        "title": "Egyedi megoldások",
+        "description": "Testreszabott drónszolgáltatások az egyedi mezőgazdasági igényeidre."
+      }
+    },
+    "benefits": {
+      "badge": "Miért minket",
+      "title": "Drónműveletek előnyei",
+      "items": {
+        "chemicals": "Akár 30%-kal csökkentett vegyszerhasználat",
+        "coverage": "Több terület lefedése kevesebb idő alatt",
+        "terrain": "Nehéz terepen és nedves mezőkön is elérhető",
+        "damage": "Minimális terméskár a földi berendezésekhez képest",
+        "precision": "Precíz alkalmazás GPS vezetéssel",
+        "data": "Valós idejű adatok és jelentések"
+      }
+    },
+    "process": {
+      "badge": "Hogyan működik",
+      "title": "Folyamatunk",
+      "step1": {
+        "title": "Lépj kapcsolatba",
+        "description": "Kérj árajánlatot a terület részleteivel"
+      },
+      "step2": {
+        "title": "Helyszíni felmérés",
+        "description": "Értékeljük a területet és az igényeket"
+      },
+      "step3": {
+        "title": "Időpont egyeztetés",
+        "description": "Foglald le a kívánt műveleti dátumot"
+      },
+      "step4": {
+        "title": "Végrehajtás",
+        "description": "Csapatunk elvégzi a műveletet"
+      }
+    },
+    "cta": {
+      "title": "Készen állsz a kezdésre?",
+      "description": "Lépj kapcsolatba velünk még ma ingyenes árajánlatért terepi szolgáltatásainkra."
+    }
+  },
+  "downloadCenter": {
+    "badge": "Források",
+    "title": "Letöltőközpont",
+    "description": "Férj hozzá termékbrosúrákhoz, felhasználói kézikönyvekhez, szoftverfrissítésekhez és műszaki dokumentációkhoz.",
+    "documentType": "Dokumentum típusa",
+    "product": "Termék",
+    "all": "Összes",
+    "allProducts": "Összes termék",
+    "brochure": "Brosúra",
+    "manual": "Kézikönyv",
+    "guide": "Útmutató",
+    "download": "Letöltés",
+    "app": {
+      "badge": "Mobilalkalmazás",
+      "title": "XAG One alkalmazás",
+      "description": "Komplett mezőgazdasági menedzsment platform a műveletek tervezéséhez, végrehajtásához és elemzéséhez mezőgazdasági drónokkal.",
+      "feature1": "AI-alapú repüléstervezés",
+      "feature2": "Valós idejű műveleti felügyelet",
+      "feature3": "Részletes elemzések és jelentések",
+      "feature4": "Több drónt kezelő flottamenedzsment",
+      "downloadOn": "Letöltés:",
+      "getItOn": "Elérhető:"
+    },
+    "docs": {
+      "badge": "Dokumentáció",
+      "title": "Kézikönyvek és specifikációk",
+      "description": "Töltsd le a felhasználói kézikönyveket, műszaki útmutatókat és termékspecifikációkat."
+    },
+    "downloads": {
+      "p150maxManual": {
+        "title": "P150 Max felhasználói kézikönyv",
+        "description": "Teljes felhasználói kézikönyv az XAG P150 Max 2024 mezőgazdasági drónhoz.",
+        "type": "Kézikönyv",
+        "fileSize": "32 MB",
+        "format": "PDF",
+        "product": "P150 Max"
+      },
+      "p100proSpecs": {
+        "title": "P100 Pro műszaki specifikációk",
+        "description": "Teljes specifikációk és funkciók áttekintése a P100 Pro drónhoz.",
+        "type": "Kézikönyv",
+        "fileSize": "2.5 MB",
+        "format": "PDF",
+        "product": "P100 Pro"
+      },
+      "r150Specs": {
+        "title": "R150 műszaki specifikációk",
+        "description": "Átfogó specifikációs útmutató az R150 földi robothoz.",
+        "type": "Kézikönyv",
+        "fileSize": "1.8 MB",
+        "format": "PDF",
+        "product": "R150"
+      },
+      "v40Specs": {
+        "title": "V40 műszaki specifikációk",
+        "description": "A V40 mezőgazdasági drón specifikációi és funkciói.",
+        "type": "Kézikönyv",
+        "fileSize": "2.1 MB",
+        "format": "PDF",
+        "product": "V40"
+      }
+    }
+  },
+  "training": {
+    "badge": "Képzési programok",
+    "title": "Legyél minősített drónpilóta",
+    "description": "Szerezz jóváhagyott képzést és minősítést a mezőgazdasági drónok professzionális üzemeltetéséhez. Átfogó programjaink az alapvető műveletektől a haladó permetezési technikákig mindent lefednek.",
+    "viewPrograms": "Programok megtekintése",
+    "enquireNow": "Érdeklődj most",
+    "pilotsTrained": "Képzett drónpilóta világszerte",
+    "features": {
+      "certified": {
+        "title": "Hivatalos minősítés",
+        "subtitle": "Elismert tanúsítvány"
+      },
+      "handsOn": {
+        "title": "Gyakorlati képzés",
+        "subtitle": "Gyakorlati tapasztalat"
+      },
+      "experts": {
+        "title": "Szakértő oktatók",
+        "subtitle": "Iparági szakemberek"
+      },
+      "nationwide": {
+        "title": "Országszerte",
+        "subtitle": "Képzések Magyarországon"
+      }
+    }
+  },
+  "support": {
+    "badge": "Ügyfélszolgálat",
+    "title": "Segítünk",
+    "description": "Elkötelezett támogató csapatunk készen áll segíteni bármilyen kérdésben, technikai problémában vagy szolgáltatási kérésben. Kapd meg a szükséges segítséget a zökkenőmentes működéshez.",
+    "contactSupport": "Kapcsolat a támogatással",
+    "email": "E-mail",
+    "items": {
+      "technical": {
+        "title": "Technikai támogatás",
+        "description": "Szakértő segítség minden XAG termékhez"
+      },
+      "docs": {
+        "title": "Dokumentáció",
+        "description": "Kézikönyvek, útmutatók és források"
+      },
+      "warranty": {
+        "title": "Garanciális szolgáltatás",
+        "description": "Fedezet és kárigény támogatás"
+      },
+      "repair": {
+        "title": "Javítási szolgáltatás",
+        "description": "Gyors javítások eredeti alkatrészekkel"
+      }
+    }
+  },
+  "partsCatalog": {
+    "home": "Főoldal",
+    "spareParts": "Alkatrészek",
+    "heroDescription": "Találd meg a megfelelő alkatrészeket a drónodhoz. Böngéssz teljes katalógusunkban az eredeti XAG cserealkatrészek és tartozékok között.",
+    "selectCategory": "Válassz kategóriát",
+    "selectCategoryDescription": "Válassz egy alkatrészcsoportot az elérhető alkatrészek megtekintéséhez"
+  },
+  "footer": {
+    "description": "XNETIK - Hivatalos XAG forgalmazó Magyarországon. Drónok, robotok, AI és IoT integrálása a precíziós mezőgazdaságért és okos gazdálkodási megoldásokért.",
+    "products": "Termékek",
+    "resources": "Források",
+    "company": "Cég",
+    "support": "Támogatás",
+    "privacyPolicy": "Adatvédelmi irányelvek",
+    "termsOfUse": "Felhasználási feltételek",
+    "copyright": "© 2026 XNETIK Hungary. Minden jog fenntartva."
+  },
+  "whyChoose": {
+    "badge": "Miért XAG",
+    "title": "Miért válaszd az XNETIK Magyarországot",
+    "description": "Elkötelezettek vagyunk a legjobb mezőgazdasági drónmegoldások nyújtásában páratlan támogatással és szakértelemmel.",
+    "items": {
+      "technology": {
+        "title": "Élvonalbeli technológia",
+        "description": "Iparágvezető 4D képalkotó radar és AI-alapú autonóm rendszerek"
+      },
+      "support": {
+        "title": "Helyi támogatás",
+        "description": "Magyarországi technikai támogatás és országos szervizhálózat"
+      },
+      "training": {
+        "title": "Professzionális képzés",
+        "description": "Minősített képzési programok és tanúsítási kurzusok"
+      },
+      "efficiency": {
+        "title": "Maximális hatékonyság",
+        "description": "Több terület lefedése kevesebb idő alatt precíz alkalmazással"
+      },
+      "sustainability": {
+        "title": "Fenntartható gazdálkodás",
+        "description": "Csökkentett vegyszerhasználat és környezeti hatás"
+      },
+      "warranty": {
+        "title": "Átfogó garancia",
+        "description": "Kiterjesztett garanciális opciók és XAG Care Express támogatás"
+      }
+    }
+  },
+  "products": {
+    "specifications": "Specifikációk",
+    "features": "Jellemzők",
+    "payloadCapacity": "Hasznos teher kapacitás",
+    "maxSprayWidth": "Max. permetezési szélesség",
+    "flightTime": "Repülési idő",
+    "tankVolume": "Tartály térfogat",
+    "workingWidth": "Munkaszélesség",
+    "operatingTime": "Működési idő",
+    "speed": "Sebesség"
+  },
+  "p100pro": {
+    "badge": "Mezőgazdasági UAS",
+    "title": "XAG P100 Pro",
+    "description": "A tökéletes precíziós mezőgazdasági drón fejlett permetezési és szórási képességekkel a gazdaságok számára.",
+    "requestQuote": "Árajánlat kérése",
+    "viewSpecs": "Specifikációk",
+    "specs": {
+      "badge": "Teljesítmény",
+      "title": "Kulcs specifikációk",
+      "description": "Igényes mezőgazdasági műveletekhez tervezve precizitással és megbízhatósággal",
+      "maxPayload": "Max. hasznos teher",
+      "maxPayloadDesc": "Iparágvezető kapacitás",
+      "maxSpeed": "Max. sebesség",
+      "maxSpeedDesc": "Gyors terület lefedés",
+      "atomization": "Atomizálás",
+      "atomizationDesc": "Ultrafinom cseppméret",
+      "protection": "Védelem",
+      "protectionDesc": "Minden időjárásban működik"
+    },
+    "fieldPerformance": {
+      "badge": "Terepi teljesítmény",
+      "title": "Alakítsd át műveleteidet",
+      "description": "Hasonlítsd össze a hagyományos módszereket az XAG precíziós mezőgazdasággal",
+      "sprayingEfficiency": "Permetezési hatékonyság",
+      "chemicalSavings": "Vegyszer megtakarítás",
+      "coveragePrecision": "Lefedési precizitás",
+      "drone": "XAG P100 Pro",
+      "traditional": "Hagyományos",
+      "hectaresHour": "20+ hektár/óra",
+      "hectaresHourTraditional": "2-3 hektár/óra",
+      "faster": "10x gyorsabb",
+      "reduction": "30% csökkentés",
+      "standardUsage": "Standard használat",
+      "costEffective": "Költséghatékony",
+      "accuracy": "±2cm pontosság",
+      "variableCoverage": "Változó lefedés",
+      "gpsGuided": "GPS vezérelt"
+    },
+    "revospray": {
+      "badge": "Permetező rendszer",
+      "title": "RevoSpray P3",
+      "description": "Forradalmi centrifugális permetező rendszer intelligens áramlásvezérléssel. Egyenletes lefedettség elérhető ultrafinom atomizálással, 500µm cseppméretig.",
+      "features": {
+        "flowRate": "24L/perc maximális áramlási sebesség",
+        "sprayDiscs": "8 független permetezőtárcsa",
+        "variableRate": "AI-alapú változó dózisú permetezés",
+        "antiDrift": "Sodródásgátló technológia"
+      }
+    },
+    "revocast": {
+      "badge": "Szóró rendszer",
+      "title": "RevoCast P3",
+      "description": "Nagykapacitású szóró rendszer szemcsés műtrágyákhoz és magokhoz. Precíz elosztás állítható szórási szélességgel, akár 7 méterig.",
+      "features": {
+        "hopper": "50kg tartály kapacitás",
+        "spreadWidth": "7m szórási szélesség",
+        "variableRate": "Változó dózisú szórás",
+        "compatible": "Mag és műtrágya kompatibilis"
+      }
+    },
+    "radar": {
+      "badge": "Akadályelkerülés",
+      "title": "4D képalkotó radar",
+      "description": "Új generációs radar technológia intelligens akadályérzékeléshez és terepkövetéshez",
+      "detection360": "360° érzékelés",
+      "detection360Desc": "Teljes körű akadályérzékelés",
+      "range50m": "50m hatótáv",
+      "range50mDesc": "Nagy hatótávolságú érzékelés korai elkerüléshez",
+      "allWeather": "Minden időjárásban",
+      "allWeatherDesc": "Működik porban, ködben és gyenge fényben",
+      "terrainFollowing": "Terepkövetés",
+      "terrainFollowingDesc": "Adaptív magasságszabályozás egyenetlen terepen"
+    },
+    "superx": {
+      "badge": "Repülésirányítás",
+      "title": "SuperX 4 Pro",
+      "description": "Fejlett repülésirányító rendszer hármas redundanciával és AI-alapú autonóm képességekkel. Megbízható mezőgazdasági műveletekhez tervezve.",
+      "dualIMU": "Kettős IMU",
+      "dualIMUDesc": "Redundáns repülési szenzorok",
+      "rtkGPS": "RTK GPS",
+      "rtkGPSDesc": "Centiméteres pontosságú pozicionálás",
+      "aiCore": "AI mag",
+      "aiCoreDesc": "Intelligens repüléstervezés",
+      "fiveGReady": "5G kompatibilis",
+      "fiveGReadyDesc": "Nagysebességű adatátvitel"
+    },
+    "remote": {
+      "badge": "Távirányító",
+      "title": "ARC3 Pro",
+      "description": "Tapasztald meg a könnyű távirányító kényelmét, amelyet a pilóta terhelésének csökkentésére terveztek hosszú órákig tartó műveletek során. Az ARC3 Pro kompakt, tartós és kiterjesztett akkumulátor-élettartammal rendelkezik - tökéletes társ mezőgazdasági feladatokhoz.",
+      "controlRange": "Irányítási hatótáv",
+      "hdDisplay": "HD kijelző",
+      "dustWater": "Por és víz",
+      "batteryLife": "Akkumulátor élettartam"
+    },
+    "power": {
+      "badge": "Táprendszer",
+      "title": "Intelligens energiamenedzsment",
+      "description": "Gyorscserélhető akkumulátor rendszer intelligens töltéssel a folyamatos működéshez",
+      "capacity": "Kapacitás",
+      "voltage": "Feszültség",
+      "flightTime": "Repülési idő",
+      "b100Battery": "B100 akkumulátor",
+      "b150Battery": "B150 akkumulátor"
+    },
+    "positioning": {
+      "badge": "Navigáció",
+      "title": "Pozicionálási módok",
+      "description": "Több pozicionálási opció bármilyen környezethez",
+      "mode": "Mód",
+      "accuracy": "Pontosság",
+      "descriptionCol": "Leírás",
+      "rtk": "RTK",
+      "rtkDesc": "Valós idejű kinematikus maximális precizitáshoz",
+      "gnss": "GNSS",
+      "gnssDesc": "Standard GPS pozicionálás",
+      "vision": "Vizuális",
+      "visionDesc": "Vizuális pozicionálási rendszer GPS-mentes területekhez"
+    },
+    "dayNight": {
+      "badge": "24/7 műveletek",
+      "title": "Nappali és éjszakai képesség",
+      "description": "Erőteljes LED világítás és fejlett szenzorok teszik lehetővé a non-stop működést",
+      "dayMode": "Nappali mód",
+      "nightMode": "Éjszakai mód"
+    },
+    "app": {
+      "badge": "Okos gazdálkodás",
+      "title": "XAG One alkalmazás",
+      "description": "Teljes gazdaságmenedzsment platform a mezőgazdasági drónműveletek tervezéséhez, végrehajtásához és elemzéséhez.",
+      "features": {
+        "aiPlanning": "AI-alapú repüléstervezés",
+        "realTimeMonitoring": "Valós idejű műveleti felügyelet",
+        "analytics": "Részletes elemzések és jelentések",
+        "fleetManagement": "Több drónt kezelő flottamenedzsment"
+      },
+      "appStore": "App Store",
+      "googlePlay": "Google Play"
+    },
+    "contact": {
+      "badge": "Lépj kapcsolatba",
+      "title": "Készen állsz a gazdaságod átalakítására?",
+      "description": "Lépj kapcsolatba csapatunkkal, hogy többet tudj meg a P100 Pro-ról és arról, hogyan forradalmasíthatja mezőgazdasági műveleteidet.",
+      "callUs": "Hívj minket",
+      "emailUs": "Írj nekünk",
+      "form": {
+        "name": "Név *",
+        "email": "E-mail *",
+        "phone": "Telefon",
+        "company": "Cég",
+        "message": "Üzenet *",
+        "messagePlaceholder": "Mesélj gazdálkodási igényeidről...",
+        "submit": "Érdeklődés küldése"
+      }
+    }
+  },
+  "p150max": {
+    "badge": "Mezőgazdasági UAS",
+    "title": "XAG P150 Max",
+    "tagline": "Repülj Max. Teljesítmény a Maxig.",
+    "description": "Egykezelős mezőgazdasági drón térképezéshez, permetezéshez, szóráshoz és logisztikához 80kg hasznos teher kapacitással.",
+    "orderNow": "Rendelés most",
+    "viewSpecs": "Specifikációk",
+    "downloads": "Letöltések",
+    "specs": {
+      "badge": "Teljesítmény",
+      "title": "Alapvető specifikációk",
+      "description": "Iparágvezető teljesítmény igényes mezőgazdasági műveletekhez"
+    },
+    "contact": {
+      "badge": "Lépj kapcsolatba",
+      "title": "Készen állsz a gazdaságod potenciáljának maximalizálására?",
+      "description": "Lépj kapcsolatba csapatunkkal, hogy többet tudj meg a P150 Max-ról és arról, hogyan alakíthatja át mezőgazdasági műveleteidet."
+    }
+  },
+  "aboutUs": {
+    "badge": "Rólunk",
+    "title": "A magyar mezőgazdaság forradalmasítása",
+    "subtitle": "Az XNETIK Hungary az XAG mezőgazdasági drónok hivatalos forgalmazója Magyarországon, elkötelezetten a gazdálkodás innovatív technológián keresztüli átalakítása iránt.",
+    "stats": {
+      "established": "Alapítva",
+      "establishedValue": "2020",
+      "teamMembers": "Csapattagok",
+      "dronesDeployed": "Üzembe helyezett drónok",
+      "hectaresCovered": "Lefedett hektárok"
+    },
+    "story": {
+      "badge": "Történetünk",
+      "title": "Az okos mezőgazdaság úttörői Magyarországon",
+      "p1": "Az XNETIK Hungary drónokat, robotokat, autopilotokat, mesterséges intelligenciát és IoT megoldásokat vezet be a mezőgazdasági termelésbe, intelligens gazdálkodási ökoszisztémát hozva létre, ami a Mezőgazdaság 4.0 jellemzője.",
+      "p2": "Küldetésünk, hogy intelligensebbé tegyük a mezőgazdaságot a vezető drón technológia kombinálásával IoT terepi megfigyelő állomásokkal, GNSS RTK térbeli intelligenciával és felhőalapú számítással.",
+      "p3": "Törekszünk a vidéki népesség öregedésének kezelésére, a természeti erőforrások és biodiverzitás védelmére, valamint a termelékenység javítására az élelmiszerbiztonság biztosítása mellett."
+    },
+    "mission": {
+      "badge": "Küldetésünk",
+      "title": "Többet termelni kevesebbel",
+      "description": "Az ENSZ 2030-as menetrendje szerint 821 millió ember szenved éhínségtől világszerte. A globális népesség várhatóan 9 milliárdra nő 2050-re, a mezőgazdasági termelésnek körülbelül 60%-kal kell növekednie az igények kielégítéséhez. Elkötelezettek vagyunk amellett, hogy segítsük a gazdálkodókat több élelmiszer termelésében kevesebb erőforrás felhasználásával."
+    },
+    "values": {
+      "badge": "Értékeink",
+      "title": "Mi hajt minket",
+      "innovation": "Innováció",
+      "innovationDesc": "Folyamatosan feszegetjük a mezőgazdasági technológia határait élvonalbeli megoldások szállításáért.",
+      "sustainability": "Fenntarthatóság",
+      "sustainabilityDesc": "Precíziós mezőgazdasági megoldásaink segítenek csökkenteni a vegyszerhasználatot és a környezeti hatást.",
+      "excellence": "Kiválóság",
+      "excellenceDesc": "Elkötelezettek vagyunk a legmagasabb minőségű termékek és szolgáltatások nyújtásában ügyfeleinknek.",
+      "partnership": "Partnerség",
+      "partnershipDesc": "Szorosan együttműködünk a gazdálkodókkal, hogy megértsük igényeiket és testreszabott megoldásokat nyújtsunk."
+    },
+    "cta": {
+      "title": "Készen állsz a gazdaságod átalakítására?",
+      "description": "Lépj kapcsolatba csapatunkkal, hogy megtudod, hogyan segíthetnek az XAG drónok optimalizálni mezőgazdasági műveleteidet.",
+      "contactUs": "Kapcsolat",
+      "viewProducts": "Termékek megtekintése"
+    }
+  },
+  "productsPage": {
+    "badge": "Termékek",
+    "title": "Termékválasztékunk",
+    "description": "Fedezd fel átfogó mezőgazdasági drón és autonóm földi robot kínálatunkat, amelyeket precíziós gazdálkodásra terveztek.",
+    "airborne": {
+      "badge": "Légi",
+      "title": "Mezőgazdasági drónok",
+      "viewAll": "Összes megtekintése"
+    },
+    "landborne": {
+      "badge": "Földi",
+      "title": "Földi robotok",
+      "viewAll": "Összes megtekintése"
+    },
+    "autopilot": {
+      "badge": "Autopilot",
+      "title": "Autonóm vezető rendszerek",
+      "viewAll": "Tovább"
+    }
+  },
+  "termsOfUse": {
+    "title": "Felhasználási feltételek",
+    "lastUpdated": "Utoljára frissítve: 2026. január"
+  },
+  "privacyPolicy": {
+    "title": "Adatvédelmi irányelvek",
+    "lastUpdated": "Utoljára frissítve: 2026. január"
+  },
+  "apc2": {
+    "badge": "AutoPilot konzol",
+    "title": "XAG APC2",
+    "tagline": "Navigálj precízen",
+    "description": "Automatizált kormányzási megoldás kézmentes gazdálkodási műveletekhez. Lehetővé teszi mezőgazdasági gépek, például traktorok és kombájnok centiméteres pontosságú pozicionálással történő működtetését.",
+    "orderNow": "Rendelés most",
+    "viewSpecs": "Specifikációk",
+    "downloads": "Letöltések"
+  },
+  "r150": {
+    "badge": "Pilóta nélküli földi jármű EV",
+    "title": "XAG R150 2022",
+    "tagline": "Alakul minden mezőgazdasági küldetéshez",
+    "description": "Autonóm földi jármű többfunkciós képességekkel fűnyíráshoz, növényvédelemhez és szállítási műveletekhez.",
+    "orderNow": "Rendelés most",
+    "viewSpecs": "Specifikációk",
+    "downloads": "Letöltések"
+  },
+  "r100": {
+    "badge": "Mezőgazdasági rover",
+    "title": "XAG R100",
+    "tagline": "Okos gazdasági társ",
+    "description": "Megbízható gyümölcsösi és üvegházi partner, amely pontos, egyenletes permetezést biztosít egyszerű távirányítással, miközben változatos gazdálkodási műveleteket tesz lehetővé.",
+    "orderNow": "Rendelés most",
+    "viewSpecs": "Specifikációk",
+    "downloads": "Letöltések"
+  },
+  "r200": {
+    "badge": "Mezőgazdasági rover",
+    "title": "XAG R200",
+    "tagline": "Okos gazdasági társ",
+    "description": "Hatkerekű precíziós permetező platform gyümölcsösökhöz és üvegházakhoz, intuitív távirányítással és moduláris bővíthetőséggel változatos modern gazdálkodási alkalmazásokhoz.",
+    "orderNow": "Rendelés most",
+    "viewSpecs": "Specifikációk",
+    "downloads": "Letöltések"
+  },
+  "warrantyService": {
+    "badge": "Támogatás",
+    "title": "Garanciális szolgáltatás igénylése",
+    "description": "Nyújts be garanciális igényt XAG termékedre. Csapatunk 48 órán belül áttekinti kérésed és válaszol."
+  },
+  "repairService": {
+    "badge": "Támogatás",
+    "title": "Javítási szolgáltatás igénylése",
+    "description": "Nyújts be javítási kérelmet, és technikai csapatunk 24 órán belül visszajelez."
+  }
+}

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+
+  <!-- Main tank body -->
+  <ellipse cx="120" cy="320" rx="80" ry="120" fill="#2d3748" stroke="#1a202c" stroke-width="3"/>
+  <ellipse cx="120" cy="200" rx="80" ry="30" fill="#4a5568" stroke="#1a202c" stroke-width="2"/>
+
+  <!-- Tank cap -->
+  <rect x="95" y="170" width="50" height="20" rx="5" fill="#718096"/>
+
+  <!-- Frame structure -->
+  <path d="M200 250 L400 200 L600 250" stroke="#1a202c" stroke-width="4" fill="none"/>
+  <path d="M200 350 L400 400 L600 350" stroke="#1a202c" stroke-width="4" fill="none"/>
+
+  <!-- Vertical supports -->
+  <line x1="200" y1="250" x2="200" y2="350" stroke="#1a202c" stroke-width="3"/>
+  <line x1="400" y1="200" x2="400" y2="400" stroke="#1a202c" stroke-width="3"/>
+  <line x1="600" y1="250" x2="600" y2="350" stroke="#1a202c" stroke-width="3"/>
+
+  <!-- Pump assembly -->
+  <rect x="350" y="320" width="100" height="60" rx="10" fill="#4a5568" stroke="#1a202c" stroke-width="2"/>
+  <circle cx="400" cy="350" r="20" fill="#718096" stroke="#1a202c" stroke-width="2"/>
+
+  <!-- Tubes -->
+  <path d="M200 300 Q300 280 350 340" stroke="#e53e3e" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M450 340 Q500 300 550 320" stroke="#e53e3e" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M550 320 L650 280" stroke="#e53e3e" stroke-width="6" fill="none" stroke-linecap="round"/>
+
+  <!-- Nozzle assemblies -->
+  <rect x="620" y="260" width="40" height="50" rx="5" fill="#2d3748" stroke="#1a202c" stroke-width="2"/>
+  <rect x="680" y="240" width="40" height="50" rx="5" fill="#2d3748" stroke="#1a202c" stroke-width="2"/>
+  <rect x="740" y="220" width="40" height="50" rx="5" fill="#2d3748" stroke="#1a202c" stroke-width="2"/>
+
+  <!-- Cable hub -->
+  <rect x="280" y="180" width="60" height="40" rx="8" fill="#4a5568" stroke="#1a202c" stroke-width="2"/>
+
+  <!-- Connectors -->
+  <circle cx="500" cy="220" r="15" fill="#718096" stroke="#1a202c" stroke-width="2"/>
+  <circle cx="550" cy="200" r="12" fill="#718096" stroke="#1a202c" stroke-width="2"/>
+
+  <!-- Landing skids -->
+  <path d="M150 480 L250 450 L250 500 L150 530 Z" fill="#2d3748" stroke="#1a202c" stroke-width="2"/>
+  <path d="M550 480 L650 450 L650 500 L550 530 Z" fill="#2d3748" stroke="#1a202c" stroke-width="2"/>
+
+  <!-- Small components -->
+  <rect x="320" y="240" width="30" height="20" rx="3" fill="#718096"/>
+  <rect x="450" y="260" width="25" height="15" rx="2" fill="#718096"/>
+
+  <!-- Watermark text -->
+  <text x="400" y="560" text-anchor="middle" fill="#cbd5e0" font-family="Arial" font-size="14">XAG Application System - P100 Pro</text>
+</svg>

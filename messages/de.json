@@ -1,0 +1,1857 @@
+{
+  "common": {
+    "learnMore": "Mehr erfahren",
+    "contactUs": "Kontaktieren Sie uns",
+    "getQuote": "Angebot anfordern",
+    "viewAll": "Alle ansehen",
+    "viewAllProducts": "Alle Produkte ansehen",
+    "readMore": "Mehr lesen",
+    "submit": "Absenden",
+    "loading": "Laden...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "close": "Schließen",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "address": "Adresse"
+  },
+  "nav": {
+    "products": "Produkte",
+    "resources": "Ressourcen",
+    "services": "Dienstleistungen",
+    "spareParts": "Ersatzteile",
+    "sparePartsSub": "Ersatzteilkatalog für XAG-Produkte",
+    "viewAllSpareParts": "Alle Ersatzteile ansehen",
+    "company": "Unternehmen",
+    "airborne": "Luftgestützt",
+    "airborneSub": "Landwirtschaftliche Drohnen",
+    "landborne": "Bodengestützt",
+    "landborneSub": "Bodenausrüstung",
+    "blog": "Blog",
+    "caseStudies": "Fallstudien",
+    "videosTutorials": "Videos & Tutorials",
+    "downloadCenter": "Download-Center",
+    "droneSafety": "Drohnensicherheit",
+    "fieldOperations": "Feldeinsätze",
+    "trainingPrograms": "Schulungsprogramme",
+    "xagCareExpress": "XAG Care Express",
+    "aboutUs": "Über uns",
+    "events": "Veranstaltungen",
+    "careers": "Karriere",
+    "contact": "Kontakt",
+    "viewAllProducts": "Alle Produkte ansehen"
+  },
+  "home": {
+    "heroTagline": "Fortschrittliche Landwirtschaft mit innovativer Technologie",
+    "heroSubtitle": "Landwirtschaftsdrohne",
+    "ctaLearnMore": "Mehr erfahren",
+    "ctaContact": "Kontaktieren Sie uns",
+    "ctaOrderNow": "Jetzt bestellen",
+    "statsYears": "Jahre Erfahrung",
+    "statsYearsSub": "in landwirtschaftlichen Drohnen",
+    "statsHectares": "Bearbeitete Hektar",
+    "statsHectaresSub": "jährlich",
+    "statsCountries": "Länder",
+    "statsCountriesSub": "weltweite Präsenz",
+    "statsFlightHours": "Flugstunden",
+    "statsFlightHoursSub": "kumuliert",
+    "scrollToExplore": "Scrollen zum Erkunden",
+    "readyToTransform": "Bereit, Ihren Betrieb zu transformieren?",
+    "readyToTransformDesc": "Kontaktieren Sie unser Team, um zu erfahren, wie XAG-Drohnen Ihre landwirtschaftlichen Betriebe revolutionieren können.",
+    "viewProducts": "Produkte ansehen",
+    "p150MaxSubtitle": "Die schnellste Landwirtschaftsdrohne",
+    "p100ProSubtitle": "Präzision trifft Leistung",
+    "r150Subtitle": "Bodenbasierte Präzision",
+    "apc2Subtitle": "Autopilot für Maschinen"
+  },
+  "stats": {
+    "globalImpact": "Globale Wirkung",
+    "title": "Beeindruckende Zahlen hinter unserem Geschäft",
+    "description": "XAG wird von Landwirten und Agrarfachleuten weltweit vertraut",
+    "tons": "Tonnen",
+    "tonsSub": "gesteigerter Ernteertrag",
+    "countries": "Länder",
+    "countriesSub": "& Regionen weltweit",
+    "dronePilots": "Drohnenpiloten",
+    "dronePilotsSub": "weltweit ausgebildet",
+    "hectares": "Hektar",
+    "hectaresSub": "weltweit bewirtschaftet",
+    "suffixes": {
+      "million": " Millionen",
+      "plus": "+",
+      "kPlus": "K+"
+    }
+  },
+  "productCollections": {
+    "ourProducts": "Unsere Produkte",
+    "title": "Agrartechnologie",
+    "description": "Entdecken Sie unsere Palette intelligenter Landwirtschaftsdrohnen und Bodenroboter, die Ihre Betriebsabläufe optimieren.",
+    "featuredProducts": "Empfohlene Produkte",
+    "viewAll": "Alle ansehen",
+    "airborne": "Luftgestützt",
+    "airborneDesc": "Landwirtschaftliche Drohnen für präzises Sprühen, Säen und Kartieren",
+    "landborne": "Bodengestützt",
+    "landborneDesc": "Autonome Bodenroboter für Obstgärten, Weinberge und Reihenkulturen",
+    "autopilot": "Autopilot",
+    "autopilotDesc": "Autonomes Lenksystem für traditionelle Landmaschinen",
+    "new": "Neu",
+    "popular": "Beliebt"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "heroTitle": "Kontaktieren Sie uns",
+    "heroDescription": "Haben Sie Fragen zu unseren Produkten oder Dienstleistungen? Unser Team hilft Ihnen gerne, die richtige Lösung für Ihre landwirtschaftlichen Anforderungen zu finden.",
+    "infoTitle": "Kontaktinformationen",
+    "formTitle": "Nachricht senden",
+    "fullName": "Vollständiger Name",
+    "fullNamePlaceholder": "Max Mustermann",
+    "emailAddress": "E-Mail-Adresse",
+    "emailPlaceholder": "max@beispiel.de",
+    "phoneNumber": "Telefonnummer",
+    "phonePlaceholder": "+49 123 456 789",
+    "companyName": "Firma / Betriebsname",
+    "companyPlaceholder": "Ihre Firma",
+    "subject": "Betreff",
+    "subjectPlaceholder": "Betreff auswählen",
+    "subjectOptions": {
+      "productInquiry": "Produktanfrage",
+      "quoteRequest": "Angebot anfordern",
+      "training": "Schulungsprogramme",
+      "support": "Technischer Support",
+      "partnership": "Partnerschaftsmöglichkeit",
+      "other": "Sonstiges"
+    },
+    "message": "Nachricht",
+    "messagePlaceholder": "Teilen Sie uns mit, wie wir helfen können...",
+    "sendMessage": "Nachricht senden",
+    "sending": "Wird gesendet...",
+    "successTitle": "Nachricht gesendet!",
+    "successMessage": "Vielen Dank für Ihre Kontaktaufnahme. Unser Team wird so schnell wie möglich auf Ihre Nachricht antworten.",
+    "errorTitle": "Fehler beim Senden",
+    "errorMessage": "Es tut uns leid, beim Senden Ihrer Nachricht ist ein Problem aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt.",
+    "salesSpecialist": "Vertriebsspezialist",
+    "ceo": "Geschäftsführer",
+    "addressValue": "ul. Smolna 14\n44-200 Rybnik\nPolen"
+  },
+  "resources": {
+    "badge": "Ressourcen",
+    "title": "Lernen & Entdecken",
+    "description": "Greifen Sie auf Video-Tutorials und technische Dokumentation zu, um das Beste aus Ihren XAG-Produkten herauszuholen.",
+    "recentUpdates": "Neueste Updates",
+    "viewAll": "Alle ansehen",
+    "items": {
+      "videos": {
+        "title": "Videos & Tutorials",
+        "description": "Produktdemos und Anleitungen",
+        "image": "/images/videos/p150-max-overview.jpg",
+        "href": "/videos-tutorials",
+        "count": "50+ Videos"
+      },
+      "downloads": {
+        "title": "Download-Center",
+        "description": "Handbücher, technische Spezifikationen und Anleitungen",
+        "image": "/images/products/p150-max/thumbnail.webp",
+        "href": "/download-center",
+        "count": "Dokumente"
+      }
+    }
+  },
+  "videosTutorials": {
+    "badge": "Ressourcen",
+    "title": "Videos & Tutorials",
+    "description": "Sehen Sie Produktdemonstrationen, praktische Tutorials und erfahren Sie, wie Sie Ihre landwirtschaftlichen Abläufe mit XAG-Drohnen optimieren können.",
+    "all": "Alle",
+    "product": "Produkt",
+    "tutorial": "Tutorial",
+    "watchNow": "Jetzt ansehen",
+    "videos": {
+      "p150Overview": {
+        "title": "P150 Max Produktübersicht",
+        "description": "Entdecken Sie die Funktionen und Fähigkeiten der XAG P150 Max Landwirtschaftsdrohne.",
+        "duration": "5:32",
+        "category": "Produkt"
+      },
+      "calibration": {
+        "title": "So kalibrieren Sie Ihre XAG-Drohne",
+        "description": "Schritt-für-Schritt-Anleitung zur Kalibrierung Ihrer XAG-Drohne für optimale Leistung.",
+        "duration": "8:15",
+        "category": "Tutorial"
+      },
+      "spraying": {
+        "title": "Präzisionsspritzen - Best Practices",
+        "description": "Lernen Sie Techniken für optimale Sprühabdeckung und Effizienz.",
+        "duration": "12:45",
+        "category": "Tutorial"
+      },
+      "r150Action": {
+        "title": "R150 Bodenroboter im Einsatz",
+        "description": "Sehen Sie den R150 autonomen Bodensprüher im Einsatz in einem Weinberg.",
+        "duration": "4:20",
+        "category": "Produkt"
+      },
+      "cloudSetup": {
+        "title": "XAG Agriculture Cloud Einrichtung",
+        "description": "So richten Sie die XAG Agriculture Cloud-Plattform ein und nutzen sie.",
+        "duration": "10:30",
+        "category": "Tutorial"
+      },
+      "maintenance": {
+        "title": "Grundlegende Drohnenwartung",
+        "description": "Wichtiger Leitfaden für die regelmäßige Wartung Ihrer XAG Landwirtschaftsdrohne.",
+        "duration": "6:15",
+        "category": "Tutorial"
+      }
+    }
+  },
+  "xagCareExpress": {
+    "badge": "Support",
+    "title": "XAG Care Express",
+    "description": "Premium-Support und Wartungsdienstleistungen, um Ihre XAG-Geräte in Höchstleistung zu halten.",
+    "services": {
+      "badge": "Unsere Leistungen",
+      "title": "Was enthalten ist",
+      "priorityRepairs": {
+        "title": "Prioritäts-Reparaturen",
+        "description": "Schnellreparatur-Service mit Prioritätsbehandlung für minimale Ausfallzeiten."
+      },
+      "genuineParts": {
+        "title": "Original-Ersatzteile",
+        "description": "Nur authentische XAG-Komponenten für alle Reparaturen und Ersatzteile."
+      },
+      "expertTechnicians": {
+        "title": "Fach-Techniker",
+        "description": "Werksgeschulte Techniker mit umfassendem XAG-Produktwissen."
+      },
+      "extendedWarranty": {
+        "title": "Erweiterte Garantie",
+        "description": "Optionale erweiterte Garantieabdeckung für zusätzliche Sicherheit."
+      }
+    },
+    "plans": {
+      "badge": "Preise",
+      "title": "Wählen Sie Ihren Plan",
+      "mostPopular": "Am beliebtesten",
+      "getStarted": "Jetzt starten",
+      "perYear": "/Jahr",
+      "basic": {
+        "name": "Basic Care",
+        "price": "700 €",
+        "features": {
+          "priority": "Standard-Reparaturpriorität",
+          "discount": "10% Ersatzteilrabatt",
+          "support": "Telefon-Support",
+          "check": "Jährliche Gesundheitsprüfung"
+        }
+      },
+      "plus": {
+        "name": "Care Plus",
+        "price": "1.000 €",
+        "features": {
+          "priority": "Prioritäts-Reparaturservice",
+          "discount": "20% Ersatzteilrabatt",
+          "support": "Telefon- & E-Mail-Support",
+          "check": "Halbjährliche Gesundheitsprüfung",
+          "firmware": "Kostenlose Firmware-Updates",
+          "loaner": "Leihdrohne verfügbar"
+        }
+      },
+      "premium": {
+        "name": "Care Premium",
+        "price": "2.000 €",
+        "features": {
+          "priority": "Express-Reparaturservice",
+          "discount": "30% Ersatzteilrabatt",
+          "support": "24/7 dedizierter Support",
+          "check": "Vierteljährliche Gesundheitsprüfung",
+          "firmware": "Kostenlose Firmware-Updates",
+          "loaner": "Garantierte Leihdrohne",
+          "onsite": "Vor-Ort-Technikerbesuch"
+        }
+      }
+    },
+    "cta": {
+      "title": "Brauchen Sie sofortige Unterstützung?",
+      "description": "Kontaktieren Sie unser Support-Team für dringende Reparaturen oder technische Hilfe.",
+      "requestRepair": "Reparatur anfordern",
+      "contactSupport": "Support kontaktieren"
+    }
+  },
+  "fieldOperations": {
+    "badge": "Dienstleistungen",
+    "title": "Feldeinsätze",
+    "description": "Professionelle Drohnensprüh- und Landwirtschaftsdienste durch unsere erfahrenen Betreiber. Überlassen Sie uns Ihren Pflanzenschutz.",
+    "requestQuote": "Angebot anfordern",
+    "services": {
+      "badge": "Unsere Leistungen",
+      "title": "Was wir anbieten",
+      "spray": {
+        "title": "Pflanzenspritzung",
+        "description": "Präzise Herbizid-, Pestizid- und Fungizidanwendung für alle Kulturarten."
+      },
+      "seed": {
+        "title": "Aussaat & Streuung",
+        "description": "Effiziente Luftsaat für Zwischenfrüchte und Granulatdüngerstreuung."
+      },
+      "monitor": {
+        "title": "Kulturüberwachung",
+        "description": "Luftaufnahmen und NDVI-Kartierung zur Identifizierung von Problemzonen."
+      },
+      "custom": {
+        "title": "Individuelle Lösungen",
+        "description": "Maßgeschneiderte Drohnendienste für Ihre spezifischen landwirtschaftlichen Anforderungen."
+      }
+    },
+    "benefits": {
+      "badge": "Warum wir",
+      "title": "Vorteile der Drohneneinsätze",
+      "items": {
+        "chemicals": "Reduzierung des Chemikalieneinsatzes um bis zu 30%",
+        "coverage": "Mehr Fläche in kürzerer Zeit abdecken",
+        "terrain": "Zugang zu schwierigem Gelände und nassen Feldern",
+        "damage": "Minimierung von Ernteschäden durch Bodenausrüstung",
+        "precision": "Präzise Anwendung mit GPS-Führung",
+        "data": "Echtzeit-Daten und Berichterstattung"
+      }
+    },
+    "process": {
+      "badge": "So funktioniert's",
+      "title": "Unser Prozess",
+      "step1": {
+        "title": "Kontaktieren Sie uns",
+        "description": "Fordern Sie ein Angebot mit Ihren Felddetails an"
+      },
+      "step2": {
+        "title": "Standortbewertung",
+        "description": "Wir bewerten Ihr Grundstück und Ihre Bedürfnisse"
+      },
+      "step3": {
+        "title": "Terminplanung",
+        "description": "Buchen Sie Ihren gewünschten Einsatztermin"
+      },
+      "step4": {
+        "title": "Durchführung",
+        "description": "Unser Team führt den Einsatz durch"
+      }
+    },
+    "cta": {
+      "title": "Bereit zum Starten?",
+      "description": "Kontaktieren Sie uns noch heute für ein kostenloses Angebot für unsere Feldeinsatzdienste."
+    }
+  },
+  "downloadCenter": {
+    "badge": "Ressourcen",
+    "title": "Download-Center",
+    "description": "Zugang zu Produktbroschüren, Benutzerhandbüchern, Software-Updates und technischer Dokumentation.",
+    "documentType": "Dokumententyp",
+    "product": "Produkt",
+    "all": "Alle",
+    "allProducts": "Alle Produkte",
+    "brochure": "Broschüre",
+    "manual": "Handbuch",
+    "guide": "Anleitung",
+    "download": "Herunterladen",
+    "app": {
+      "badge": "Mobile App",
+      "title": "XAG One App",
+      "description": "Komplette Plattform für landwirtschaftliches Management zur Planung, Durchführung und Analyse Ihrer Operationen mit Landwirtschaftsdrohnen.",
+      "feature1": "KI-gestützte Flugplanung",
+      "feature2": "Echtzeit-Betriebsüberwachung",
+      "feature3": "Detaillierte Analysen & Berichte",
+      "feature4": "Multi-Drohnen-Flottenmanagement",
+      "downloadOn": "Laden im",
+      "getItOn": "Jetzt bei"
+    },
+    "docs": {
+      "badge": "Dokumentation",
+      "title": "Handbücher & Spezifikationen",
+      "description": "Laden Sie Benutzerhandbücher, technische Anleitungen und Produktspezifikationen herunter."
+    },
+    "downloads": {
+      "p150maxManual": {
+        "title": "P150 Max Benutzerhandbuch",
+        "description": "Vollständiges Benutzerhandbuch für die XAG P150 Max 2024 Landwirtschaftsdrohne.",
+        "type": "Handbuch",
+        "fileSize": "32 MB",
+        "format": "PDF",
+        "product": "P150 Max"
+      },
+      "p100proSpecs": {
+        "title": "P100 Pro Technische Spezifikationen",
+        "description": "Vollständige Spezifikationen und Funktionsübersicht der P100 Pro Drohne.",
+        "type": "Handbuch",
+        "fileSize": "2,5 MB",
+        "format": "PDF",
+        "product": "P100 Pro"
+      },
+      "r150Specs": {
+        "title": "R150 Technische Spezifikationen",
+        "description": "Umfassender Spezifikationsleitfaden für den R150 Bodenroboter.",
+        "type": "Handbuch",
+        "fileSize": "1,8 MB",
+        "format": "PDF",
+        "product": "R150"
+      },
+      "v40Specs": {
+        "title": "V40 Technische Spezifikationen",
+        "description": "Spezifikationen und Funktionen der V40 Landwirtschaftsdrohne.",
+        "type": "Handbuch",
+        "fileSize": "2,1 MB",
+        "format": "PDF",
+        "product": "V40"
+      }
+    }
+  },
+  "training": {
+    "badge": "Schulungsprogramme",
+    "title": "Werden Sie zertifizierter Drohnenpilot",
+    "description": "Erhalten Sie eine anerkannte Ausbildung und Zertifizierung für den professionellen Betrieb von Landwirtschaftsdrohnen. Unsere umfassenden Programme decken alles ab, von grundlegenden Operationen bis hin zu fortgeschrittenen Sprühtechniken.",
+    "viewPrograms": "Programme ansehen",
+    "enquireNow": "Jetzt anfragen",
+    "pilotsTrained": "Weltweit ausgebildete Drohnenpiloten",
+    "features": {
+      "certified": {
+        "title": "Offizielle Zertifizierung",
+        "subtitle": "Anerkannte Zertifizierung"
+      },
+      "handsOn": {
+        "title": "Praktische Schulung",
+        "subtitle": "Praktische Erfahrung"
+      },
+      "experts": {
+        "title": "Erfahrene Ausbilder",
+        "subtitle": "Branchenexperten"
+      },
+      "nationwide": {
+        "title": "Landesweit",
+        "subtitle": "Standorte in ganz Polen"
+      }
+    }
+  },
+  "support": {
+    "badge": "Kundensupport",
+    "title": "Wir sind für Sie da",
+    "description": "Unser engagiertes Support-Team ist bereit, Ihnen bei Fragen, technischen Problemen oder Serviceanfragen zu helfen. Erhalten Sie die Hilfe, die Sie benötigen, um Ihre Betriebsabläufe reibungslos am Laufen zu halten.",
+    "contactSupport": "Support kontaktieren",
+    "email": "E-Mail",
+    "items": {
+      "technical": {
+        "title": "Technischer Support",
+        "description": "Fachmännische Unterstützung für alle XAG-Produkte"
+      },
+      "docs": {
+        "title": "Dokumentation",
+        "description": "Handbücher, Anleitungen und Ressourcen"
+      },
+      "warranty": {
+        "title": "Garantieservice",
+        "description": "Abdeckung und Anspruchsunterstützung"
+      },
+      "repair": {
+        "title": "Reparaturservice",
+        "description": "Schnelle Reparaturen mit Original-Ersatzteilen"
+      }
+    }
+  },
+  "partsCatalog": {
+    "home": "Startseite",
+    "spareParts": "Ersatzteile",
+    "heroDescription": "Finden Sie die richtigen Ersatzteile für Ihre Drohne. Durchsuchen Sie unseren kompletten Katalog mit Original-XAG-Ersatzteilen und Zubehör.",
+    "selectCategory": "Kategorie auswählen",
+    "selectCategoryDescription": "Wählen Sie eine Komponentengruppe, um verfügbare Teile anzuzeigen"
+  },
+  "footer": {
+    "description": "XAG IMEGA bietet eine breite Palette von Landwirtschaftsdrohnen zur Optimierung der landwirtschaftlichen Abläufe und Steigerung der Ernteerträge.",
+    "products": "Produkte",
+    "resources": "Ressourcen",
+    "company": "Unternehmen",
+    "support": "Support",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfUse": "Nutzungsbedingungen",
+    "copyright": "© 2026 XAG IMEGA Poland. Alle Rechte vorbehalten."
+  },
+  "whyChoose": {
+    "badge": "Warum XAG",
+    "title": "Warum XAG Polen wählen",
+    "description": "Wir sind bestrebt, die besten Lösungen für Landwirtschaftsdrohnen mit unübertroffener Unterstützung und Expertise zu liefern.",
+    "items": {
+      "technology": {
+        "title": "Modernste Technologie",
+        "description": "Branchenführendes 4D-Bildradar und KI-gestützte autonome Systeme"
+      },
+      "support": {
+        "title": "Lokaler Support",
+        "description": "In Polen ansässiger technischer Support und landesweites Servicenetzwerk"
+      },
+      "training": {
+        "title": "Professionelle Schulung",
+        "description": "Zertifizierte Schulungsprogramme und Zertifizierungskurse"
+      },
+      "efficiency": {
+        "title": "Maximale Effizienz",
+        "description": "Mehr Fläche in kürzerer Zeit mit präziser Anwendung abdecken"
+      },
+      "sustainability": {
+        "title": "Nachhaltige Landwirtschaft",
+        "description": "Reduzierung des Chemikalieneinsatzes und der Umweltauswirkungen"
+      },
+      "warranty": {
+        "title": "Umfassende Garantie",
+        "description": "Erweiterte Garantieoptionen und XAG Care Express Support"
+      }
+    }
+  },
+  "products": {
+    "specifications": "Spezifikationen",
+    "features": "Funktionen",
+    "payloadCapacity": "Nutzlastkapazität",
+    "maxSprayWidth": "Max. Sprühbreite",
+    "flightTime": "Flugzeit",
+    "tankVolume": "Tankvolumen",
+    "workingWidth": "Arbeitsbreite",
+    "operatingTime": "Betriebszeit",
+    "speed": "Geschwindigkeit"
+  },
+  "p100pro": {
+    "badge": "Landwirtschaftliches UAS",
+    "title": "XAG P100 Pro",
+    "description": "Die ultimative Präzisions-Landwirtschaftsdrohne mit fortschrittlichen Sprüh- und Streufähigkeiten für landwirtschaftliche Betriebe.",
+    "requestQuote": "Angebot anfordern",
+    "viewSpecs": "Spezifikationen ansehen",
+    "specs": {
+      "badge": "Leistung",
+      "title": "Wichtige Spezifikationen",
+      "description": "Gebaut für anspruchsvolle landwirtschaftliche Einsätze mit Präzision und Zuverlässigkeit",
+      "maxPayload": "Max. Nutzlast",
+      "maxPayloadDesc": "Branchenführende Kapazität",
+      "maxSpeed": "Max. Geschwindigkeit",
+      "maxSpeedDesc": "Schnelle Feldabdeckung",
+      "atomization": "Zerstäubung",
+      "atomizationDesc": "Ultrafeine Tröpfchengröße",
+      "protection": "Schutz",
+      "protectionDesc": "Allwetterbetrieb"
+    },
+    "fieldPerformance": {
+      "badge": "Feldleistung",
+      "title": "Transformieren Sie Ihre Abläufe",
+      "description": "Vergleichen Sie traditionelle Methoden mit XAG-Präzisionslandwirtschaft",
+      "sprayingEfficiency": "Sprüheffizienz",
+      "chemicalSavings": "Chemikalieneinsparungen",
+      "coveragePrecision": "Abdeckungspräzision",
+      "drone": "XAG P100 Pro",
+      "traditional": "Traditionell",
+      "hectaresHour": "20+ Hektar/Stunde",
+      "hectaresHourTraditional": "2-3 Hektar/Stunde",
+      "faster": "10x schneller",
+      "reduction": "30% Reduzierung",
+      "standardUsage": "Standardverbrauch",
+      "costEffective": "Kosteneffektiv",
+      "accuracy": "±2cm Genauigkeit",
+      "variableCoverage": "Variable Abdeckung",
+      "gpsGuided": "GPS-geführt"
+    },
+    "revospray": {
+      "badge": "Sprühsystem",
+      "title": "RevoSpray P3",
+      "description": "Revolutionäres Zentrifugal-Sprühsystem mit intelligenter Durchflusssteuerung. Erreichen Sie gleichmäßige Abdeckung mit ultrafeiner Zerstäubung bis zu 500µm Tröpfchengröße.",
+      "features": {
+        "flowRate": "24L/min maximale Durchflussrate",
+        "sprayDiscs": "8 unabhängige Sprühscheiben",
+        "variableRate": "KI-gestützte variable Ausbringung",
+        "antiDrift": "Anti-Drift-Technologie"
+      }
+    },
+    "revocast": {
+      "badge": "Streusystem",
+      "title": "RevoCast P3",
+      "description": "Hochkapazitäts-Streusystem für Granulatdünger und Saatgut. Präzise Verteilung mit einstellbarer Streubreite bis zu 7 Metern.",
+      "features": {
+        "hopper": "50kg Behälterkapazität",
+        "spreadWidth": "7m Streubreite",
+        "variableRate": "Variable Streurate",
+        "compatible": "Saatgut- und Düngerkompatibel"
+      }
+    },
+    "radar": {
+      "badge": "Hinderniserkennung",
+      "title": "4D-Bildradar",
+      "description": "Radartechnologie der nächsten Generation für intelligente Hinderniserkennung und Geländeverfolgung",
+      "detection360": "360°-Erkennung",
+      "detection360Desc": "Vollständige omnidirektionale Hinderniserkennung",
+      "range50m": "50m Reichweite",
+      "range50mDesc": "Fernerkennung für frühzeitiges Ausweichen",
+      "allWeather": "Allwetter",
+      "allWeatherDesc": "Funktioniert bei Staub, Nebel und schlechten Lichtverhältnissen",
+      "terrainFollowing": "Geländeverfolgung",
+      "terrainFollowingDesc": "Adaptive Höhensteuerung über unebenem Gelände"
+    },
+    "superx": {
+      "badge": "Flugsteuerung",
+      "title": "SuperX 4 Pro",
+      "description": "Fortschrittliches Flugsteuerungssystem mit dreifacher Redundanz und KI-gestützten autonomen Fähigkeiten. Entwickelt für zuverlässige landwirtschaftliche Einsätze.",
+      "dualIMU": "Doppel-IMU",
+      "dualIMUDesc": "Redundante Flugsensoren",
+      "rtkGPS": "RTK-GPS",
+      "rtkGPSDesc": "Zentimetergenaue Positionierung",
+      "aiCore": "KI-Kern",
+      "aiCoreDesc": "Intelligente Flugplanung",
+      "fiveGReady": "5G-bereit",
+      "fiveGReadyDesc": "Hochgeschwindigkeits-Datenübertragung"
+    },
+    "remote": {
+      "badge": "Fernsteuerung",
+      "title": "ARC3 Pro",
+      "description": "Erleben Sie den Komfort einer leichten Fernsteuerung, die entwickelt wurde, um die Belastung des Piloten bei langen Einsätzen zu reduzieren. Die ARC3 Pro ist kompakt, langlebig und verfügt über eine verlängerte Akkulaufzeit - der perfekte Begleiter für landwirtschaftliche Aufgaben.",
+      "controlRange": "Steuerungsreichweite",
+      "hdDisplay": "HD-Display",
+      "dustWater": "Staub & Wasser",
+      "batteryLife": "Akkulaufzeit"
+    },
+    "power": {
+      "badge": "Energiesystem",
+      "title": "Intelligentes Energiemanagement",
+      "description": "Schnellwechsel-Akkusystem mit intelligentem Laden für kontinuierlichen Betrieb",
+      "capacity": "Kapazität",
+      "voltage": "Spannung",
+      "flightTime": "Flugzeit",
+      "b100Battery": "B100 Akku",
+      "b150Battery": "B150 Akku"
+    },
+    "positioning": {
+      "badge": "Navigation",
+      "title": "Positionierungsmodi",
+      "description": "Mehrere Positionierungsoptionen für jede Umgebung",
+      "mode": "Modus",
+      "accuracy": "Genauigkeit",
+      "descriptionCol": "Beschreibung",
+      "rtk": "RTK",
+      "rtkDesc": "Echtzeit-Kinematik für maximale Präzision",
+      "gnss": "GNSS",
+      "gnssDesc": "Standard-GPS-Positionierung",
+      "vision": "Vision",
+      "visionDesc": "Visuelles Positionierungssystem für GPS-eingeschränkte Bereiche"
+    },
+    "dayNight": {
+      "badge": "24/7-Betrieb",
+      "title": "Tag- und Nachtfähigkeit",
+      "description": "Leistungsstarke LED-Beleuchtung und fortschrittliche Sensoren ermöglichen Rund-um-die-Uhr-Betrieb",
+      "dayMode": "Tagmodus",
+      "nightMode": "Nachtmodus"
+    },
+    "app": {
+      "badge": "Smart Farming",
+      "title": "XAG One App",
+      "description": "Komplette Farm-Management-Plattform für Planung, Durchführung und Analyse Ihrer landwirtschaftlichen Drohneneinsätze.",
+      "features": {
+        "aiPlanning": "KI-gestützte Flugplanung",
+        "realTimeMonitoring": "Echtzeit-Betriebsüberwachung",
+        "analytics": "Detaillierte Analysen & Berichte",
+        "fleetManagement": "Multi-Drohnen-Flottenmanagement"
+      },
+      "appStore": "App Store",
+      "googlePlay": "Google Play"
+    },
+    "contact": {
+      "badge": "Kontakt",
+      "title": "Bereit, Ihren Betrieb zu transformieren?",
+      "description": "Kontaktieren Sie unser Team, um mehr über die P100 Pro zu erfahren und wie sie Ihre landwirtschaftlichen Abläufe revolutionieren kann.",
+      "callUs": "Rufen Sie uns an",
+      "emailUs": "Schreiben Sie uns",
+      "form": {
+        "name": "Name *",
+        "email": "E-Mail *",
+        "phone": "Telefon",
+        "company": "Unternehmen",
+        "message": "Nachricht *",
+        "messagePlaceholder": "Erzählen Sie uns von Ihren landwirtschaftlichen Anforderungen...",
+        "submit": "Anfrage senden"
+      }
+    }
+  },
+  "p150max": {
+    "badge": "Landwirtschaftliches UAS",
+    "title": "XAG P150 Max",
+    "tagline": "Fliegen Sie Max. Leistung zum Maximum.",
+    "description": "Einmann-Landwirtschaftsdrohne mit Unterstützung für Feldkartierung, Sprühen, Streuen und Logistik mit 80kg Nutzlastkapazität.",
+    "orderNow": "Jetzt bestellen",
+    "viewSpecs": "Spezifikationen ansehen",
+    "downloads": "Downloads",
+    "specs": {
+      "badge": "Leistung",
+      "title": "Kernspezifikationen",
+      "description": "Branchenführende Leistung für anspruchsvolle landwirtschaftliche Einsätze",
+      "sprayingTank": "Sprühtank",
+      "sprayingTankDesc": "Maximale Kapazität",
+      "maxFlowRate": "Max. Durchflussrate",
+      "maxFlowRateDesc": "Sprühleistung",
+      "spreadingTank": "Streutank",
+      "spreadingTankDesc": "Granulatbehälter",
+      "spreadRate": "Streurate",
+      "spreadRateDesc": "Maximale Leistung",
+      "liftingCapacity": "Hebekapazität",
+      "liftingCapacityDesc": "Nutzlastkapazität",
+      "coverageFlight": "Abdeckung/Flug",
+      "coverageFlightDesc": "Pro Akkuzyklus",
+      "maxSpeed": "Max. Geschwindigkeit",
+      "maxSpeedDesc": "Betriebsgeschwindigkeit",
+      "bodyWeight": "Körpergewicht",
+      "bodyWeightDesc": "Drohnengewicht"
+    },
+    "revospray": {
+      "badge": "Sprühsystem",
+      "title": "RevoSpray P5",
+      "description": "Fortschrittliches Zentrifugal-Sprühsystem mit intelligenter Durchflusssteuerung. Aufrüstbar auf 46 L/min Durchfluss mit Vier-Düsen-Kit für maximale Abdeckungseffizienz.",
+      "features": {
+        "tankCapacity": "80L Tankkapazität mit 46 L/min Durchflussrate",
+        "dropletSize": "Tröpfchengröße: 60-500 μm",
+        "sprayWidth": "Sprühbreite: 5-10 Meter",
+        "impellerPumps": "Flexible Laufradpumpen mit 300+ Stunden Lebensdauer",
+        "centrifugalNozzle": "Intelligentes Zentrifugaldüsensystem",
+        "smartTank": "Intelligenter Flüssigkeitstank mit kapillarem pneumatischem Sensor"
+      }
+    },
+    "revocast": {
+      "badge": "Streusystem",
+      "title": "RevoCast P5",
+      "description": "Hochkapazitäts-Streusystem mit vertikaler Schwenktechnologie für präzise Granulatverteilung von Saatgut, Düngemitteln und Pulvern.",
+      "features": {
+        "granuleContainer": "115L Granulatbehälterkapazität",
+        "maxSpreadRate": "300 kg/min maximale Streurate",
+        "spreadWidth": "9 Meter Streubreite",
+        "waving": "Vertikale Schwenkstreuer-Technologie",
+        "feeders": "Drei austauschbare Schneckenförderer (groß, mittel, klein)",
+        "compatible": "Kompatibel mit Saatgut, Dünger und Pulvern"
+      }
+    },
+    "revosling": {
+      "badge": "Feldlogistik",
+      "title": "RevoSling",
+      "description": "Verwandeln Sie Ihre P150 Max in ein Logistik-Kraftpaket mit 80kg Nutzlastkapazität für den Transport von Vorräten, Ausrüstung und Materialien über Ihren Betrieb.",
+      "payloadCapacity": "Nutzlastkapazität",
+      "maxFlightSpeed": "Max. Fluggeschwindigkeit",
+      "features": {
+        "securityLock": "Sicherheitsverriegelungssystem",
+        "remoteControl": "Fernsteuerung über SRC 5",
+        "abRoute": "A/B-Routenautomatisierung",
+        "liveWeighing": "Live-Wägung im Flug"
+      }
+    },
+    "obstacleAvoidance": {
+      "badge": "Sicherheit zuerst",
+      "title": "Hinderniserkennung & Sicherheit",
+      "description": "Fortschrittliche Sensortechnologie für sicheren autonomen Betrieb in komplexen Umgebungen",
+      "features": {
+        "radar": "4D-Bildradar",
+        "radarDesc": "Erkennung von Hindernissen in 1,5-100 Metern Entfernung",
+        "aiVision": "KI-Vision",
+        "aiVisionDesc": "Echtzeit-3D-AR-Marker-Overlay",
+        "terrainFollowing": "Geländeverfolgung",
+        "terrainFollowingDesc": "Keine vorgeladenen Karten erforderlich",
+        "fpv": "Weitwinkel-FPV",
+        "fpvDesc": "Integrierte Kamera für volle Sicht"
+      }
+    },
+    "controlSystems": {
+      "badge": "Steuerung & Übertragung",
+      "title": "Intelligente Steuerungssysteme",
+      "src5": {
+        "name": "SRC5 Fernsteuerung",
+        "features": {
+          "xlink": "Integrierte XLink HD-Übertragung (bis zu 2 km Reichweite)",
+          "fpv": "Ultra-Weitwinkel-FPV-Ansicht mit AR-Overlays",
+          "oneClick": "Ein-Klick-autonomer Betriebsablauf"
+        }
+      },
+      "xrtk7": {
+        "name": "XRTK7 (Optional)",
+        "features": {
+          "accuracy": "Zentimetergenaue RTK-Genauigkeit",
+          "onePress": "Ein-Druck-Basisstations-Aktivierung",
+          "relay": "Eingebauter Relais für hohe Kulturen/Obstgärten"
+        }
+      },
+      "superx4": {
+        "name": "SuperX 4 Pro",
+        "subtitle": "Intelligentes Steuerungssystem",
+        "processor": "Prozessor",
+        "communication": "Kommunikation",
+        "imu": "IMU",
+        "positioning": "Positionierung",
+        "description": "Fortschrittliche Flugsteuerung mit KI-Fehlervorhersage für zuverlässigen autonomen Betrieb.",
+        "features": {
+          "processor": "1 GHz unabhängiger Prozessor",
+          "dualLink": "Dual-Link-Kommunikation",
+          "imu": "3× IMU + KI-Fehlervorhersage",
+          "dualAntenna": "Dual-Antennen-RTK-Positionierung"
+        }
+      }
+    },
+    "workflow": {
+      "badge": "Einfacher Arbeitsablauf",
+      "title": "Einrichtung in 4 einfachen Schritten",
+      "step1": {
+        "number": "01",
+        "title": "Schnelle Gerätekopplung",
+        "description": "Einfacher Tap-basierter Kopplungsprozess"
+      },
+      "step2": {
+        "number": "02",
+        "title": "Einfache Feldplanung",
+        "description": "Mehrere Kartierungsmethoden verfügbar"
+      },
+      "step3": {
+        "number": "03",
+        "title": "Ein-Klick-Betrieb",
+        "description": "Vollständig autonome Flugausführung"
+      },
+      "step4": {
+        "number": "04",
+        "title": "Intelligente Rückkehr",
+        "description": "Automatische Rückkehr bei voreingestellten Schwellenwerten"
+      }
+    },
+    "autonomous": {
+      "badge": "Autonomer Flug",
+      "title": "Intelligente Fähigkeiten",
+      "description": "Fortschrittliche autonome Funktionen für effiziente und präzise Einsätze",
+      "features": {
+        "fieldMapping": "Feldkartierung",
+        "fieldMappingDesc": "HD-Bildmaterial wird nach dem Flug mit KI-Hinderniserkennung zusammengefügt",
+        "routePlanning": "Intelligente Routenplanung",
+        "routePlanningDesc": "Automatisch generierte Pfade mit spiralförmigen Umfang-zu-Zentrum-Routen",
+        "safetyModes": "Sicherheitsmodi",
+        "safetyModesDesc": "Sicherheitspunkt-Modus und Sicherheitszone-Modus für kontrolliertes Ein-/Ausfahren",
+        "multiField": "Multi-Feld-Betrieb",
+        "multiFieldDesc": "Planen Sie bis zu 10 Felder in einem Arbeitsablauf",
+        "swarm": "Schwarm-Betrieb",
+        "swarmDesc": "Ein Controller verwaltet zwei Drohnen gleichzeitig",
+        "variableRate": "Variable Ausbringung",
+        "variableRateDesc": "Intelligente Optimierung pro Feldzone"
+      }
+    },
+    "power": {
+      "badge": "Energiesystem",
+      "title": "B141050 Smart-Akku",
+      "capacity": "Wh Kapazität",
+      "weight": "kg Gewicht",
+      "cycleWarranty": "Zyklen-Garantie",
+      "chargingOptions": "Ladeoptionen",
+      "chargers": {
+        "cm13600s": {
+          "name": "CM13600S",
+          "type": "AC-Eingang, 3400W",
+          "time": "~12 Min (30-95%)"
+        },
+        "cm15300d": {
+          "name": "CM15300D",
+          "type": "DC-Eingang, 72V+",
+          "time": "Schnellladung"
+        },
+        "parallel": {
+          "name": "Parallel-Kit",
+          "type": "AC, 6800W",
+          "time": "~7 Min (30-95%)"
+        },
+        "cooling": {
+          "name": "Kühlturm",
+          "type": "Kontinuierlich",
+          "time": "6-8 Stunden Betrieb"
+        }
+      }
+    },
+    "testimonials": {
+      "badge": "Kundenstimmen",
+      "title": "Vertraut von Landwirten"
+    },
+    "contact": {
+      "badge": "Kontakt",
+      "title": "Bereit, das Potenzial Ihres Betriebs zu maximieren?",
+      "description": "Kontaktieren Sie unser Team, um mehr über die P150 Max zu erfahren und wie sie Ihre landwirtschaftlichen Abläufe transformieren kann.",
+      "salesSpecialist": "Vertriebsspezialist",
+      "ceo": "Geschäftsführer",
+      "form": {
+        "name": "Name *",
+        "email": "E-Mail *",
+        "phone": "Telefon",
+        "company": "Unternehmen",
+        "message": "Nachricht *",
+        "messagePlaceholder": "Erzählen Sie uns von Ihren landwirtschaftlichen Anforderungen...",
+        "submit": "Anfrage senden"
+      }
+    }
+  },
+  "apc2": {
+    "badge": "AutoPilot-Konsole",
+    "title": "XAG APC2",
+    "tagline": "Navigieren Sie mit Präzision",
+    "description": "Eine automatisierte Lenklösung für den freihändigen Landwirtschaftsbetrieb. Ermöglicht es landwirtschaftlichen Maschinen wie Traktoren und Mähdreschern, mit zentimetergenauer Positionierung zu arbeiten.",
+    "orderNow": "Jetzt bestellen",
+    "viewSpecs": "Spezifikationen ansehen",
+    "downloads": "Downloads",
+    "features": {
+      "badge": "Hauptmerkmale",
+      "title": "Warum APC2 wählen",
+      "description": "Fortschrittliche Autopilot-Technologie für Präzisionslandwirtschaft",
+      "allInOne": "All-in-One-Design",
+      "allInOneDesc": "Installation in ca. 20 Minuten mit minimalem Aufwand",
+      "highPrecision": "Hohe Präzision",
+      "highPrecisionDesc": "±2,5 cm Positionierungsgenauigkeit für präzise Einsätze",
+      "dualPositioning": "Duale Positionierung",
+      "dualPositioningDesc": "Unterstützt sowohl RTK- als auch PPP-Korrektursignale",
+      "advancedGuidance": "Erweiterte Führung",
+      "advancedGuidanceDesc": "Mehrere Führungslinien-Modi für verschiedene Feldbedingungen",
+      "mobileControl": "Mobile Steuerung",
+      "mobileControlDesc": "Smartphone-App ermöglicht Pfadplanung und Betrieb",
+      "wideCompatibility": "Breite Kompatibilität",
+      "wideCompatibilityDesc": "Funktioniert mit mehreren Landmaschinenmarken/-modellen",
+      "offlineOperation": "Offline-Betrieb",
+      "offlineOperationDesc": "Funktioniert ohne Netzwerk über mobile Basisstation",
+      "otaUpdates": "OTA-Updates",
+      "otaUpdatesDesc": "Over-the-Air-Firmware-Updates für neue Funktionen"
+    },
+    "variants": {
+      "badge": "Systemvarianten",
+      "title": "Wählen Sie Ihre Konfiguration",
+      "description": "Zwei Systemoptionen für unterschiedliche Anforderungen",
+      "standard": {
+        "name": "APC2 Standard",
+        "description": "Automatisiertes Lenkrad mit Schaltwippen-Steuerung",
+        "feature1": "Automatisierter Lenkradersatz",
+        "feature2": "Schaltwippen-Steuerung für einfache Bedienung",
+        "feature3": "Minimale Wartung (1.000+ Stunden Intervalle)",
+        "feature4": "Integriertes Display und Steuerungen"
+      },
+      "flex": {
+        "name": "APC2 Flex",
+        "description": "Lenkmotor-Antrieb erhält das Originallenkrad",
+        "feature1": "Erhält das Originallenkrad",
+        "feature2": "Am Lenkrad montierte Tastensteuerung",
+        "feature3": "Kompaktes Schnellinstallations-Design",
+        "feature4": "Geeignet für verschiedene Maschinentypen"
+      }
+    },
+    "specs": {
+      "badge": "Spezifikationen",
+      "title": "Technische Details",
+      "description": "Branchenführende Präzision und Kompatibilität",
+      "accuracy": "Positionierungsgenauigkeit",
+      "accuracyValue": "±2,5 cm",
+      "guidanceModes": "Führungsmodi",
+      "guidanceModesValue": "5 Modi",
+      "positioning": "Positionierungsmethoden",
+      "positioningValue": "RTK/PPP/CORS",
+      "installation": "Installationszeit",
+      "installationValue": "~20 Min"
+    },
+    "guidance": {
+      "badge": "Führungssystem",
+      "title": "Mehrere Führungsmodi",
+      "description": "Flexible Pfadplanung für alle Feldtypen",
+      "modes": {
+        "abStraight": "AB-Gerade Linie",
+        "abStraightDesc": "Standard-Parallelpässe für rechteckige Felder",
+        "abCurve": "AB-Kurve",
+        "abCurveDesc": "Folgt Konturen bei unebenem Gelände",
+        "abEquidistant": "AB-Äquidistante Kurve",
+        "abEquidistantDesc": "Gleichmäßiger Abstand in Kurven beibehalten",
+        "drillSeeding": "Drillsaat",
+        "drillSeedingDesc": "Optimiert für Präzisions-Säeinsätze",
+        "diagonalHarrowing": "Diagonal-Eggen",
+        "diagonalHarrowingDesc": "Kreuzmuster für gründliche Bodenbearbeitung"
+      }
+    },
+    "compatibility": {
+      "badge": "Kompatibilität",
+      "title": "Funktioniert mit Ihrer Ausrüstung",
+      "description": "Kompatibel mit einer breiten Palette landwirtschaftlicher Maschinen",
+      "riceTransplanters": "Reispflanzmaschinen",
+      "tractors": "Traktoren",
+      "sprayers": "Sprüher",
+      "harvesters": "Mähdrescher",
+      "paddyFields": "Reisfelder",
+      "dryFields": "Trockenfelder",
+      "mountainTerrain": "Berggelände"
+    },
+    "accessories": {
+      "badge": "Optionales Zubehör",
+      "title": "Erweitern Sie Ihr System",
+      "description": "Erweitern Sie die Fähigkeiten mit kompatiblem Zubehör",
+      "xrtk7": {
+        "name": "XRTK7 Mobile Station",
+        "description": "Tragbare RTK-Basisstation für Gebiete ohne Netzabdeckung"
+      },
+      "xre1": {
+        "name": "XRE1 Reichweitenverlängerer",
+        "description": "Erweitert die Kommunikationsreichweite auf bis zu 2 km"
+      },
+      "wcp1": {
+        "name": "WCP1 Drahtloses Bedienfeld",
+        "description": "Drahtlose Fernsteuerung für bequemen Betrieb"
+      }
+    },
+    "contact": {
+      "badge": "Kontakt",
+      "title": "Bereit, Ihren Betrieb zu automatisieren?",
+      "description": "Kontaktieren Sie unser Team, um mehr über den APC2 zu erfahren und wie er Ihre landwirtschaftlichen Abläufe transformieren kann.",
+      "salesSpecialist": "Vertriebsspezialist",
+      "ceo": "Geschäftsführer",
+      "form": {
+        "name": "Name *",
+        "email": "E-Mail *",
+        "phone": "Telefon",
+        "company": "Unternehmen",
+        "message": "Nachricht *",
+        "messagePlaceholder": "Erzählen Sie uns von Ihren landwirtschaftlichen Anforderungen...",
+        "submit": "Anfrage senden"
+      }
+    }
+  },
+  "productsPage": {
+    "badge": "Produkte",
+    "title": "Unser Produktsortiment",
+    "description": "Entdecken Sie unser umfassendes Sortiment an Landwirtschaftsdrohnen und autonomen Bodenrobotern für Präzisionslandwirtschaft.",
+    "airborne": {
+      "badge": "Luftgestützt",
+      "title": "Landwirtschaftliche Drohnen",
+      "viewAll": "Alle ansehen"
+    },
+    "landborne": {
+      "badge": "Bodengestützt",
+      "title": "Bodenroboter",
+      "viewAll": "Alle ansehen"
+    },
+    "autopilot": {
+      "badge": "Autopilot",
+      "title": "Autonome Lenksysteme",
+      "viewAll": "Mehr ansehen"
+    }
+  },
+  "aboutUs": {
+    "badge": "Über uns",
+    "title": "Revolution der polnischen Landwirtschaft",
+    "subtitle": "XAG IMEGA Poland ist der autorisierte Vertriebspartner von XAG-Landwirtschaftsdrohnen in Polen und widmet sich der Transformation der Landwirtschaft durch innovative Technologie.",
+    "stats": {
+      "established": "Gegründet",
+      "establishedValue": "2019",
+      "teamMembers": "Teammitglieder",
+      "dronesDeployed": "Eingesetzte Drohnen",
+      "hectaresCovered": "Bearbeitete Hektar"
+    },
+    "story": {
+      "badge": "Unsere Geschichte",
+      "title": "Pioniere der intelligenten Landwirtschaft in Polen",
+      "p1": "XAG IMEGA Poland führt Drohnen, Roboter, Autopiloten, künstliche Intelligenz und IoT-Lösungen in die landwirtschaftliche Produktion ein und schafft ein intelligentes Landwirtschafts-Ökosystem, das für Landwirtschaft 4.0 charakteristisch ist.",
+      "p2": "Unsere Mission ist es, die Landwirtschaft intelligenter zu machen, indem wir führende Drohnentechnologie mit IoT-Feldüberwachungsstationen, GNSS RTK-Geospatial-Intelligenz und Cloud-Computing kombinieren.",
+      "p3": "Wir streben danach, alternde Landbevölkerungen zu unterstützen, natürliche Ressourcen und Biodiversität zu schützen und die Produktivität zu steigern, während wir die Ernährungssicherheit gewährleisten."
+    },
+    "mission": {
+      "badge": "Unsere Mission",
+      "title": "Mehr produzieren mit weniger",
+      "description": "Laut der UN-Agenda 2030 leiden weltweit 821 Millionen Menschen an Hunger. Mit einer erwarteten Weltbevölkerung von 9 Milliarden bis 2050 muss die landwirtschaftliche Produktion um etwa 60% steigen, um den Bedarf zu decken. Wir setzen uns dafür ein, Landwirten zu helfen, mehr Lebensmittel mit weniger Ressourcen zu produzieren.",
+      "items": {
+        "foodSecurity": "Globale Ernährungssicherheit",
+        "foodSecurityDesc": "Unterstützung langfristiger Ernährungssicherheit und Umweltverantwortung",
+        "monitoring": "Kulturüberwachung",
+        "monitoringDesc": "Fernüberwachung von Kulturen und Produktionsprozessen durch kontinuierliche IoT-Feldüberwachungsstationen",
+        "xaiPlatform": "XAI-Plattform",
+        "xaiPlatformDesc": "Datenaustausch-Plattform, die intelligente XAG-Geräte verbindet und landwirtschaftliche Produktion mit intelligenten Technologien integriert"
+      }
+    },
+    "values": {
+      "badge": "Unsere Werte",
+      "title": "Was uns antreibt",
+      "innovation": "Innovation",
+      "innovationDesc": "Wir erweitern ständig die Grenzen der Agrartechnologie, um modernste Lösungen zu liefern.",
+      "sustainability": "Nachhaltigkeit",
+      "sustainabilityDesc": "Unsere Präzisionslandwirtschaftslösungen helfen, den Chemikalieneinsatz und die Umweltauswirkungen zu reduzieren.",
+      "excellence": "Exzellenz",
+      "excellenceDesc": "Wir sind bestrebt, unseren Kunden Produkte und Dienstleistungen höchster Qualität zu liefern.",
+      "partnership": "Partnerschaft",
+      "partnershipDesc": "Wir arbeiten eng mit Landwirten zusammen, um ihre Bedürfnisse zu verstehen und maßgeschneiderte Lösungen anzubieten."
+    },
+    "cta": {
+      "title": "Bereit, Ihren Betrieb zu transformieren?",
+      "description": "Kontaktieren Sie unser Team, um zu erfahren, wie XAG-Drohnen Ihre landwirtschaftlichen Abläufe optimieren können.",
+      "contactUs": "Kontaktieren Sie uns",
+      "viewProducts": "Produkte ansehen"
+    }
+  },
+  "termsOfUse": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Letzte Aktualisierung: Januar 2026",
+    "general": {
+      "title": "1. Allgemeine Bestimmungen",
+      "operator": "Der Online-Shop www.imegagroup.pl wird von IMEGA Sp. z o.o. mit Sitz in Rybnik, ul. Smolna 14, 44-200 Rybnik, NIP: PL6423233602, E-Mail: biuro@imegagroup.pl betrieben.",
+      "scope": "Der Geschäftsbereich umfasst den Verkauf professioneller Landwirtschaftsplattformen, einschließlich XAG-Drohnen und Bodenrobotern.",
+      "customer": "Ein Kunde kann eine volljährige natürliche Person, juristische Person oder Organisationseinheit mit Rechtsfähigkeit sein.",
+      "consumer": "Ein Verbraucher ist eine natürliche Person, die einen Kauf tätigt, der nicht mit einer beruflichen Tätigkeit zusammenhängt."
+    },
+    "technical": {
+      "title": "2. Technische Anforderungen",
+      "requirements": "Für die Nutzung des Shops sind ein Internetzugang und ein Browser mit JavaScript-Unterstützung (Chrome, Firefox, Safari, Edge) erforderlich. Mindestbildschirmauflösung: 1024×768 Pixel.",
+      "prohibited": "Benutzer dürfen die Website nicht rechtswidrig nutzen, die persönlichen Rechte anderer verletzen, die Funktionalität der Website stören oder rechtswidrige Inhalte verbreiten."
+    },
+    "orders": {
+      "title": "3. Bestellungen aufgeben",
+      "availability": "Bestellungen können jederzeit über die Website aufgegeben werden.",
+      "process": "Bestellvorgang: (1) Produkte und Mengen auswählen; (2) Liefer- und Zahlungsmethoden wählen; (3) Bestellübersicht prüfen; (4) Bestellung bestätigen.",
+      "confirmation": "Nach Erhalt der Bestellung bestätigt der Verkäufer die Bestelldetails elektronisch und prüft die Produktverfügbarkeit.",
+      "agreement": "Ein Kaufvertrag wird zwischen dem Kunden und dem Verkäufer nach Senden der Zahlungsbestätigung geschlossen.",
+      "language": "Kaufverträge werden auf Polnisch abgeschlossen."
+    },
+    "payments": {
+      "title": "4. Zahlungen",
+      "methods": "Akzeptierte Zahlungsmethoden: Banküberweisung, Online-Zahlung, Zahlung bei Lieferung."
+    },
+    "delivery": {
+      "title": "5. Lieferung",
+      "options": "Wir liefern Waren in ganz Polen und der Europäischen Union über Kurierdienste.",
+      "time": "Die Lieferzeit hängt von der Produktverfügbarkeit ab und beträgt in der Regel 2-7 Werktage."
+    },
+    "withdrawal": {
+      "title": "6. Widerrufsrecht",
+      "period": "Verbraucher haben das Recht, innerhalb von 14 Tagen ohne Angabe von Gründen vom Fernabsatzvertrag zurückzutreten.",
+      "deadline": "Die fristgerechte Einreichung einer schriftlichen Widerrufserklärung ist ausreichend, um die Frist einzuhalten.",
+      "start": "Die Widerrufsfrist beginnt ab dem Tag, an dem der Kunde die Ware erhält."
+    },
+    "complaints": {
+      "title": "7. Reklamationen",
+      "liability": "Der Verkäufer ist verpflichtet, mangelfreie Waren zu liefern.",
+      "warranty": "Der Verkäufer haftet für Sach- und Rechtsmängel der Waren gemäß dem Bürgerlichen Gesetzbuch.",
+      "filing": "Reklamationen können in jeder für den Verkäufer verständlichen Form eingereicht werden. Mängel und Kundenanforderungen müssen angegeben werden.",
+      "period": "Der Kunde sollte den Mangel innerhalb eines Jahres nach Entdeckung melden (wenn innerhalb von zwei Jahren nach Lieferung entdeckt).",
+      "resolution": "Der Verkäufer bearbeitet Reklamationen innerhalb von 14 Tagen nach Erhalt."
+    },
+    "guarantee": {
+      "title": "8. Qualitätsgarantie",
+      "period": "Der Verkäufer garantiert die Produktfunktionalität für ein Jahr ab Erhalt, sofern in der Produktbeschreibung nichts anderes angegeben ist.",
+      "scope": "Die Garantie deckt nur Herstellungsfehler ab und gilt auf dem Gebiet Polens und der EU.",
+      "exclusions": "Die Garantie deckt keine unsachgemäße Installation, Missbrauch, Vernachlässigung oder normale Abnutzung ab.",
+      "remedies": "Abhilfeoptionen umfassen: Reparatur, Ersatz (wenn Reparatur unmöglich), oder Preisminderung/Rückerstattung (wenn Ersatz unmöglich)."
+    },
+    "dataProtection": {
+      "title": "9. Datenschutz",
+      "handling": "Der Betreiber verarbeitet Kundendaten gemäß dem polnischen Datenschutzgesetz und dem Gesetz über elektronische Dienste.",
+      "policy": "Detaillierte Regeln zur Verarbeitung personenbezogener Daten und Cookies sind in der Datenschutzrichtlinie festgelegt."
+    },
+    "final": {
+      "title": "10. Schlussbestimmungen",
+      "disputes": "Streitigkeiten zwischen dem Betreiber und Verbrauchern werden gemäß geltendem Recht gelöst.",
+      "alternative": "Verbraucher können außergerichtliche Beschwerdeverfahren nutzen über: http://www.uokik.gov.pl, http://www.rzu.gov.pl oder regionale Verbraucherschutzstellen.",
+      "business": "Nicht-Verbraucher-Streitigkeiten werden vor Gerichten gelöst, die für den Sitz des Verkäufers zuständig sind.",
+      "law": "Für nicht hierin geregelte Angelegenheiten gilt polnisches Recht.",
+      "compliance": "Diese Bedingungen beschränken nicht die Kundenrechte nach geltendem Recht."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "intro": "Bei Fragen kontaktieren Sie bitte:",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "address": "Adresse"
+    }
+  },
+  "privacyPolicy": {
+    "title": "Datenschutzrichtlinie",
+    "lastUpdated": "Letzte Aktualisierung: Januar 2026",
+    "administrator": {
+      "title": "Datenverwalter",
+      "content": "Der Verwalter Ihrer personenbezogenen Daten ist IMEGA Sp. z o.o. mit Sitz in Rybnik, ul. Smolna 14, 44-200 Rybnik, NIP: 6423233602."
+    },
+    "dataCollection": {
+      "title": "1. Daten, die wir erheben",
+      "intro": "Wir können folgende personenbezogene Daten erheben:",
+      "items": {
+        "personal": "Name, Adresse, E-Mail-Adresse, Telefonnummer",
+        "company": "Firmenname und Geschäftsdaten",
+        "technical": "IP-Adresse, Browsertyp, Geräteinformationen",
+        "usage": "Besuchte Seiten und Verweildauer auf der Website"
+      }
+    },
+    "purpose": {
+      "title": "2. Zweck der Datenverarbeitung",
+      "intro": "Wir verarbeiten Ihre Daten für folgende Zwecke:",
+      "items": {
+        "services": "Dienstleistung und Kontoverwaltung",
+        "newsletter": "Newsletter-Versand mit kommerziellen Informationen",
+        "orders": "Auftragsabwicklung",
+        "complaints": "Reklamationsbearbeitung und Rücksendungen",
+        "inquiries": "Beantwortung von Kundenanfragen",
+        "marketing": "Direktmarketing",
+        "legal": "Erfüllung rechtlicher Verpflichtungen (Buchhaltung, Steueranforderungen)",
+        "legitimate": "Berechtigte Geschäftsinteressen"
+      }
+    },
+    "retention": {
+      "title": "3. Datenspeicherungsdauer",
+      "content": "Daten werden während der gesamten Vertragsbeziehung und der gesetzlichen Aufbewahrungspflicht aufbewahrt, oder bis zum Widerruf der Einwilligung oder einem formellen Widerspruch."
+    },
+    "profiling": {
+      "title": "4. Profiling",
+      "content": "Die Website verwendet automatische Personalisierung von Inhalten basierend auf dem Nutzerverhalten, um relevante Produkte zu empfehlen. Dies hat keine rechtlich bindenden Auswirkungen."
+    },
+    "recipients": {
+      "title": "5. Datenempfänger",
+      "intro": "Ihre Daten können an folgende Stellen weitergegeben werden:",
+      "items": {
+        "it": "IT-Dienstleister",
+        "marketing": "Marketing-Agenturen",
+        "couriers": "Kurierdienste",
+        "accounting": "Buchhaltungs- und Finanzunternehmen",
+        "authorities": "Behörden, wenn gesetzlich vorgeschrieben"
+      },
+      "transfer": "Es erfolgen keine Übertragungen außerhalb des Europäischen Wirtschaftsraums."
+    },
+    "rights": {
+      "title": "6. Ihre Rechte",
+      "intro": "Nach der DSGVO haben Sie folgende Rechte:",
+      "items": {
+        "access": "Recht auf Zugang zu Ihren Daten",
+        "rectification": "Recht auf Berichtigung Ihrer Daten",
+        "erasure": "Recht auf Löschung der Daten",
+        "restriction": "Recht auf Einschränkung der Verarbeitung",
+        "portability": "Recht auf Datenübertragbarkeit",
+        "objection": "Widerspruchsrecht gegen die Verarbeitung",
+        "complaint": "Recht auf Beschwerde bei Aufsichtsbehörden"
+      }
+    },
+    "cookies": {
+      "title": "7. Cookies",
+      "intro": "Wir verwenden Cookies für folgende Zwecke:",
+      "items": {
+        "session": "Sitzungsverwaltung",
+        "statistics": "Statistiken und Analysen",
+        "marketing": "Marketing und Werbung",
+        "functionality": "Website-Funktionalität",
+        "fraud": "Betrugsprävention",
+        "improvement": "Website-Verbesserung"
+      },
+      "disable": "Sie können Cookies in Ihren Browsereinstellungen deaktivieren, obwohl dies die Website-Funktionalität einschränken kann."
+    },
+    "security": {
+      "title": "8. Datensicherheit",
+      "content": "Der Datenschutz implementiert SSL-Verschlüsselung, sichere Datenbanken mit technischen Schutzmaßnahmen und Zugangskontrollen gemäß den DSGVO-Anforderungen."
+    },
+    "contact": {
+      "title": "9. Kontakt",
+      "intro": "Bei Fragen zum Datenschutz kontaktieren Sie bitte:",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "address": "Adresse"
+    }
+  },
+  "r200": {
+    "badge": "Landwirtschaftlicher Rover",
+    "title": "XAG R200",
+    "tagline": "Intelligenter Farm-Copilot",
+    "description": "Sechsrad-Präzisionssprühplattform für Obstgärten und Gewächshäuser mit intuitiver Fernsteuerung und modularer Erweiterbarkeit für vielfältige moderne Landwirtschaftsanwendungen.",
+    "orderNow": "Jetzt bestellen",
+    "viewSpecs": "Spezifikationen ansehen",
+    "downloads": "Downloads",
+    "features": {
+      "badge": "Hauptmerkmale",
+      "title": "Warum R200 wählen",
+      "description": "Hochkapazitäts-autonomer Rover mit Sechsrad-Stabilität für anspruchsvolle Obstgarten- und Gewächshaus-Einsätze",
+      "precision": {
+        "title": "Hochvolumen-Sprühen",
+        "description": "240L Tank mit 16 L/min Durchflussrate für erweiterte Einsätze"
+      },
+      "navigation": {
+        "title": "Intelligente Navigation",
+        "description": "Mehrere autonome Betriebsmodi mit Echtzeit-Pfadverfolgung"
+      },
+      "sixWheel": {
+        "title": "Sechsrad-Stabilität",
+        "description": "Überlegene Traktion und Geländetauglichkeit mit unabhängigem Motorantrieb"
+      },
+      "electric": {
+        "title": "Elektrischer Antrieb",
+        "description": "Wirtschaftlicher und emissionsarmer Betrieb"
+      },
+      "remote": {
+        "title": "Fernsteuerung",
+        "description": "Eliminiert die Exposition des Bedieners gegenüber Chemikalien"
+      },
+      "modular": {
+        "title": "Modulare Plattform",
+        "description": "Erweiterbar mit zusätzlichen Anbauteilen"
+      }
+    },
+    "specs": {
+      "badge": "Leistung",
+      "title": "Kernspezifikationen",
+      "description": "Gebaut für hochkapazitative Präzisions-Bodeneinsätze in Obstgärten und Gewächshäusern",
+      "vehicleWidth": "Fahrzeugbreite",
+      "vehicleWidthValue": "80 cm",
+      "curbWeight": "Leergewicht",
+      "curbWeightValue": "130 kg",
+      "maxSpeed": "Max. Geschwindigkeit",
+      "maxSpeedValue": "1,5 m/s",
+      "gradeability": "Max. Steigfähigkeit",
+      "gradeabilityValue": "20%",
+      "groundClearance": "Bodenfreiheit",
+      "groundClearanceValue": "270 mm"
+    },
+    "chassis": {
+      "badge": "Fahrwerk & Antrieb",
+      "title": "Sechsrad-Plattform",
+      "description": "Vollaluminium-Konstruktion mit Sechsrad-unabhängigem Motorantrieb für überlegene Geländetauglichkeit und Traktionsrückgewinnung",
+      "features": {
+        "aluminum": "Vollaluminium-Gussfahrwerk",
+        "suspension": "Aufgehängtes Portalachs-Design",
+        "sixWheel": "Sechsrad-unabhängiger Motorantrieb",
+        "torque": "Intelligente Drehmomentumverteilung"
+      }
+    },
+    "revospray": {
+      "badge": "Sprühsystem",
+      "title": "RevoSpray-System",
+      "description": "Hochkapazitäts-Sprühsystem mit vier Pumpen und vier Zentrifugalzerstäubern, die ultrafeine Tröpfchen für umfassende Kronendachabdeckung erzeugen.",
+      "tankCapacity": "Tankkapazität",
+      "tankCapacityValue": "240 L",
+      "flowRate": "Max. Durchflussrate",
+      "flowRateValue": "16 L/min",
+      "dropletSize": "Tröpfchengröße",
+      "dropletSizeValue": "60-200 μm",
+      "sprayRange": "Sprühreichweite",
+      "sprayRangeValue": "7 m/Seite",
+      "features": {
+        "pumps": "Vier flexible Laufradpumpen (300+ Stunden Lebensdauer)",
+        "atomizers": "Vier Zentrifugalzerstäuber für ultrafeine Tröpfchen",
+        "jetsprayer": "JetSprayer mit hocheffizienten Gebläsen",
+        "brackets": "Verstellbare Montagehalterungen für Mehrwinkel-Sprühen",
+        "airGuide": "Luftleitabdeckungen für erweiterte Sprühwinkel"
+      }
+    },
+    "control": {
+      "badge": "Steuerungssystem",
+      "title": "SRC 5 Fernsteuerung",
+      "description": "Professionelle Fernsteuerung mit hochhellem Display und integrierter FPV-Kamera für umfassende Betriebsüberwachung.",
+      "display": "7\" Display",
+      "displayValue": "1200 Nit Helligkeit",
+      "fov": "Sichtfeld",
+      "fovValue": "150° horizontal",
+      "battery": "Akkulaufzeit",
+      "batteryValue": "8 Stunden",
+      "connectivity": "Konnektivität",
+      "connectivityValue": "XLink HD"
+    },
+    "navigation": {
+      "badge": "Intelligente Navigation",
+      "title": "SuperX 5 Ultra Steuerungssystem",
+      "description": "Fortschrittliches intelligentes Steuerungssystem mit mehreren Betriebsmodi für vielseitige autonome Landwirtschaft.",
+      "modes": {
+        "cruise": {
+          "title": "Cruise-Modus",
+          "description": "Hält 0,1-1,5 m/s Tempo mit konstantem Sprühen"
+        },
+        "pathTracking": {
+          "title": "Pfadverfolgung",
+          "description": "Vision-Algorithmen erkennen Abweichungen und korrigieren automatisch in Echtzeit"
+        },
+        "variableRate": {
+          "title": "Variable Ausbringung",
+          "description": "Volumen passt sich automatisch der Bewegungsgeschwindigkeit an"
+        },
+        "repeat": {
+          "title": "Wiederholungsmodus",
+          "description": "Zeichnet manuelle Fahrten für autonome Wiederholungen auf"
+        },
+        "planning": {
+          "title": "Pfadplanung",
+          "description": "Satellitenbildkartierung für freihändigen Betrieb"
+        },
+        "realTerra": {
+          "title": "RealTerra-Kartierung",
+          "description": "Vogelperspektive-Generierung für Onboard-Kartierung"
+        }
+      }
+    },
+    "safety": {
+      "badge": "Sicherheitsfunktionen",
+      "title": "KI-Sicherheitsassistenz",
+      "description": "Fortschrittliche Sicherheitssysteme für zuverlässigen Betrieb in komplexen Umgebungen.",
+      "features": {
+        "pedestrian": "Fußgängererkennung (4m Warnung, 2m Stopp)",
+        "adaptive": "Adaptive Geschwindigkeitsregelung mit IMU-Überwachung",
+        "posture": "Echtzeit-Haltungsanpassung an Hängen"
+      }
+    },
+    "power": {
+      "badge": "Energiesystem",
+      "title": "B141050 Smart-Akku",
+      "description": "Ultrahochkapazitäts-intelligentes Akkusystem für erweiterten Betrieb.",
+      "capacity": "Kapazität",
+      "capacityValue": "1050 Wh",
+      "cycles": "Zykluslebensdauer",
+      "cyclesValue": "1500 Zyklen",
+      "runtime": "Laufzeit",
+      "runtimeValue": "Bis zu 15 Min",
+      "charger": {
+        "title": "CM13600S Ladegerät",
+        "power": "3,4 kW Leistung",
+        "time": "~12 Min (30-95%)"
+      }
+    },
+    "applications": {
+      "badge": "Anwendungen",
+      "title": "Vielseitige Kulturabdeckung",
+      "description": "Entwickelt für hochkapazitatives Sprühen in Obstgärten und Gewächshäusern",
+      "crops": {
+        "lemons": "Zitronen",
+        "dragonFruit": "Drachenfrucht",
+        "avocados": "Avocados",
+        "grapes": "Trauben"
+      }
+    },
+    "contact": {
+      "badge": "Kontakt",
+      "title": "Bereit, Ihre Obstgarten-Operationen zu transformieren?",
+      "description": "Kontaktieren Sie unser Team, um mehr über den R200 zu erfahren und wie er Ihre landwirtschaftlichen Abläufe revolutionieren kann.",
+      "callUs": "Rufen Sie uns an",
+      "emailUs": "Schreiben Sie uns",
+      "form": {
+        "name": "Name *",
+        "email": "E-Mail *",
+        "phone": "Telefon",
+        "company": "Unternehmen",
+        "message": "Nachricht *",
+        "messagePlaceholder": "Erzählen Sie uns von Ihren landwirtschaftlichen Anforderungen...",
+        "submit": "Anfrage senden"
+      }
+    }
+  },
+  "r100": {
+    "badge": "Landwirtschaftlicher Rover",
+    "title": "XAG R100",
+    "tagline": "Intelligenter Farm-Copilot",
+    "description": "Ein zuverlässiger Partner für Obstgärten und Gewächshäuser, der präzises, gleichmäßiges Sprühen mit einfacher Fernsteuerung liefert und vielfältige Landwirtschaftseinsätze ermöglicht.",
+    "orderNow": "Jetzt bestellen",
+    "viewSpecs": "Spezifikationen ansehen",
+    "downloads": "Downloads",
+    "features": {
+      "badge": "Hauptmerkmale",
+      "title": "Warum R100 wählen",
+      "description": "Intelligenter autonomer Rover für Präzisionslandwirtschaft in Obstgärten und Gewächshäusern",
+      "precision": {
+        "title": "Präzisionssprühen",
+        "description": "Spart Wasser und Pestizide durch genaue Anwendung"
+      },
+      "navigation": {
+        "title": "Intelligente Navigation",
+        "description": "Mehrere Routenmodi für vielseitigen Betrieb"
+      },
+      "compact": {
+        "title": "Kompaktes Design",
+        "description": "Zugang zu engen, rauen Geländen mit Leichtigkeit"
+      },
+      "electric": {
+        "title": "Elektrischer Antrieb",
+        "description": "Wirtschaftlicher und emissionsarmer Betrieb"
+      },
+      "remote": {
+        "title": "Fernsteuerung",
+        "description": "Eliminiert die Exposition des Bedieners gegenüber Chemikalien"
+      },
+      "modular": {
+        "title": "Modulare Plattform",
+        "description": "Erweiterbar mit zusätzlichen Anbauteilen"
+      }
+    },
+    "specs": {
+      "badge": "Leistung",
+      "title": "Kernspezifikationen",
+      "description": "Gebaut für Präzisions-Bodeneinsätze in Obstgärten und Gewächshäusern",
+      "vehicleWidth": "Fahrzeugbreite",
+      "vehicleWidthValue": "80 cm",
+      "curbWeight": "Leergewicht",
+      "curbWeightValue": "80 kg",
+      "maxSpeed": "Max. Geschwindigkeit",
+      "maxSpeedValue": "1,5 m/s",
+      "gradeability": "Max. Steigfähigkeit",
+      "gradeabilityValue": "20%",
+      "groundClearance": "Bodenfreiheit",
+      "groundClearanceValue": "270 mm"
+    },
+    "chassis": {
+      "badge": "Fahrwerk & Antrieb",
+      "title": "Robuste Plattform",
+      "description": "Vollaluminium-Gussfahrwerk mit aufgehängtem Portalachs-Design für überlegene Geländetauglichkeit",
+      "features": {
+        "aluminum": "Vollaluminium-Gussfahrwerk",
+        "suspension": "Aufgehängtes Portalachs-Design",
+        "fourWheel": "Vierrad-unabhängiger Motorantrieb",
+        "vcu": "Integrierte Fahrzeugsteuereinheit (VCU)"
+      }
+    },
+    "revospray": {
+      "badge": "Sprühsystem",
+      "title": "RevoSpray-System",
+      "description": "Hochkapazitäts-Sprühsystem mit Dual-Zentrifugalzerstäubern, die ultrafeine Tröpfchen für umfassende Abdeckung erzeugen.",
+      "tankCapacity": "Tankkapazität",
+      "tankCapacityValue": "120 L",
+      "flowRate": "Max. Durchflussrate",
+      "flowRateValue": "8 L/min",
+      "dropletSize": "Tröpfchengröße",
+      "dropletSizeValue": "60-200 μm",
+      "sprayRange": "Sprühreichweite",
+      "sprayRangeValue": "7 m/Seite",
+      "features": {
+        "atomizers": "Dual-Zentrifugalzerstäuber für ultrafeine Tröpfchen",
+        "pumps": "Dual flexible Laufradpumpen (300+ Stunden Lebensdauer)",
+        "sensor": "Hochpräzisions-Füllstandsensor mit kapillarem Luftrohr",
+        "fan": "Hocheffizienter Kanal-Ventilator (JetSprayer)",
+        "brackets": "Verstellbare Montagehalterungen für Mehrwinkel-Sprühen"
+      }
+    },
+    "control": {
+      "badge": "Steuerungssystem",
+      "title": "SRC 5 Fernsteuerung",
+      "description": "Professionelle Fernsteuerung mit hochhellem Display und integrierter FPV-Kamera für umfassende Betriebsüberwachung.",
+      "display": "7\" Display",
+      "displayValue": "1200 Nit Helligkeit",
+      "fov": "Sichtfeld",
+      "fovValue": "150° horizontal",
+      "battery": "Akkulaufzeit",
+      "batteryValue": "8 Stunden",
+      "connectivity": "Konnektivität",
+      "connectivityValue": "XLink HD"
+    },
+    "navigation": {
+      "badge": "Intelligente Navigation",
+      "title": "SuperX 5 Ultra Steuerungssystem",
+      "description": "Fortschrittliches intelligentes Steuerungssystem mit mehreren Betriebsmodi für vielseitige autonome Landwirtschaft.",
+      "modes": {
+        "cruise": {
+          "title": "Cruise-Modus",
+          "description": "Hält 0,1-1,5 m/s Tempo für gleichmäßige Bewegung"
+        },
+        "pathTracking": {
+          "title": "Pfadverfolgung",
+          "description": "Vision-Algorithmen erkennen Abweichungen und korrigieren automatisch in Echtzeit"
+        },
+        "variableRate": {
+          "title": "Variable Ausbringung",
+          "description": "Volumen passt sich automatisch der Bewegungsgeschwindigkeit an"
+        },
+        "repeat": {
+          "title": "Wiederholungsmodus",
+          "description": "Zeichnet manuelle Fahrten für autonome Wiederholungen auf"
+        },
+        "planning": {
+          "title": "Pfadplanung",
+          "description": "Satellitenbildkartierung für freihändigen Betrieb"
+        },
+        "realTerra": {
+          "title": "RealTerra-Kartierung",
+          "description": "Vogelperspektive-Generierung für Onboard-Kartierung"
+        }
+      }
+    },
+    "positioning": {
+      "badge": "Präzisionspositionierung",
+      "title": "CM-Genauigkeit",
+      "description": "Zentimetergenaue Positionierung mit Cloud-RTK und mobiler RTK-Unterstützung für präzise Navigation.",
+      "features": {
+        "cloudRtk": "Cloud-RTK-Unterstützung",
+        "mobileRtk": "Mobile RTK-Fähigkeit",
+        "cmLevel": "Zentimetergenaue Präzision"
+      }
+    },
+    "safety": {
+      "badge": "Sicherheitsfunktionen",
+      "title": "KI-Sicherheitsassistenz",
+      "description": "Fortschrittliche Sicherheitssysteme für zuverlässigen Betrieb in komplexen Umgebungen.",
+      "features": {
+        "pedestrian": "Fußgängererkennung (4m Warnung, 2m Stopp)",
+        "adaptive": "Adaptive Geschwindigkeitsregelung mit IMU-Überwachung",
+        "posture": "Echtzeit-Haltungsanpassung"
+      }
+    },
+    "power": {
+      "badge": "Energiesystem",
+      "title": "B141050 Smart-Akku",
+      "description": "Ultrahochkapazitäts-intelligentes Akkusystem für erweiterten Betrieb.",
+      "capacity": "Kapazität",
+      "capacityValue": "1050 Wh",
+      "cycles": "Zykluslebensdauer",
+      "cyclesValue": "1500 Zyklen",
+      "runtime": "Laufzeit",
+      "runtimeValue": "Bis zu 30 Min",
+      "charger": {
+        "title": "CM13600S Ladegerät",
+        "power": "3,4 kW Leistung",
+        "time": "~12 Min (30-95%)"
+      }
+    },
+    "applications": {
+      "badge": "Anwendungen",
+      "title": "Vielseitige Kulturabdeckung",
+      "description": "Entwickelt für verschiedene Kulturszenarien in Obstgärten und Gewächshäusern",
+      "crops": {
+        "grapes": "Trauben",
+        "dragonFruit": "Drachenfrucht",
+        "blueberries": "Blaubeeren",
+        "citrus": "Zitrusfrüchte"
+      }
+    },
+    "contact": {
+      "badge": "Kontakt",
+      "title": "Bereit, Ihre Obstgarten-Operationen zu transformieren?",
+      "description": "Kontaktieren Sie unser Team, um mehr über den R100 zu erfahren und wie er Ihre landwirtschaftlichen Abläufe revolutionieren kann.",
+      "callUs": "Rufen Sie uns an",
+      "emailUs": "Schreiben Sie uns",
+      "form": {
+        "name": "Name *",
+        "email": "E-Mail *",
+        "phone": "Telefon",
+        "company": "Unternehmen",
+        "message": "Nachricht *",
+        "messagePlaceholder": "Erzählen Sie uns von Ihren landwirtschaftlichen Anforderungen...",
+        "submit": "Anfrage senden"
+      }
+    }
+  },
+  "warrantyService": {
+    "badge": "Support",
+    "title": "Garantieservice anfordern",
+    "description": "Reichen Sie einen Garantieantrag für Ihr XAG-Produkt ein. Unser Team wird Ihre Anfrage prüfen und innerhalb von 48 Stunden antworten.",
+    "infoTitle": "Garantieabdeckungsinformationen",
+    "infoDescription": "XAG-Produkte haben eine Standard-12-Monats-Garantie ab Kaufdatum. Erweiterte Garantieoptionen sind über XAG Care Express verfügbar. Bitte halten Sie Ihren Kaufbeleg bereit, wenn Sie einen Garantieantrag einreichen.",
+    "formTitle": "Garantieantragsformular",
+    "contactInfo": "Kontaktinformationen",
+    "fullName": "Vollständiger Name",
+    "emailAddress": "E-Mail-Adresse",
+    "phoneNumber": "Telefonnummer",
+    "companyName": "Firma/Betriebsname",
+    "productPurchaseInfo": "Produkt- & Kaufinformationen",
+    "productModel": "Produktmodell",
+    "selectProduct": "Produkt auswählen",
+    "serialNumber": "Seriennummer",
+    "purchaseDate": "Kaufdatum",
+    "purchaseLocation": "Kaufort",
+    "purchaseLocationPlaceholder": "Händler-/Geschäftsname",
+    "claimDetails": "Garantieantragsdetails",
+    "issueLabel": "Bitte beschreiben Sie den Defekt oder das Problem",
+    "issuePlaceholder": "Beschreiben Sie den Defekt, wann er aufgetreten ist, und alle relevanten Details...",
+    "noteLabel": "Hinweis:",
+    "noteText": "Bitte halten Sie Ihren Kaufbeleg (Quittung oder Rechnung) bereit. Wir benötigen möglicherweise zusätzliche Dokumentation zur Bearbeitung Ihres Garantieantrags.",
+    "submitButton": "Garantieantrag einreichen",
+    "successMessage": "Vielen Dank für Ihren Garantieantrag. Unser Team wird ihn prüfen und innerhalb von 48 Stunden antworten."
+  },
+  "repairService": {
+    "badge": "Support",
+    "title": "Reparaturservice anfordern",
+    "description": "Reichen Sie eine Reparaturanfrage ein, und unser technisches Team wird sich innerhalb von 24 Stunden bei Ihnen melden.",
+    "formTitle": "Reparaturanfrage-Formular",
+    "contactInfo": "Kontaktinformationen",
+    "fullName": "Vollständiger Name",
+    "emailAddress": "E-Mail-Adresse",
+    "phoneNumber": "Telefonnummer",
+    "companyName": "Firma/Betriebsname",
+    "productInfo": "Produktinformationen",
+    "productModel": "Produktmodell",
+    "selectProduct": "Produkt auswählen",
+    "serialNumber": "Seriennummer",
+    "purchaseDate": "Kaufdatum",
+    "priorityLevel": "Prioritätsstufe",
+    "priorityStandard": "Standard",
+    "priorityPlus": "Priorität (XAG Care Plus)",
+    "priorityPremium": "Express (XAG Care Premium)",
+    "issueSection": "Problembeschreibung",
+    "issueLabel": "Bitte beschreiben Sie das Problem",
+    "issuePlaceholder": "Beschreiben Sie das Problem, das Sie erleben, wann es begann, und eventuelle Fehlermeldungen...",
+    "submitButton": "Reparaturanfrage einreichen",
+    "successMessage": "Vielen Dank für Ihre Reparaturanfrage. Unser Team wird sich innerhalb von 24 Stunden bei Ihnen melden."
+  },
+  "r150": {
+    "badge": "Unbemanntes Bodenfahrzeug EV",
+    "title": "XAG R150 2022",
+    "tagline": "Transformation für jeden landwirtschaftlichen Einsatz",
+    "description": "Autonomes Bodenfahrzeug mit multifunktionalen Fähigkeiten für Mäh-, Pflanzenschutz- und Transporteinsätze.",
+    "orderNow": "Jetzt bestellen",
+    "viewSpecs": "Spezifikationen ansehen",
+    "downloads": "Downloads",
+    "taglines": {
+      "terrain": "Ich fahre über Feld und Fluss",
+      "autonomous": "Ich erledige die Farmarbeit ganz allein",
+      "easy": "Arbeite mit mir und entspanne"
+    },
+    "specs": {
+      "sectionTitle": "Kernspezifikationen",
+      "sectionBadge": "Leistung",
+      "sectionDesc": "Gebaut für Präzisions-Bodeneinsätze in verschiedenen landwirtschaftlichen Umgebungen",
+      "ratedTorque": "Nenn-Drehmoment",
+      "maxSpeed": "Max. Geschwindigkeit",
+      "turningDiameter": "Wendedurchmesser",
+      "climbingSlope": "Steigfähigkeit",
+      "approachAngle": "Böschungswinkel vorn",
+      "departureAngle": "Böschungswinkel hinten",
+      "batteryCapacity": "Akkukapazität",
+      "chargeTime": "Ladezeit",
+      "motorPower": "Motorleistung",
+      "operatingSpeed": "Betriebsgeschwindigkeit",
+      "minimumRadius": "Minimaler Radius",
+      "maximumGrade": "Maximale Steigung",
+      "frontClearance": "Bodenfreiheit vorn",
+      "rearClearance": "Bodenfreiheit hinten",
+      "battery": "B13960S Akku",
+      "fullCharge": "Vollladung"
+    },
+    "autonomous": {
+      "badge": "Autonomer Betrieb",
+      "title": "Intelligente Routenplanung",
+      "description": "Fortschrittliches autonomes Navigationssystem mit RTK-Positionierung für präzisen, freihändigen Betrieb auf Ihrem gesamten Betrieb.",
+      "features": {
+        "rtk": "Intelligente Routenplanung mit RTK-Positionierung",
+        "dualAntenna": "Dual-Antennen-RTK plus Feststation-Zugang",
+        "processor": "1 GHz unabhängiger Prozessor",
+        "precision": "Zentimetergenaue Positionierung",
+        "obstacle": "Automatische Hinderniserkennung",
+        "return": "Intelligente Rückkehr-zur-Basis-Funktion"
+      }
+    },
+    "revospray": {
+      "badge": "Sprühsystem",
+      "title": "XAG RevoSpray Ground 2",
+      "description": "Hochkapazitäts-Boden-Sprühsystem mit 360°-Zerstäubung für umfassende Pflanzenschutzabdeckung.",
+      "tankCapacity": "Tankkapazität",
+      "sprayWidth": "Sprühbreite",
+      "features": {
+        "tank": "150L Flüssigkeitstankkapazität",
+        "droplet": "Einstellbare Tröpfchengröße: 60-200 μm",
+        "width": "Maximale Sprühbreite: 12 Meter",
+        "atomization": "360°-Zerstäubungsfähigkeit",
+        "flow": "Präzises Durchflusssteuerungssystem",
+        "monitoring": "Intelligente Tankfüllstandsüberwachung"
+      }
+    },
+    "revomower": {
+      "badge": "Mähsystem",
+      "title": "XAG RevoMower 2",
+      "description": "Professioneller autonomer Mähaufsatz mit variabler Schnitthöhe für präzise Gras- und Vegetationspflege.",
+      "cuttingWidth": "Schnittbreite",
+      "heightRange": "Höhenbereich",
+      "features": {
+        "width": "90 cm maximale Schnittbreite",
+        "height": "Einstellbare Höhe: 2-17 cm",
+        "blades": "Dual-Legierungsstahlklingen",
+        "speed": "Variabler Geschwindigkeitsbetrieb",
+        "adjustment": "Intelligente Höhenanpassung",
+        "maintenance": "Wartungsarmes Design"
+      }
+    },
+    "cargo": {
+      "badge": "Transportsystem",
+      "title": "XAG Cargo Rack 2",
+      "description": "Verwandeln Sie Ihren R150 in ein Logistik-Kraftpaket mit schwerlastfähiger Frachtkapazität für den Transport von Vorräten und Materialien über Ihren Betrieb.",
+      "maxPayload": "Max. Nutzlast",
+      "rackSize": "Rackgröße",
+      "features": {
+        "payload": "200 kg maximale Nutzlastkapazität",
+        "rack": "Stabiles Rack: 1080 x 1080 mm",
+        "routing": "Intelligente Hin- und Rückfahrt-Routenplanung",
+        "detection": "Automatische Lasterkennung"
+      }
+    },
+    "controls": {
+      "badge": "Steuerungsoptionen",
+      "title": "Einfach zu bedienen",
+      "description": "Mehrere Steuerungsoptionen für flexible Betriebsmodi",
+      "xagOneApp": {
+        "title": "XAG One App",
+        "features": {
+          "oneTap": "Ein-Tipp-Betrieb",
+          "routing": "Intelligente Routenplanung",
+          "multiOp": "Multi-Betriebsfähigkeit",
+          "compatible": "iOS und Android kompatibel"
+        }
+      },
+      "arc3": {
+        "title": "XAG Agricultural Remote Controller 3",
+        "features": {
+          "knobs": "Vier Drehregler mit mehreren Tasten",
+          "rtk": "Optionales RTK-Modul",
+          "battery": "5-6 Stunden Akkulaufzeit",
+          "design": "Zweihändiges ergonomisches Design"
+        }
+      }
+    },
+    "operationModes": {
+      "badge": "Betriebsmodi",
+      "title": "Vier Arbeitsweisen",
+      "modes": {
+        "route": {
+          "title": "Routenmodus",
+          "desc": "Führen Sie mehrere autonome Routen mit präziser Pfadverfolgung aus"
+        },
+        "remote": {
+          "title": "Fernsteuerungsmodus",
+          "desc": "Direkte manuelle Bedienung für spezifische Aufgaben und enge Räume"
+        },
+        "planning": {
+          "title": "Feldplanung",
+          "desc": "Intelligente Grenzkartierung mit automatischer Routengenerierung"
+        },
+        "multiTask": {
+          "title": "Multi-Task-Betrieb",
+          "desc": "Wechseln Sie zwischen Anbauteilen für verschiedene Feldaufgaben"
+        }
+      }
+    },
+    "power": {
+      "badge": "Energiesystem",
+      "title": "B13960S SuperCharge Akku",
+      "description": "Intelligentes Akkusystem mit ultraschnellem Laden für kontinuierlichen Betrieb während des Arbeitstages.",
+      "capacity": "Wh Kapazität",
+      "minCharge": "Min. Ladung",
+      "batteriesPerTank": "Akkus/Tank",
+      "chargingStation": {
+        "title": "GC4000+ Ladestation",
+        "description": "Wassergekühlte Ladestation für schnellen Akkuwechsel",
+        "features": {
+          "batteries": "Lädt bis zu 25 Akkus pro 15L Kraftstofftank",
+          "charge": "11-Minuten-Vollladung mit Wasserkühlung",
+          "portable": "Tragbare Feld-Ladelösung"
+        }
+      }
+    },
+    "terrain": {
+      "badge": "Vielseitigkeit",
+      "title": "Gebaut für jedes Gelände",
+      "description": "Mehrere Radoptionen und robustes Design für vielfältige landwirtschaftliche Umgebungen",
+      "types": {
+        "field": {
+          "name": "Feldeinsätze",
+          "desc": "Reihenkulturen und offene Felder"
+        },
+        "orchards": {
+          "name": "Obstgärten",
+          "desc": "Obstbäume und Weinberge"
+        },
+        "forestry": {
+          "name": "Forstwirtschaft",
+          "desc": "Baumplantagen und Wälder"
+        },
+        "disinfection": {
+          "name": "Desinfektion",
+          "desc": "Viehzucht- und Anlagenanwendungen"
+        }
+      }
+    },
+    "contact": {
+      "badge": "Kontakt",
+      "title": "Bereit, Ihre Boden-Operationen zu transformieren?",
+      "description": "Kontaktieren Sie unser Team, um mehr über den R150 2022 zu erfahren und wie er Ihre landwirtschaftlichen Bodenarbeiten revolutionieren kann.",
+      "callUs": "Rufen Sie uns an",
+      "emailUs": "Schreiben Sie uns",
+      "form": {
+        "name": "Name *",
+        "email": "E-Mail *",
+        "phone": "Telefon",
+        "company": "Unternehmen",
+        "message": "Nachricht *",
+        "messagePlaceholder": "Erzählen Sie uns von Ihren landwirtschaftlichen Anforderungen...",
+        "submit": "Anfrage senden"
+      }
+    }
+  }
+}

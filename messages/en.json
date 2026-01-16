@@ -1,0 +1,1857 @@
+{
+  "common": {
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "getQuote": "Get Quote",
+    "viewAll": "View All",
+    "viewAllProducts": "View All Products",
+    "readMore": "Read More",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "close": "Close",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address"
+  },
+  "nav": {
+    "products": "Products",
+    "resources": "Resources",
+    "services": "Services",
+    "spareParts": "Spare Parts",
+    "sparePartsSub": "Spare parts catalog for XAG products",
+    "viewAllSpareParts": "View All Spare Parts",
+    "company": "Company",
+    "airborne": "Airborne",
+    "airborneSub": "Agricultural Drones",
+    "landborne": "Landborne",
+    "landborneSub": "Ground Equipment",
+    "blog": "Blog",
+    "caseStudies": "Case Studies",
+    "videosTutorials": "Videos & Tutorials",
+    "downloadCenter": "Download Center",
+    "droneSafety": "Drone Safety",
+    "fieldOperations": "Field Operations",
+    "trainingPrograms": "Training Programs",
+    "xagCareExpress": "XAG Care Express",
+    "aboutUs": "About Us",
+    "events": "Events",
+    "careers": "Careers",
+    "contact": "Contact",
+    "viewAllProducts": "View All Products"
+  },
+  "home": {
+    "heroTagline": "Advancing Agriculture with Innovative Technology",
+    "heroSubtitle": "Agriculture Drone",
+    "ctaLearnMore": "Learn More",
+    "ctaContact": "Contact Us",
+    "ctaOrderNow": "Order Now",
+    "statsYears": "Years Experience",
+    "statsYearsSub": "in agricultural drones",
+    "statsHectares": "Hectares Covered",
+    "statsHectaresSub": "annually",
+    "statsCountries": "Countries",
+    "statsCountriesSub": "worldwide presence",
+    "statsFlightHours": "Flight Hours",
+    "statsFlightHoursSub": "accumulated",
+    "scrollToExplore": "Scroll to explore",
+    "readyToTransform": "Ready to Transform Your Farm?",
+    "readyToTransformDesc": "Get in touch with our team to discover how XAG drones can revolutionize your agricultural operations.",
+    "viewProducts": "View Products",
+    "p150MaxSubtitle": "The Fastest Agricultural Drone",
+    "p100ProSubtitle": "Precision Meets Performance",
+    "r150Subtitle": "Ground-Based Precision",
+    "apc2Subtitle": "AutoPilot for Machinery"
+  },
+  "stats": {
+    "globalImpact": "Global Impact",
+    "title": "Impressive Numbers Behind Our Business",
+    "description": "XAG is trusted by farmers and agricultural professionals worldwide",
+    "tons": "Tons",
+    "tonsSub": "of increased crop yield",
+    "countries": "Countries",
+    "countriesSub": "& Regions worldwide",
+    "dronePilots": "Drone Pilots",
+    "dronePilotsSub": "trained globally",
+    "hectares": "Hectares",
+    "hectaresSub": "operated worldwide",
+    "suffixes": {
+      "million": " million",
+      "plus": "+",
+      "kPlus": "K+"
+    }
+  },
+  "productCollections": {
+    "ourProducts": "Our Products",
+    "title": "Agricultural Technology",
+    "description": "Discover our range of smart agricultural drones and ground robots designed to optimize your farming operations.",
+    "featuredProducts": "Featured Products",
+    "viewAll": "View All",
+    "airborne": "Airborne",
+    "airborneDesc": "Agricultural drones for precision spraying, seeding, and mapping",
+    "landborne": "Landborne",
+    "landborneDesc": "Autonomous ground robots for orchards, vineyards, and row crops",
+    "autopilot": "Autopilot",
+    "autopilotDesc": "Autonomous guidance system for traditional agricultural machinery",
+    "new": "New",
+    "popular": "Popular"
+  },
+  "contact": {
+    "title": "Contact",
+    "heroTitle": "Get in Touch",
+    "heroDescription": "Have questions about our products or services? Our team is here to help you find the right solution for your agricultural needs.",
+    "infoTitle": "Contact Information",
+    "formTitle": "Send Us a Message",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "John Smith",
+    "emailAddress": "Email Address",
+    "emailPlaceholder": "john@example.com",
+    "phoneNumber": "Phone Number",
+    "phonePlaceholder": "+48 123 456 789",
+    "companyName": "Company / Farm Name",
+    "companyPlaceholder": "Your Company",
+    "subject": "Subject",
+    "subjectPlaceholder": "Select a subject",
+    "subjectOptions": {
+      "productInquiry": "Product Inquiry",
+      "quoteRequest": "Request a Quote",
+      "training": "Training Programs",
+      "support": "Technical Support",
+      "partnership": "Partnership Opportunity",
+      "other": "Other"
+    },
+    "message": "Message",
+    "messagePlaceholder": "Tell us how we can help...",
+    "sendMessage": "Send Message",
+    "sending": "Sending...",
+    "successTitle": "Message sent!",
+    "successMessage": "Thank you for contacting us. Our team will respond to your message as soon as possible.",
+    "errorTitle": "Error sending message",
+    "errorMessage": "Sorry, there was a problem sending your message. Please try again or contact us directly.",
+    "salesSpecialist": "Sales Specialist",
+    "ceo": "CEO",
+    "addressValue": "ul. Smolna 14\n44-200 Rybnik\nHungary"
+  },
+  "resources": {
+    "badge": "Resources",
+    "title": "Learn & Explore",
+    "description": "Access video tutorials and technical documentation to get the most out of your XAG products.",
+    "recentUpdates": "Recent Updates",
+    "viewAll": "View All",
+    "items": {
+      "videos": {
+        "title": "Videos & Tutorials",
+        "description": "Product demos and how-to guides",
+        "image": "/images/videos/p150-max-overview.jpg",
+        "href": "/videos-tutorials",
+        "count": "50+ Videos"
+      },
+      "downloads": {
+        "title": "Download Center",
+        "description": "Manuals, technical specifications and guides",
+        "image": "/images/products/p150-max/thumbnail.webp",
+        "href": "/download-center",
+        "count": "Documents"
+      }
+    }
+  },
+  "videosTutorials": {
+    "badge": "Resources",
+    "title": "Videos & Tutorials",
+    "description": "Watch product demonstrations, hands-on tutorials, and learn how to optimize your agricultural operations with XAG drones.",
+    "all": "All",
+    "product": "Product",
+    "tutorial": "Tutorial",
+    "watchNow": "Watch Now",
+    "videos": {
+      "p150Overview": {
+        "title": "P150 Max Product Overview",
+        "description": "Discover the features and capabilities of the XAG P150 Max agricultural drone.",
+        "duration": "5:32",
+        "category": "Product"
+      },
+      "calibration": {
+        "title": "How to Calibrate Your XAG Drone",
+        "description": "Step-by-step guide to calibrating your XAG drone for optimal performance.",
+        "duration": "8:15",
+        "category": "Tutorial"
+      },
+      "spraying": {
+        "title": "Precision Spraying Best Practices",
+        "description": "Learn techniques for achieving optimal spray coverage and efficiency.",
+        "duration": "12:45",
+        "category": "Tutorial"
+      },
+      "r150Action": {
+        "title": "R150 Ground Robot in Action",
+        "description": "See the R150 autonomous ground sprayer operating in a vineyard.",
+        "duration": "4:20",
+        "category": "Product"
+      },
+      "cloudSetup": {
+        "title": "XAG Agriculture Cloud Setup",
+        "description": "How to set up and use the XAG Agriculture Cloud platform.",
+        "duration": "10:30",
+        "category": "Tutorial"
+      },
+      "maintenance": {
+        "title": "Basic Drone Maintenance",
+        "description": "Essential guide for regular maintenance of your XAG agricultural drone.",
+        "duration": "6:15",
+        "category": "Tutorial"
+      }
+    }
+  },
+  "xagCareExpress": {
+    "badge": "Support",
+    "title": "XAG Care Express",
+    "description": "Premium support and maintenance services designed to keep your XAG equipment operating at peak performance.",
+    "services": {
+      "badge": "Our Services",
+      "title": "What's Included",
+      "priorityRepairs": {
+        "title": "Priority Repairs",
+        "description": "Fast-track repair service with priority handling for minimal downtime."
+      },
+      "genuineParts": {
+        "title": "Genuine Parts",
+        "description": "Only authentic XAG components used for all repairs and replacements."
+      },
+      "expertTechnicians": {
+        "title": "Expert Technicians",
+        "description": "Factory-trained technicians with extensive XAG product knowledge."
+      },
+      "extendedWarranty": {
+        "title": "Extended Warranty",
+        "description": "Optional extended warranty coverage for added peace of mind."
+      }
+    },
+    "plans": {
+      "badge": "Pricing",
+      "title": "Choose Your Plan",
+      "mostPopular": "Most Popular",
+      "getStarted": "Get Started",
+      "perYear": "/year",
+      "basic": {
+        "name": "Basic Care",
+        "price": "$700",
+        "features": {
+          "priority": "Standard repair priority",
+          "discount": "10% parts discount",
+          "support": "Phone support",
+          "check": "Annual health check"
+        }
+      },
+      "plus": {
+        "name": "Care Plus",
+        "price": "$1,000",
+        "features": {
+          "priority": "Priority repair service",
+          "discount": "20% parts discount",
+          "support": "Phone & email support",
+          "check": "Bi-annual health check",
+          "firmware": "Free firmware updates",
+          "loaner": "Loaner drone available"
+        }
+      },
+      "premium": {
+        "name": "Care Premium",
+        "price": "$2,000",
+        "features": {
+          "priority": "Express repair service",
+          "discount": "30% parts discount",
+          "support": "24/7 dedicated support",
+          "check": "Quarterly health check",
+          "firmware": "Free firmware updates",
+          "loaner": "Guaranteed loaner drone",
+          "onsite": "On-site technician visit"
+        }
+      }
+    },
+    "cta": {
+      "title": "Need Immediate Support?",
+      "description": "Contact our support team for urgent repairs or technical assistance.",
+      "requestRepair": "Request Repair",
+      "contactSupport": "Contact Support"
+    }
+  },
+  "fieldOperations": {
+    "badge": "Services",
+    "title": "Field Operations",
+    "description": "Professional drone spraying and agricultural services performed by our experienced operators. Let us handle your crop protection needs.",
+    "requestQuote": "Request a Quote",
+    "services": {
+      "badge": "Our Services",
+      "title": "What We Offer",
+      "spray": {
+        "title": "Crop Spraying",
+        "description": "Precision herbicide, pesticide, and fungicide application for all crop types."
+      },
+      "seed": {
+        "title": "Seeding & Spreading",
+        "description": "Efficient aerial seeding for cover crops and granular fertilizer spreading."
+      },
+      "monitor": {
+        "title": "Crop Monitoring",
+        "description": "Aerial surveys and NDVI mapping to identify problem areas in your fields."
+      },
+      "custom": {
+        "title": "Custom Solutions",
+        "description": "Tailored drone services designed for your specific agricultural needs."
+      }
+    },
+    "benefits": {
+      "badge": "Why Choose Us",
+      "title": "Benefits of Drone Operations",
+      "items": {
+        "chemicals": "Reduce chemical usage by up to 30%",
+        "coverage": "Cover more area in less time",
+        "terrain": "Access difficult terrain and wet fields",
+        "damage": "Minimize crop damage from ground equipment",
+        "precision": "Precise application with GPS guidance",
+        "data": "Real-time data and reporting"
+      }
+    },
+    "process": {
+      "badge": "How It Works",
+      "title": "Our Process",
+      "step1": {
+        "title": "Contact Us",
+        "description": "Request a quote with your field details"
+      },
+      "step2": {
+        "title": "Site Assessment",
+        "description": "We evaluate your property and needs"
+      },
+      "step3": {
+        "title": "Schedule",
+        "description": "Book your preferred operation date"
+      },
+      "step4": {
+        "title": "Execute",
+        "description": "Our team performs the operation"
+      }
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "description": "Contact us today for a free quote on our field operation services."
+    }
+  },
+  "downloadCenter": {
+    "badge": "Resources",
+    "title": "Download Center",
+    "description": "Access product brochures, user manuals, software updates, and technical documentation.",
+    "documentType": "Document Type",
+    "product": "Product",
+    "all": "All",
+    "allProducts": "All Products",
+    "brochure": "Brochure",
+    "manual": "Manual",
+    "guide": "Guide",
+    "download": "Download",
+    "app": {
+      "badge": "Mobile App",
+      "title": "XAG One App",
+      "description": "Complete agricultural management platform to plan, execute and analyze your operations with agricultural drones.",
+      "feature1": "AI-powered flight planning",
+      "feature2": "Real-time operations monitoring",
+      "feature3": "Detailed analysis and reports",
+      "feature4": "Multi-drone fleet management",
+      "downloadOn": "Download on",
+      "getItOn": "Get it on"
+    },
+    "docs": {
+      "badge": "Documentation",
+      "title": "Manuals & Specifications",
+      "description": "Download user manuals, technical guides and product specifications."
+    },
+    "downloads": {
+      "p150maxManual": {
+        "title": "P150 Max User Manual",
+        "description": "Complete user manual for the XAG P150 Max 2024 agricultural drone.",
+        "type": "Manual",
+        "fileSize": "32 MB",
+        "format": "PDF",
+        "product": "P150 Max"
+      },
+      "p100proSpecs": {
+        "title": "P100 Pro Technical Specifications",
+        "description": "Complete specifications and features overview of the P100 Pro drone.",
+        "type": "Manual",
+        "fileSize": "2.5 MB",
+        "format": "PDF",
+        "product": "P100 Pro"
+      },
+      "r150Specs": {
+        "title": "R150 Technical Specifications",
+        "description": "Comprehensive specification guide for the R150 ground robot.",
+        "type": "Manual",
+        "fileSize": "1.8 MB",
+        "format": "PDF",
+        "product": "R150"
+      },
+      "v40Specs": {
+        "title": "V40 Technical Specifications",
+        "description": "Specifications and features of the V40 agricultural drone.",
+        "type": "Manual",
+        "fileSize": "2.1 MB",
+        "format": "PDF",
+        "product": "V40"
+      }
+    }
+  },
+  "training": {
+    "badge": "Training Programs",
+    "title": "Become a Certified Drone Pilot",
+    "description": "Get approved training and certification to operate agricultural drones professionally. Our comprehensive programs cover everything from basic operations to advanced spray techniques.",
+    "viewPrograms": "View Programs",
+    "enquireNow": "Enquire Now",
+    "pilotsTrained": "Drone pilots trained worldwide",
+    "features": {
+      "certified": {
+        "title": "Official Certification",
+        "subtitle": "Recognized certification"
+      },
+      "handsOn": {
+        "title": "Hands-On Training",
+        "subtitle": "Practical experience"
+      },
+      "experts": {
+        "title": "Expert Instructors",
+        "subtitle": "Industry professionals"
+      },
+      "nationwide": {
+        "title": "Nationwide",
+        "subtitle": "Locations across Hungary"
+      }
+    }
+  },
+  "support": {
+    "badge": "Customer Support",
+    "title": "We're Here to Help",
+    "description": "Our dedicated support team is ready to assist you with any questions, technical issues, or service requests. Get the help you need to keep your operations running smoothly.",
+    "contactSupport": "Contact Support",
+    "email": "Email",
+    "items": {
+      "technical": {
+        "title": "Technical Support",
+        "description": "Expert assistance for all XAG products"
+      },
+      "docs": {
+        "title": "Documentation",
+        "description": "Manuals, guides, and resources"
+      },
+      "warranty": {
+        "title": "Warranty Service",
+        "description": "Coverage and claims support"
+      },
+      "repair": {
+        "title": "Repair Service",
+        "description": "Fast repairs with genuine parts"
+      }
+    }
+  },
+  "partsCatalog": {
+    "home": "Home",
+    "spareParts": "Spare Parts",
+    "heroDescription": "Find the right spare parts for your drone. Browse through our complete catalog of genuine XAG replacement parts and accessories.",
+    "selectCategory": "Select a Category",
+    "selectCategoryDescription": "Choose a component group to view available parts"
+  },
+  "footer": {
+    "description": "XNETIK provides a wide range of agriculture drones to help optimise agriculture operations and increase crop farming productions.",
+    "products": "Products",
+    "resources": "Resources",
+    "company": "Company",
+    "support": "Support",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use",
+    "copyright": "© 2026 XNETIK Hungary. All rights reserved."
+  },
+  "whyChoose": {
+    "badge": "Why XAG",
+    "title": "Why Choose XAG Hungary",
+    "description": "We are committed to delivering the best agricultural drone solutions with unmatched support and expertise.",
+    "items": {
+      "technology": {
+        "title": "Cutting-Edge Technology",
+        "description": "Industry-leading 4D imaging radar and AI-powered autonomous systems"
+      },
+      "support": {
+        "title": "Local Support",
+        "description": "Hungary-based technical support and nationwide service network"
+      },
+      "training": {
+        "title": "Professional Training",
+        "description": "Certified training programs and certification courses"
+      },
+      "efficiency": {
+        "title": "Maximum Efficiency",
+        "description": "Cover more area in less time with precision application"
+      },
+      "sustainability": {
+        "title": "Sustainable Farming",
+        "description": "Reduce chemical usage and environmental impact"
+      },
+      "warranty": {
+        "title": "Comprehensive Warranty",
+        "description": "Extended warranty options and XAG Care Express support"
+      }
+    }
+  },
+  "products": {
+    "specifications": "Specifications",
+    "features": "Features",
+    "payloadCapacity": "Payload Capacity",
+    "maxSprayWidth": "Max Spray Width",
+    "flightTime": "Flight Time",
+    "tankVolume": "Tank Volume",
+    "workingWidth": "Working Width",
+    "operatingTime": "Operating Time",
+    "speed": "Speed"
+  },
+  "p100pro": {
+    "badge": "Agricultural UAS",
+    "title": "XAG P100 Pro",
+    "description": "The ultimate precision agriculture drone with advanced spraying and spreading capabilities for farms.",
+    "requestQuote": "Request Quote",
+    "viewSpecs": "View Specs",
+    "specs": {
+      "badge": "Performance",
+      "title": "Key Specifications",
+      "description": "Built for demanding agricultural operations with precision and reliability",
+      "maxPayload": "Max Payload",
+      "maxPayloadDesc": "Industry-leading capacity",
+      "maxSpeed": "Max Speed",
+      "maxSpeedDesc": "Rapid field coverage",
+      "atomization": "Atomization",
+      "atomizationDesc": "Ultra-fine droplet size",
+      "protection": "Protection",
+      "protectionDesc": "All-weather operation"
+    },
+    "fieldPerformance": {
+      "badge": "Field Performance",
+      "title": "Transform Your Operations",
+      "description": "Compare traditional methods with XAG precision agriculture",
+      "sprayingEfficiency": "Spraying Efficiency",
+      "chemicalSavings": "Chemical Savings",
+      "coveragePrecision": "Coverage Precision",
+      "drone": "XAG P100 Pro",
+      "traditional": "Traditional",
+      "hectaresHour": "20+ hectares/hour",
+      "hectaresHourTraditional": "2-3 hectares/hour",
+      "faster": "10x faster",
+      "reduction": "30% reduction",
+      "standardUsage": "Standard usage",
+      "costEffective": "Cost effective",
+      "accuracy": "±2cm accuracy",
+      "variableCoverage": "Variable coverage",
+      "gpsGuided": "GPS guided"
+    },
+    "revospray": {
+      "badge": "Spraying System",
+      "title": "RevoSpray P3",
+      "description": "Revolutionary centrifugal spraying system with intelligent flow control. Achieve uniform coverage with ultra-fine atomization down to 500µm droplet size.",
+      "features": {
+        "flowRate": "24L/min maximum flow rate",
+        "sprayDiscs": "8 independent spray discs",
+        "variableRate": "AI-powered variable rate spraying",
+        "antiDrift": "Anti-drift technology"
+      }
+    },
+    "revocast": {
+      "badge": "Spreading System",
+      "title": "RevoCast P3",
+      "description": "High-capacity spreading system for granular fertilizers and seeds. Precision distribution with adjustable spread width up to 7 meters.",
+      "features": {
+        "hopper": "50kg hopper capacity",
+        "spreadWidth": "7m spread width",
+        "variableRate": "Variable rate spreading",
+        "compatible": "Seed & fertilizer compatible"
+      }
+    },
+    "radar": {
+      "badge": "Obstacle Avoidance",
+      "title": "4D Imaging Radar",
+      "description": "Next-generation radar technology for intelligent obstacle detection and terrain following",
+      "detection360": "360° Detection",
+      "detection360Desc": "Full omnidirectional obstacle sensing",
+      "range50m": "50m Range",
+      "range50mDesc": "Long-range detection for early avoidance",
+      "allWeather": "All-Weather",
+      "allWeatherDesc": "Works in dust, fog, and low light",
+      "terrainFollowing": "Terrain Following",
+      "terrainFollowingDesc": "Adaptive altitude control over uneven ground"
+    },
+    "superx": {
+      "badge": "Flight Control",
+      "title": "SuperX 4 Pro",
+      "description": "Advanced flight control system with triple redundancy and AI-powered autonomous capabilities. Designed for reliable agricultural operations.",
+      "dualIMU": "Dual IMU",
+      "dualIMUDesc": "Redundant flight sensors",
+      "rtkGPS": "RTK GPS",
+      "rtkGPSDesc": "Centimeter-level positioning",
+      "aiCore": "AI Core",
+      "aiCoreDesc": "Intelligent flight planning",
+      "fiveGReady": "5G Ready",
+      "fiveGReadyDesc": "High-speed data transmission"
+    },
+    "remote": {
+      "badge": "Remote Controller",
+      "title": "ARC3 Pro",
+      "description": "Experience the convenience of a lightweight remote controller, designed to reduce pilot strain during long hours of operation. The ARC3 Pro is compact, durable, and boasts an extended battery life, the perfect companion for agricultural tasks.",
+      "controlRange": "Control Range",
+      "hdDisplay": "HD Display",
+      "dustWater": "Dust & Water",
+      "batteryLife": "Battery Life"
+    },
+    "power": {
+      "badge": "Power System",
+      "title": "Intelligent Power Management",
+      "description": "Quick-swap battery system with intelligent charging for continuous operations",
+      "capacity": "Capacity",
+      "voltage": "Voltage",
+      "flightTime": "Flight Time",
+      "b100Battery": "B100 Battery",
+      "b150Battery": "B150 Battery"
+    },
+    "positioning": {
+      "badge": "Navigation",
+      "title": "Positioning Modes",
+      "description": "Multiple positioning options for any environment",
+      "mode": "Mode",
+      "accuracy": "Accuracy",
+      "descriptionCol": "Description",
+      "rtk": "RTK",
+      "rtkDesc": "Real-time kinematic for maximum precision",
+      "gnss": "GNSS",
+      "gnssDesc": "Standard GPS positioning",
+      "vision": "Vision",
+      "visionDesc": "Visual positioning system for GPS-denied areas"
+    },
+    "dayNight": {
+      "badge": "24/7 Operations",
+      "title": "Day & Night Capability",
+      "description": "Powerful LED lighting and advanced sensors enable round-the-clock operations",
+      "dayMode": "Day Mode",
+      "nightMode": "Night Mode"
+    },
+    "app": {
+      "badge": "Smart Farming",
+      "title": "XAG One App",
+      "description": "Complete farm management platform for planning, executing, and analyzing your agricultural drone operations.",
+      "features": {
+        "aiPlanning": "AI-powered flight planning",
+        "realTimeMonitoring": "Real-time operation monitoring",
+        "analytics": "Detailed analytics & reports",
+        "fleetManagement": "Multi-drone fleet management"
+      },
+      "appStore": "App Store",
+      "googlePlay": "Google Play"
+    },
+    "contact": {
+      "badge": "Get in Touch",
+      "title": "Ready to Transform Your Farm?",
+      "description": "Contact our team to learn more about the P100 Pro and how it can revolutionize your agricultural operations.",
+      "callUs": "Call us",
+      "emailUs": "Email us",
+      "form": {
+        "name": "Name *",
+        "email": "Email *",
+        "phone": "Phone",
+        "company": "Company",
+        "message": "Message *",
+        "messagePlaceholder": "Tell us about your farming needs...",
+        "submit": "Send Inquiry"
+      }
+    }
+  },
+  "p150max": {
+    "badge": "Agricultural UAS",
+    "title": "XAG P150 Max",
+    "tagline": "Fly Max. Performance to the Max.",
+    "description": "Single-operator agricultural drone supporting field mapping, spraying, spreading, and logistics with 80kg payload capacity.",
+    "orderNow": "Order Now",
+    "viewSpecs": "View Specs",
+    "downloads": "Downloads",
+    "specs": {
+      "badge": "Performance",
+      "title": "Core Specifications",
+      "description": "Industry-leading performance for demanding agricultural operations",
+      "sprayingTank": "Spraying Tank",
+      "sprayingTankDesc": "Maximum capacity",
+      "maxFlowRate": "Max Flow Rate",
+      "maxFlowRateDesc": "Spraying output",
+      "spreadingTank": "Spreading Tank",
+      "spreadingTankDesc": "Granule container",
+      "spreadRate": "Spread Rate",
+      "spreadRateDesc": "Maximum output",
+      "liftingCapacity": "Lifting Capacity",
+      "liftingCapacityDesc": "Payload capacity",
+      "coverageFlight": "Coverage/Flight",
+      "coverageFlightDesc": "Per battery cycle",
+      "maxSpeed": "Max Speed",
+      "maxSpeedDesc": "Operation speed",
+      "bodyWeight": "Body Weight",
+      "bodyWeightDesc": "Drone weight"
+    },
+    "revospray": {
+      "badge": "Spraying System",
+      "title": "RevoSpray P5",
+      "description": "Advanced centrifugal spraying system with intelligent flow control. Upgradeable to 46 L/min flow with four-nozzle kit for maximum coverage efficiency.",
+      "features": {
+        "tankCapacity": "80L tank capacity with 46 L/min flow rate",
+        "dropletSize": "Droplet size range: 60-500 μm",
+        "sprayWidth": "Spraying width: 5-10 meters",
+        "impellerPumps": "Flexible impeller pumps with 300+ hour service life",
+        "centrifugalNozzle": "Intelligent centrifugal nozzle system",
+        "smartTank": "Smart liquid tank with capillary pneumatic sensor"
+      }
+    },
+    "revocast": {
+      "badge": "Spreading System",
+      "title": "RevoCast P5",
+      "description": "High-capacity spreading system with vertical waving technology for precise granule distribution across seeds, fertilizers, and powders.",
+      "features": {
+        "granuleContainer": "115L granule container capacity",
+        "maxSpreadRate": "300 kg/min maximum spread rate",
+        "spreadWidth": "9-meter spread swath width",
+        "waving": "Vertical waving spreader technology",
+        "feeders": "Three interchangeable screw feeders (large, medium, small)",
+        "compatible": "Compatible with seeds, fertilizer, and powders"
+      }
+    },
+    "revosling": {
+      "badge": "Field Logistics",
+      "title": "RevoSling",
+      "description": "Transform your P150 Max into a logistics powerhouse with 80kg payload capacity for transporting supplies, equipment, and materials across your farm.",
+      "payloadCapacity": "Payload Capacity",
+      "maxFlightSpeed": "Max Flight Speed",
+      "features": {
+        "securityLock": "Security lock system",
+        "remoteControl": "Remote control via SRC 5",
+        "abRoute": "A/B route automation",
+        "liveWeighing": "Live in-flight weighing"
+      }
+    },
+    "obstacleAvoidance": {
+      "badge": "Safety First",
+      "title": "Obstacle Avoidance & Safety",
+      "description": "Advanced sensing technology for safe autonomous operations in complex environments",
+      "features": {
+        "radar": "4D Imaging Radar",
+        "radarDesc": "Detecting obstacles 1.5-100 meters away",
+        "aiVision": "AI Vision",
+        "aiVisionDesc": "Real-time 3D AR markers overlay",
+        "terrainFollowing": "Terrain Following",
+        "terrainFollowingDesc": "No pre-loaded maps required",
+        "fpv": "Wide-angle FPV",
+        "fpvDesc": "Integrated camera for full visibility"
+      }
+    },
+    "controlSystems": {
+      "badge": "Control & Transmission",
+      "title": "Intelligent Control Systems",
+      "src5": {
+        "name": "SRC5 Remote Controller",
+        "features": {
+          "xlink": "Integrated XLink HD transmission (up to 2 km range)",
+          "fpv": "Ultra-wide FPV view with AR overlays",
+          "oneClick": "One-click autonomous operation workflow"
+        }
+      },
+      "xrtk7": {
+        "name": "XRTK7 (Optional)",
+        "features": {
+          "accuracy": "Centimeter-level RTK accuracy",
+          "onePress": "One-press base-station activation",
+          "relay": "Built-in relay for tall crops/orchards"
+        }
+      },
+      "superx4": {
+        "name": "SuperX 4 Pro",
+        "subtitle": "Intelligent Control System",
+        "processor": "Processor",
+        "communication": "Communication",
+        "imu": "IMU",
+        "positioning": "Positioning",
+        "description": "Advanced flight control with AI fault prediction for reliable autonomous operations.",
+        "features": {
+          "processor": "1 GHz independent processor",
+          "dualLink": "Dual-link communication",
+          "imu": "3× IMU + AI fault prediction",
+          "dualAntenna": "Dual-antenna RTK positioning"
+        }
+      }
+    },
+    "workflow": {
+      "badge": "Simple Workflow",
+      "title": "Setup in 4 Easy Steps",
+      "step1": {
+        "number": "01",
+        "title": "Quick Device Binding",
+        "description": "Simple tap-based pairing process"
+      },
+      "step2": {
+        "number": "02",
+        "title": "Easy Field Planning",
+        "description": "Multiple mapping methods available"
+      },
+      "step3": {
+        "number": "03",
+        "title": "One-Click Operation",
+        "description": "Fully autonomous flight execution"
+      },
+      "step4": {
+        "number": "04",
+        "title": "Smart Return Home",
+        "description": "Auto return at preset thresholds"
+      }
+    },
+    "autonomous": {
+      "badge": "Autonomous Flight",
+      "title": "Intelligent Capabilities",
+      "description": "Advanced autonomous features for efficient and precise operations",
+      "features": {
+        "fieldMapping": "Field Mapping",
+        "fieldMappingDesc": "HD imagery stitched post-flight with AI obstacle detection",
+        "routePlanning": "Intelligent Route Planning",
+        "routePlanningDesc": "Auto-generated paths with spiral perimeter-to-centre routes",
+        "safetyModes": "Safety Modes",
+        "safetyModesDesc": "Safety Point Mode and Safety Zone Mode for controlled entry/exit",
+        "multiField": "Multi-Field Operation",
+        "multiFieldDesc": "Plan up to 10 fields in one workflow",
+        "swarm": "Swarm Operation",
+        "swarmDesc": "Single controller manages two drones simultaneously",
+        "variableRate": "Variable-Rate Application",
+        "variableRateDesc": "Intelligent optimization per field zone"
+      }
+    },
+    "power": {
+      "badge": "Power System",
+      "title": "B141050 Smart Battery",
+      "capacity": "Wh Capacity",
+      "weight": "kg Weight",
+      "cycleWarranty": "Cycle Warranty",
+      "chargingOptions": "Charging Options",
+      "chargers": {
+        "cm13600s": {
+          "name": "CM13600S",
+          "type": "AC Input, 3400W",
+          "time": "~12 min (30-95%)"
+        },
+        "cm15300d": {
+          "name": "CM15300D",
+          "type": "DC Input, 72V+",
+          "time": "Fast charging"
+        },
+        "parallel": {
+          "name": "Parallel Kit",
+          "type": "AC, 6800W",
+          "time": "~7 min (30-95%)"
+        },
+        "cooling": {
+          "name": "Cooling Tower",
+          "type": "Continuous",
+          "time": "6-8 hours operation"
+        }
+      }
+    },
+    "testimonials": {
+      "badge": "Customer Stories",
+      "title": "Trusted by Farmers"
+    },
+    "contact": {
+      "badge": "Get in Touch",
+      "title": "Ready to Maximize Your Farm's Potential?",
+      "description": "Contact our team to learn more about the P150 Max and how it can transform your agricultural operations.",
+      "salesSpecialist": "Sales Specialist",
+      "ceo": "CEO",
+      "form": {
+        "name": "Name *",
+        "email": "Email *",
+        "phone": "Phone",
+        "company": "Company",
+        "message": "Message *",
+        "messagePlaceholder": "Tell us about your farming needs...",
+        "submit": "Send Inquiry"
+      }
+    }
+  },
+  "apc2": {
+    "badge": "AutoPilot Console",
+    "title": "XAG APC2",
+    "tagline": "Navigate with Precision",
+    "description": "An automated steering solution designed for hands-free farm operation. Enables agricultural machinery like tractors and harvesters to operate with centimeter-level positioning accuracy.",
+    "orderNow": "Order Now",
+    "viewSpecs": "View Specs",
+    "downloads": "Downloads",
+    "features": {
+      "badge": "Key Features",
+      "title": "Why Choose APC2",
+      "description": "Advanced autopilot technology for precision agriculture",
+      "allInOne": "All-In-One Design",
+      "allInOneDesc": "Installs in approximately 20 minutes with minimal setup",
+      "highPrecision": "High Precision",
+      "highPrecisionDesc": "±2.5 cm positioning accuracy for precise operations",
+      "dualPositioning": "Dual Positioning",
+      "dualPositioningDesc": "Supports both RTK and PPP correction signals",
+      "advancedGuidance": "Advanced Guidance",
+      "advancedGuidanceDesc": "Multiple guidance line modes for varied field conditions",
+      "mobileControl": "Mobile Control",
+      "mobileControlDesc": "Smartphone app enables path planning and operation",
+      "wideCompatibility": "Wide Compatibility",
+      "wideCompatibilityDesc": "Works with multiple agricultural machinery brands/models",
+      "offlineOperation": "Offline Operation",
+      "offlineOperationDesc": "Functions without network via mobile base station",
+      "otaUpdates": "OTA Updates",
+      "otaUpdatesDesc": "Over-the-air firmware updates for new features"
+    },
+    "variants": {
+      "badge": "System Variants",
+      "title": "Choose Your Configuration",
+      "description": "Two system options designed for different needs",
+      "standard": {
+        "name": "APC2 Standard",
+        "description": "Automated steering wheel with paddle shifter controls",
+        "feature1": "Automated steering wheel replacement",
+        "feature2": "Paddle shifter controls for easy operation",
+        "feature3": "Minimal maintenance (1,000+ hour intervals)",
+        "feature4": "Integrated display and controls"
+      },
+      "flex": {
+        "name": "APC2 Flex",
+        "description": "Steering motor drive preserves original wheel",
+        "feature1": "Preserves original steering wheel",
+        "feature2": "Steering-mounted button controls",
+        "feature3": "Compact quick-install design",
+        "feature4": "Suitable for various machinery types"
+      }
+    },
+    "specs": {
+      "badge": "Specifications",
+      "title": "Technical Details",
+      "description": "Industry-leading precision and compatibility",
+      "accuracy": "Positioning Accuracy",
+      "accuracyValue": "±2.5 cm",
+      "guidanceModes": "Guidance Modes",
+      "guidanceModesValue": "5 Modes",
+      "positioning": "Positioning Methods",
+      "positioningValue": "RTK/PPP/CORS",
+      "installation": "Installation Time",
+      "installationValue": "~20 min"
+    },
+    "guidance": {
+      "badge": "Guidance System",
+      "title": "Multiple Guidance Modes",
+      "description": "Flexible path planning for all field types",
+      "modes": {
+        "abStraight": "AB Straight Line",
+        "abStraightDesc": "Standard parallel passes for rectangular fields",
+        "abCurve": "AB Curve",
+        "abCurveDesc": "Follow contours for irregular terrain",
+        "abEquidistant": "AB Equidistant Curve",
+        "abEquidistantDesc": "Maintain consistent spacing on curves",
+        "drillSeeding": "Drill Seeding",
+        "drillSeedingDesc": "Optimized for precision seeding operations",
+        "diagonalHarrowing": "Diagonal Harrowing",
+        "diagonalHarrowingDesc": "Cross-pattern for thorough soil preparation"
+      }
+    },
+    "compatibility": {
+      "badge": "Compatibility",
+      "title": "Works With Your Equipment",
+      "description": "Compatible with a wide range of agricultural machinery",
+      "riceTransplanters": "Rice Transplanters",
+      "tractors": "Tractors",
+      "sprayers": "Sprayers",
+      "harvesters": "Harvesters",
+      "paddyFields": "Paddy Fields",
+      "dryFields": "Dry Fields",
+      "mountainTerrain": "Mountain Terrain"
+    },
+    "accessories": {
+      "badge": "Optional Accessories",
+      "title": "Expand Your System",
+      "description": "Enhance capabilities with compatible accessories",
+      "xrtk7": {
+        "name": "XRTK7 Mobile Station",
+        "description": "Portable RTK base station for areas without network coverage"
+      },
+      "xre1": {
+        "name": "XRE1 Range Extender",
+        "description": "Extends communication range up to 2 km"
+      },
+      "wcp1": {
+        "name": "WCP1 Wireless Control Panel",
+        "description": "Remote wireless control for convenient operation"
+      }
+    },
+    "contact": {
+      "badge": "Get in Touch",
+      "title": "Ready to Automate Your Farm?",
+      "description": "Contact our team to learn more about the APC2 and how it can transform your agricultural operations.",
+      "salesSpecialist": "Sales Specialist",
+      "ceo": "CEO",
+      "form": {
+        "name": "Name *",
+        "email": "Email *",
+        "phone": "Phone",
+        "company": "Company",
+        "message": "Message *",
+        "messagePlaceholder": "Tell us about your farming needs...",
+        "submit": "Send Inquiry"
+      }
+    }
+  },
+  "productsPage": {
+    "badge": "Products",
+    "title": "Our Product Range",
+    "description": "Discover our comprehensive range of agricultural drones and autonomous ground robots designed for precision farming.",
+    "airborne": {
+      "badge": "Airborne",
+      "title": "Agricultural Drones",
+      "viewAll": "View All"
+    },
+    "landborne": {
+      "badge": "Landborne",
+      "title": "Ground Robots",
+      "viewAll": "View All"
+    },
+    "autopilot": {
+      "badge": "Autopilot",
+      "title": "Autonomous Guidance Systems",
+      "viewAll": "View More"
+    }
+  },
+  "aboutUs": {
+    "badge": "About Us",
+    "title": "Revolutionizing Polish Agriculture",
+    "subtitle": "XNETIK Hungary is the authorized distributor of XAG agricultural drones in Hungary, dedicated to transforming farming through innovative technology.",
+    "stats": {
+      "established": "Established",
+      "establishedValue": "2019",
+      "teamMembers": "Team Members",
+      "dronesDeployed": "Drones Deployed",
+      "hectaresCovered": "Hectares Covered"
+    },
+    "story": {
+      "badge": "Our Story",
+      "title": "Pioneers of Smart Agriculture in Hungary",
+      "p1": "XNETIK Hungary introduces drones, robots, autopilots, artificial intelligence, and IoT solutions to agricultural production, creating an intelligent farming ecosystem characteristic of Agriculture 4.0.",
+      "p2": "Our mission is to make agriculture smarter by combining leading drone technology with IoT field monitoring stations, GNSS RTK geospatial intelligence, and cloud computing.",
+      "p3": "We strive to address aging rural populations, protect natural resources and biodiversity, and improve productivity while ensuring food security."
+    },
+    "mission": {
+      "badge": "Our Mission",
+      "title": "Produce More with Less",
+      "description": "According to UN Agenda 2030, 821 million people globally suffer from hunger. With global population expected to reach 9 billion by 2050, agricultural production must increase approximately 60% to meet demand. We are committed to helping farmers produce more food using fewer resources.",
+      "items": {
+        "foodSecurity": "Global Food Security",
+        "foodSecurityDesc": "Supporting long-term food security and environmental stewardship",
+        "monitoring": "Crop Monitoring",
+        "monitoringDesc": "Remote monitoring of crops and production processes through continuous IoT field monitoring stations",
+        "xaiPlatform": "XAI Platform",
+        "xaiPlatformDesc": "Data-exchange platform connecting intelligent XAG devices and integrating agricultural production with smart technologies"
+      }
+    },
+    "values": {
+      "badge": "Our Values",
+      "title": "What Drives Us",
+      "innovation": "Innovation",
+      "innovationDesc": "We constantly push the boundaries of agricultural technology to deliver cutting-edge solutions.",
+      "sustainability": "Sustainability",
+      "sustainabilityDesc": "Our precision agriculture solutions help reduce chemical usage and environmental impact.",
+      "excellence": "Excellence",
+      "excellenceDesc": "We are committed to delivering the highest quality products and services to our customers.",
+      "partnership": "Partnership",
+      "partnershipDesc": "We work closely with farmers to understand their needs and provide tailored solutions."
+    },
+    "cta": {
+      "title": "Ready to Transform Your Farm?",
+      "description": "Contact our team to learn how XAG drones can help optimize your agricultural operations.",
+      "contactUs": "Contact Us",
+      "viewProducts": "View Products"
+    }
+  },
+  "termsOfUse": {
+    "title": "Terms of Use",
+    "lastUpdated": "Last updated: January 2026",
+    "general": {
+      "title": "1. General Provisions",
+      "operator": "The online store www.imegagroup.pl is operated by XNETIK Sp. z o.o. based in Rybnik, ul. Smolna 14, 44-200 Rybnik, NIP: PL6423233602, e-mail: biuro@imegagroup.pl.",
+      "scope": "The scope of business is the sale of professional agricultural platforms, including XAG drones and ground robots.",
+      "customer": "A customer may be an adult - natural person, legal entity, or organizational unit with legal capacity.",
+      "consumer": "A consumer is a natural person making a purchase unrelated to professional activity."
+    },
+    "technical": {
+      "title": "2. Technical Requirements",
+      "requirements": "Internet access and a browser supporting JavaScript (Chrome, Firefox, Safari, Edge) are required to use the store. Minimum screen resolution: 1024×768 pixels.",
+      "prohibited": "Users may not use the site unlawfully, violating personal rights of others, disrupting site functionality, or distributing unlawful content."
+    },
+    "orders": {
+      "title": "3. Placing Orders",
+      "availability": "Orders can be placed at any time through the website.",
+      "process": "Order process: (1) select products and quantities; (2) choose delivery and payment methods; (3) review order summary; (4) confirm order.",
+      "confirmation": "Upon receiving the order, the seller confirms order details electronically and checks product availability.",
+      "agreement": "A sales agreement is concluded between the customer and seller upon sending payment confirmation.",
+      "language": "Sales agreements are concluded in Polish."
+    },
+    "payments": {
+      "title": "4. Payments",
+      "methods": "Accepted payment methods: bank transfer, online payment, payment on delivery."
+    },
+    "delivery": {
+      "title": "5. Delivery",
+      "options": "We deliver goods throughout Hungary and the European Union via courier companies.",
+      "time": "Delivery time depends on product availability and is usually 2-7 business days."
+    },
+    "withdrawal": {
+      "title": "6. Right of Withdrawal",
+      "period": "Consumers have the right to withdraw from distance contracts within 14 days without giving any reason.",
+      "deadline": "Submitting a written withdrawal statement before the deadline is sufficient to meet the deadline.",
+      "start": "The withdrawal period begins from the day the customer receives the goods."
+    },
+    "complaints": {
+      "title": "7. Complaints",
+      "liability": "The seller is obliged to deliver goods free from defects.",
+      "warranty": "The seller is liable for physical and legal defects of goods in accordance with the Civil Code.",
+      "filing": "Complaints may be filed in any form understandable to the seller. Defects and customer demands must be specified.",
+      "period": "The customer should report the defect within one year of discovery (if discovered within two years of delivery).",
+      "resolution": "The seller resolves complaints within 14 days of receipt."
+    },
+    "guarantee": {
+      "title": "8. Quality Guarantee",
+      "period": "The seller guarantees product functionality for one year from receipt, unless otherwise specified in the product description.",
+      "scope": "The guarantee covers manufacturing defects only and operates within Hungary and EU territory.",
+      "exclusions": "The guarantee does not cover improper installation, misuse, neglect, or normal wear.",
+      "remedies": "Remedy options include: repair, replacement (if repair impossible), or price reduction/refund (if replacement impossible)."
+    },
+    "dataProtection": {
+      "title": "9. Personal Data Protection",
+      "handling": "The operator processes customer data in accordance with Polish Personal Data Protection Act and Electronic Services Law.",
+      "policy": "Detailed rules on personal data and cookie processing are set out in the Privacy Policy."
+    },
+    "final": {
+      "title": "10. Final Provisions",
+      "disputes": "Disputes between the operator and consumers are resolved in accordance with applicable law.",
+      "alternative": "Consumers may access extrajudicial complaint procedures via: http://www.uokik.gov.pl, http://www.rzu.gov.pl, or regional consumer protection offices.",
+      "business": "Non-consumer disputes are resolved before courts competent for the seller's registered office.",
+      "law": "Polish law applies to matters not regulated herein.",
+      "compliance": "These terms do not limit customer rights under applicable law."
+    },
+    "contact": {
+      "title": "Contact",
+      "intro": "For questions, please contact:",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address"
+    }
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: January 2026",
+    "administrator": {
+      "title": "Data Administrator",
+      "content": "The administrator of your personal data is XNETIK Sp. z o.o. based in Rybnik, ul. Smolna 14, 44-200 Rybnik, NIP: 6423233602."
+    },
+    "dataCollection": {
+      "title": "1. Data We Collect",
+      "intro": "We may collect the following personal data:",
+      "items": {
+        "personal": "Name, address, email address, phone number",
+        "company": "Company name and business details",
+        "technical": "IP address, browser type, device information",
+        "usage": "Pages visited and time spent on site"
+      }
+    },
+    "purpose": {
+      "title": "2. Purpose of Data Processing",
+      "intro": "We process your data for the following purposes:",
+      "items": {
+        "services": "Service provision and account management",
+        "newsletter": "Newsletter delivery with commercial information",
+        "orders": "Order fulfillment",
+        "complaints": "Complaint handling and returns",
+        "inquiries": "Responding to customer inquiries",
+        "marketing": "Direct marketing",
+        "legal": "Legal obligation compliance (accounting, tax requirements)",
+        "legitimate": "Legitimate business interests"
+      }
+    },
+    "retention": {
+      "title": "3. Data Retention Period",
+      "content": "Data is maintained throughout the contractual relationship and legal obligation period, or until consent withdrawal or formal objection."
+    },
+    "profiling": {
+      "title": "4. Profiling",
+      "content": "The site uses automatic content personalization based on user behavior to recommend relevant products. This doesn't produce legally binding effects."
+    },
+    "recipients": {
+      "title": "5. Data Recipients",
+      "intro": "Your data may be shared with the following entities:",
+      "items": {
+        "it": "IT service providers",
+        "marketing": "Marketing agencies",
+        "couriers": "Courier companies",
+        "accounting": "Accounting and financial firms",
+        "authorities": "Public authorities when legally required"
+      },
+      "transfer": "No transfers occur outside the European Economic Area."
+    },
+    "rights": {
+      "title": "6. Your Rights",
+      "intro": "Under GDPR, you have the following rights:",
+      "items": {
+        "access": "Right to access your data",
+        "rectification": "Right to rectify your data",
+        "erasure": "Right to erasure of data",
+        "restriction": "Right to restrict processing",
+        "portability": "Right to data portability",
+        "objection": "Right to object to processing",
+        "complaint": "Right to file complaints with supervisory authorities"
+      }
+    },
+    "cookies": {
+      "title": "7. Cookies",
+      "intro": "We use cookies for the following purposes:",
+      "items": {
+        "session": "Session management",
+        "statistics": "Statistics and analytics",
+        "marketing": "Marketing and advertising",
+        "functionality": "Site functionality",
+        "fraud": "Fraud prevention",
+        "improvement": "Site improvement"
+      },
+      "disable": "You can disable cookies in your browser settings, though this may limit site functionality."
+    },
+    "security": {
+      "title": "8. Data Security",
+      "content": "Data protection implements SSL encryption, secure databases with technical safeguards, and restricted access controls compliant with GDPR requirements."
+    },
+    "contact": {
+      "title": "9. Contact",
+      "intro": "For matters related to personal data protection, please contact:",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address"
+    }
+  },
+  "r200": {
+    "badge": "Agricultural Rover",
+    "title": "XAG R200",
+    "tagline": "Smart Farm Co-Pilot",
+    "description": "Six-wheel precision spraying platform for orchards and greenhouses, featuring intuitive remote operation and modular expandability for diverse modern farming applications.",
+    "orderNow": "Order Now",
+    "viewSpecs": "View Specs",
+    "downloads": "Downloads",
+    "features": {
+      "badge": "Key Features",
+      "title": "Why Choose R200",
+      "description": "High-capacity autonomous rover with six-wheel stability for demanding orchard and greenhouse operations",
+      "precision": {
+        "title": "High-Volume Spraying",
+        "description": "240L tank with 16 L/min flow rate for extended operations"
+      },
+      "navigation": {
+        "title": "Intelligent Navigation",
+        "description": "Multiple autonomous operation modes with real-time path tracking"
+      },
+      "sixWheel": {
+        "title": "Six-Wheel Stability",
+        "description": "Superior traction and terrain handling with independent motor drive"
+      },
+      "electric": {
+        "title": "Electric Drive",
+        "description": "Economical and low-emission operation"
+      },
+      "remote": {
+        "title": "Remote Control",
+        "description": "Eliminates operator exposure to chemicals"
+      },
+      "modular": {
+        "title": "Modular Platform",
+        "description": "Expandable with additional add-ons"
+      }
+    },
+    "specs": {
+      "badge": "Performance",
+      "title": "Core Specifications",
+      "description": "Built for high-capacity precision ground operations in orchards and greenhouses",
+      "vehicleWidth": "Vehicle Width",
+      "vehicleWidthValue": "80 cm",
+      "curbWeight": "Curb Weight",
+      "curbWeightValue": "130 kg",
+      "maxSpeed": "Max Speed",
+      "maxSpeedValue": "1.5 m/s",
+      "gradeability": "Max Gradeability",
+      "gradeabilityValue": "20%",
+      "groundClearance": "Ground Clearance",
+      "groundClearanceValue": "270 mm"
+    },
+    "chassis": {
+      "badge": "Chassis & Drivetrain",
+      "title": "Six-Wheel Platform",
+      "description": "All-aluminum construction with six-wheel independent motor drive for superior terrain handling and traction recovery",
+      "features": {
+        "aluminum": "All-aluminum cast chassis",
+        "suspension": "Suspended portal axle design",
+        "sixWheel": "Six-wheel independent motor drive",
+        "torque": "Intelligent torque redistribution"
+      }
+    },
+    "revospray": {
+      "badge": "Spray System",
+      "title": "RevoSpray System",
+      "description": "High-capacity spraying system with four pumps and four centrifugal atomizers producing ultra-fine droplets for comprehensive canopy coverage.",
+      "tankCapacity": "Tank Capacity",
+      "tankCapacityValue": "240 L",
+      "flowRate": "Max Flow Rate",
+      "flowRateValue": "16 L/min",
+      "dropletSize": "Droplet Size",
+      "dropletSizeValue": "60-200 μm",
+      "sprayRange": "Spray Range",
+      "sprayRangeValue": "7 m/side",
+      "features": {
+        "pumps": "Four flexible impeller pumps (300+ hour service life)",
+        "atomizers": "Four centrifugal atomizers for ultra-fine droplets",
+        "jetsprayer": "JetSprayer with high-efficiency ducted fans",
+        "brackets": "Adjustable mounting brackets for multi-angle spray",
+        "airGuide": "Air guide shrouds for widened spray angles"
+      }
+    },
+    "control": {
+      "badge": "Control System",
+      "title": "SRC 5 Remote Controller",
+      "description": "Professional-grade remote controller with high-brightness display and built-in FPV camera for comprehensive operation monitoring.",
+      "display": "7\" Display",
+      "displayValue": "1200-nit brightness",
+      "fov": "Field of View",
+      "fovValue": "150° horizontal",
+      "battery": "Battery Life",
+      "batteryValue": "8 hours",
+      "connectivity": "Connectivity",
+      "connectivityValue": "XLink HD"
+    },
+    "navigation": {
+      "badge": "Smart Navigation",
+      "title": "SuperX 5 Ultra Control System",
+      "description": "Advanced intelligent control system with multiple operation modes for versatile autonomous farming.",
+      "modes": {
+        "cruise": {
+          "title": "Cruise Mode",
+          "description": "Maintains 0.1-1.5 m/s pace with consistent spraying"
+        },
+        "pathTracking": {
+          "title": "Path Tracking",
+          "description": "Vision algorithms detect deviations and auto-correct in real-time"
+        },
+        "variableRate": {
+          "title": "Variable-Rate Spraying",
+          "description": "Volume adapts automatically to movement speed"
+        },
+        "repeat": {
+          "title": "Repeat Mode",
+          "description": "Records manual runs for autonomous repeats"
+        },
+        "planning": {
+          "title": "Path Planning",
+          "description": "Satellite imagery mapping for hands-free operation"
+        },
+        "realTerra": {
+          "title": "RealTerra Mapping",
+          "description": "Bird's-eye view generation for onboard mapping"
+        }
+      }
+    },
+    "safety": {
+      "badge": "Safety Features",
+      "title": "AI Safety Assistance",
+      "description": "Advanced safety systems for reliable operation in complex environments.",
+      "features": {
+        "pedestrian": "Pedestrian detection (4m alert, 2m stop)",
+        "adaptive": "Adaptive speed control with IMU monitoring",
+        "posture": "Real-time posture adjustment on slopes"
+      }
+    },
+    "power": {
+      "badge": "Power System",
+      "title": "B141050 Smart Battery",
+      "description": "Ultra-high capacity intelligent battery system for extended operation.",
+      "capacity": "Capacity",
+      "capacityValue": "1050 Wh",
+      "cycles": "Cycle Life",
+      "cyclesValue": "1500 cycles",
+      "runtime": "Runtime",
+      "runtimeValue": "Up to 15 min",
+      "charger": {
+        "title": "CM13600S Charger",
+        "power": "3.4 kW output",
+        "time": "~12 min (30-95%)"
+      }
+    },
+    "applications": {
+      "badge": "Applications",
+      "title": "Versatile Crop Coverage",
+      "description": "Designed for high-capacity spraying in orchards and greenhouses",
+      "crops": {
+        "lemons": "Lemons",
+        "dragonFruit": "Dragon Fruit",
+        "avocados": "Avocados",
+        "grapes": "Grapes"
+      }
+    },
+    "contact": {
+      "badge": "Get in Touch",
+      "title": "Ready to Transform Your Orchard Operations?",
+      "description": "Contact our team to learn more about the R200 and how it can revolutionize your agricultural operations.",
+      "callUs": "Call us",
+      "emailUs": "Email us",
+      "form": {
+        "name": "Name *",
+        "email": "Email *",
+        "phone": "Phone",
+        "company": "Company",
+        "message": "Message *",
+        "messagePlaceholder": "Tell us about your farming needs...",
+        "submit": "Send Inquiry"
+      }
+    }
+  },
+  "r100": {
+    "badge": "Agricultural Rover",
+    "title": "XAG R100",
+    "tagline": "Smart Farm Co-Pilot",
+    "description": "A trusted orchard and greenhouse partner delivering precise, uniform spraying with simple remote control while enabling diverse farming operations.",
+    "orderNow": "Order Now",
+    "viewSpecs": "View Specs",
+    "downloads": "Downloads",
+    "features": {
+      "badge": "Key Features",
+      "title": "Why Choose R100",
+      "description": "Intelligent autonomous rover designed for precision agriculture in orchards and greenhouses",
+      "precision": {
+        "title": "Precision Spraying",
+        "description": "Conserves water and pesticides with accurate application"
+      },
+      "navigation": {
+        "title": "Intelligent Navigation",
+        "description": "Multiple route modes for versatile operation"
+      },
+      "compact": {
+        "title": "Compact Design",
+        "description": "Access narrow, rough terrain with ease"
+      },
+      "electric": {
+        "title": "Electric Drive",
+        "description": "Economical and low-emission operation"
+      },
+      "remote": {
+        "title": "Remote Control",
+        "description": "Eliminates operator exposure to chemicals"
+      },
+      "modular": {
+        "title": "Modular Platform",
+        "description": "Expandable with additional add-ons"
+      }
+    },
+    "specs": {
+      "badge": "Performance",
+      "title": "Core Specifications",
+      "description": "Built for precision ground operations in orchards and greenhouses",
+      "vehicleWidth": "Vehicle Width",
+      "vehicleWidthValue": "80 cm",
+      "curbWeight": "Curb Weight",
+      "curbWeightValue": "80 kg",
+      "maxSpeed": "Max Speed",
+      "maxSpeedValue": "1.5 m/s",
+      "gradeability": "Max Gradeability",
+      "gradeabilityValue": "20%",
+      "groundClearance": "Ground Clearance",
+      "groundClearanceValue": "270 mm"
+    },
+    "chassis": {
+      "badge": "Chassis & Drivetrain",
+      "title": "Robust Platform",
+      "description": "All-aluminum cast chassis with suspended portal axle design for superior terrain handling",
+      "features": {
+        "aluminum": "All-aluminum cast chassis",
+        "suspension": "Suspended portal axle design",
+        "fourWheel": "Four-wheel independent motor drive",
+        "vcu": "Integrated Vehicle Control Unit (VCU)"
+      }
+    },
+    "revospray": {
+      "badge": "Spray System",
+      "title": "RevoSpray System",
+      "description": "High-capacity spraying system with dual centrifugal atomizers producing ultra-fine droplets for comprehensive coverage.",
+      "tankCapacity": "Tank Capacity",
+      "tankCapacityValue": "120 L",
+      "flowRate": "Max Flow Rate",
+      "flowRateValue": "8 L/min",
+      "dropletSize": "Droplet Size",
+      "dropletSizeValue": "60-200 μm",
+      "sprayRange": "Spray Range",
+      "sprayRangeValue": "7 m/side",
+      "features": {
+        "atomizers": "Dual centrifugal atomizers for ultra-fine droplets",
+        "pumps": "Dual flexible impeller pumps (300+ hour service life)",
+        "sensor": "High-precision level sensor with capillary air tube",
+        "fan": "High-efficiency ducted fan (JetSprayer)",
+        "brackets": "Adjustable mounting brackets for multi-angle spray"
+      }
+    },
+    "control": {
+      "badge": "Control System",
+      "title": "SRC 5 Remote Controller",
+      "description": "Professional-grade remote controller with high-brightness display and built-in FPV camera for comprehensive operation monitoring.",
+      "display": "7\" Display",
+      "displayValue": "1200-nit brightness",
+      "fov": "Field of View",
+      "fovValue": "150° horizontal",
+      "battery": "Battery Life",
+      "batteryValue": "8 hours",
+      "connectivity": "Connectivity",
+      "connectivityValue": "XLink HD"
+    },
+    "navigation": {
+      "badge": "Smart Navigation",
+      "title": "SuperX 5 Ultra Control System",
+      "description": "Advanced intelligent control system with multiple operation modes for versatile autonomous farming.",
+      "modes": {
+        "cruise": {
+          "title": "Cruise Mode",
+          "description": "Maintains 0.1-1.5 m/s pace for steady movement"
+        },
+        "pathTracking": {
+          "title": "Path Tracking",
+          "description": "Vision algorithms detect deviations and auto-correct in real-time"
+        },
+        "variableRate": {
+          "title": "Variable-Rate Spraying",
+          "description": "Volume adapts automatically to movement speed"
+        },
+        "repeat": {
+          "title": "Repeat Mode",
+          "description": "Records manual runs for autonomous repeats"
+        },
+        "planning": {
+          "title": "Path Planning",
+          "description": "Satellite imagery mapping for hands-free operation"
+        },
+        "realTerra": {
+          "title": "RealTerra Mapping",
+          "description": "Bird's-eye view generation for onboard mapping"
+        }
+      }
+    },
+    "positioning": {
+      "badge": "Precision Positioning",
+      "title": "CM-Level Accuracy",
+      "description": "Centimeter-level positioning with cloud RTK and mobile RTK support for precise navigation.",
+      "features": {
+        "cloudRtk": "Cloud RTK support",
+        "mobileRtk": "Mobile RTK capability",
+        "cmLevel": "Centimeter-level accuracy"
+      }
+    },
+    "safety": {
+      "badge": "Safety Features",
+      "title": "AI Safety Assistance",
+      "description": "Advanced safety systems for reliable operation in complex environments.",
+      "features": {
+        "pedestrian": "Pedestrian detection (4m alert, 2m stop)",
+        "adaptive": "Adaptive speed control with IMU monitoring",
+        "posture": "Real-time posture adjustment"
+      }
+    },
+    "power": {
+      "badge": "Power System",
+      "title": "B141050 Smart Battery",
+      "description": "Ultra-high capacity intelligent battery system for extended operation.",
+      "capacity": "Capacity",
+      "capacityValue": "1050 Wh",
+      "cycles": "Cycle Life",
+      "cyclesValue": "1500 cycles",
+      "runtime": "Runtime",
+      "runtimeValue": "Up to 30 min",
+      "charger": {
+        "title": "CM13600S Charger",
+        "power": "3.4 kW output",
+        "time": "~12 min (30-95%)"
+      }
+    },
+    "applications": {
+      "badge": "Applications",
+      "title": "Versatile Crop Coverage",
+      "description": "Designed for multiple crop scenarios in orchards and greenhouses",
+      "crops": {
+        "grapes": "Grapes",
+        "dragonFruit": "Dragon Fruit",
+        "blueberries": "Blueberries",
+        "citrus": "Citrus"
+      }
+    },
+    "contact": {
+      "badge": "Get in Touch",
+      "title": "Ready to Transform Your Orchard Operations?",
+      "description": "Contact our team to learn more about the R100 and how it can revolutionize your agricultural operations.",
+      "callUs": "Call us",
+      "emailUs": "Email us",
+      "form": {
+        "name": "Name *",
+        "email": "Email *",
+        "phone": "Phone",
+        "company": "Company",
+        "message": "Message *",
+        "messagePlaceholder": "Tell us about your farming needs...",
+        "submit": "Send Inquiry"
+      }
+    }
+  },
+  "warrantyService": {
+    "badge": "Support",
+    "title": "Request Warranty Service",
+    "description": "Submit a warranty claim for your XAG product. Our team will review your request and respond within 48 hours.",
+    "infoTitle": "Warranty Coverage Information",
+    "infoDescription": "XAG products come with a standard 12-month warranty from the date of purchase. Extended warranty options are available through XAG Care Express. Please have your proof of purchase ready when submitting a warranty claim.",
+    "formTitle": "Warranty Claim Form",
+    "contactInfo": "Contact Information",
+    "fullName": "Full Name",
+    "emailAddress": "Email Address",
+    "phoneNumber": "Phone Number",
+    "companyName": "Company/Farm Name",
+    "productPurchaseInfo": "Product & Purchase Information",
+    "productModel": "Product Model",
+    "selectProduct": "Select a product",
+    "serialNumber": "Serial Number",
+    "purchaseDate": "Purchase Date",
+    "purchaseLocation": "Purchase Location",
+    "purchaseLocationPlaceholder": "Dealer/Store name",
+    "claimDetails": "Warranty Claim Details",
+    "issueLabel": "Please describe the defect or issue",
+    "issuePlaceholder": "Describe the defect, when it occurred, and any relevant details...",
+    "noteLabel": "Note:",
+    "noteText": "Please have your proof of purchase (receipt or invoice) available. We may request additional documentation to process your warranty claim.",
+    "submitButton": "Submit Warranty Claim",
+    "successMessage": "Thank you for your warranty claim. Our team will review and respond within 48 hours."
+  },
+  "repairService": {
+    "badge": "Support",
+    "title": "Request Repair Service",
+    "description": "Submit a repair request and our technical team will get back to you within 24 hours.",
+    "formTitle": "Repair Request Form",
+    "contactInfo": "Contact Information",
+    "fullName": "Full Name",
+    "emailAddress": "Email Address",
+    "phoneNumber": "Phone Number",
+    "companyName": "Company/Farm Name",
+    "productInfo": "Product Information",
+    "productModel": "Product Model",
+    "selectProduct": "Select a product",
+    "serialNumber": "Serial Number",
+    "purchaseDate": "Purchase Date",
+    "priorityLevel": "Priority Level",
+    "priorityStandard": "Standard",
+    "priorityPlus": "Priority (XAG Care Plus)",
+    "priorityPremium": "Express (XAG Care Premium)",
+    "issueSection": "Issue Description",
+    "issueLabel": "Please describe the issue",
+    "issuePlaceholder": "Describe the problem you're experiencing, when it started, and any error messages...",
+    "submitButton": "Submit Repair Request",
+    "successMessage": "Thank you for your repair request. Our team will contact you within 24 hours."
+  },
+  "r150": {
+    "badge": "Unmanned Ground Vehicle EV",
+    "title": "XAG R150 2022",
+    "tagline": "Transform for Every Agricultural Mission",
+    "description": "Autonomous ground vehicle with multi-functional capabilities for mowing, plant protection, and transport operations.",
+    "orderNow": "Order Now",
+    "viewSpecs": "View Specs",
+    "downloads": "Downloads",
+    "taglines": {
+      "terrain": "I travel over field and river",
+      "autonomous": "I handle farm work all by myself",
+      "easy": "Work with me and relax"
+    },
+    "specs": {
+      "sectionTitle": "Core Specifications",
+      "sectionBadge": "Performance",
+      "sectionDesc": "Built for precision ground operations in diverse agricultural environments",
+      "ratedTorque": "Rated Torque",
+      "maxSpeed": "Max Speed",
+      "turningDiameter": "Turning Diameter",
+      "climbingSlope": "Climbing Slope",
+      "approachAngle": "Approach Angle",
+      "departureAngle": "Departure Angle",
+      "batteryCapacity": "Battery Capacity",
+      "chargeTime": "Charge Time",
+      "motorPower": "Motor power",
+      "operatingSpeed": "Operating speed",
+      "minimumRadius": "Minimum radius",
+      "maximumGrade": "Maximum grade",
+      "frontClearance": "Front clearance",
+      "rearClearance": "Rear clearance",
+      "battery": "B13960S battery",
+      "fullCharge": "Full charge"
+    },
+    "autonomous": {
+      "badge": "Autonomous Operation",
+      "title": "Intelligent Route Planning",
+      "description": "Advanced autonomous navigation system with RTK positioning for precise, hands-free operation across your entire farm.",
+      "features": {
+        "rtk": "Intelligent route planning with RTK positioning",
+        "dualAntenna": "Dual-antenna RTK plus fixed station access",
+        "processor": "1 GHz independent processor",
+        "precision": "Centimeter-level positioning accuracy",
+        "obstacle": "Automatic obstacle detection",
+        "return": "Smart return-to-base functionality"
+      }
+    },
+    "revospray": {
+      "badge": "Spraying System",
+      "title": "XAG RevoSpray Ground 2",
+      "description": "High-capacity ground spraying system with 360° atomization for comprehensive plant protection coverage.",
+      "tankCapacity": "Tank Capacity",
+      "sprayWidth": "Spray Width",
+      "features": {
+        "tank": "150L liquid tank capacity",
+        "droplet": "Adjustable droplet size: 60-200 μm",
+        "width": "Maximum spray width: 12 meters",
+        "atomization": "360° atomization capability",
+        "flow": "Precise flow control system",
+        "monitoring": "Smart tank level monitoring"
+      }
+    },
+    "revomower": {
+      "badge": "Mowing System",
+      "title": "XAG RevoMower 2",
+      "description": "Professional-grade autonomous mowing attachment with variable cutting height for precise grass and vegetation management.",
+      "cuttingWidth": "Cutting Width",
+      "heightRange": "Height Range",
+      "features": {
+        "width": "90 cm maximum cutting width",
+        "height": "Adjustable height: 2-17 cm",
+        "blades": "Dual alloy steel blades",
+        "speed": "Variable-speed operation",
+        "adjustment": "Intelligent height adjustment",
+        "maintenance": "Low maintenance design"
+      }
+    },
+    "cargo": {
+      "badge": "Transport System",
+      "title": "XAG Cargo Rack 2",
+      "description": "Transform your R150 into a logistics powerhouse with heavy-duty cargo capacity for transporting supplies and materials across your farm.",
+      "maxPayload": "Max Payload",
+      "rackSize": "Rack Size",
+      "features": {
+        "payload": "200 kg maximum payload capacity",
+        "rack": "Sturdy rack: 1080 x 1080 mm",
+        "routing": "Smart round-trip routing",
+        "detection": "Automatic load detection"
+      }
+    },
+    "controls": {
+      "badge": "Control Options",
+      "title": "Easy to Operate",
+      "description": "Multiple control options for flexible operation modes",
+      "xagOneApp": {
+        "title": "XAG One App",
+        "features": {
+          "oneTap": "One-tap operation",
+          "routing": "Smart route planning",
+          "multiOp": "Multi-operation capability",
+          "compatible": "iOS and Android compatible"
+        }
+      },
+      "arc3": {
+        "title": "XAG Agricultural Remote Controller 3",
+        "features": {
+          "knobs": "Four rotary knobs with multiple buttons",
+          "rtk": "Optional RTK module",
+          "battery": "5-6 hour battery life",
+          "design": "Two-handed ergonomic design"
+        }
+      }
+    },
+    "operationModes": {
+      "badge": "Operation Modes",
+      "title": "Four Ways to Work",
+      "modes": {
+        "route": {
+          "title": "Route Mode",
+          "desc": "Execute multiple autonomous routes with precision path following"
+        },
+        "remote": {
+          "title": "Remote Control Mode",
+          "desc": "Direct manual operation for specific tasks and tight spaces"
+        },
+        "planning": {
+          "title": "Field Planning",
+          "desc": "Smart boundary mapping with automatic route generation"
+        },
+        "multiTask": {
+          "title": "Multi-Task Operation",
+          "desc": "Switch between attachments for different field tasks"
+        }
+      }
+    },
+    "power": {
+      "badge": "Power System",
+      "title": "B13960S SuperCharge Battery",
+      "description": "Intelligent battery system with ultra-fast charging for continuous operation throughout the workday.",
+      "capacity": "Wh Capacity",
+      "minCharge": "Min Charge",
+      "batteriesPerTank": "Batteries/Tank",
+      "chargingStation": {
+        "title": "GC4000+ Charging Station",
+        "description": "Water-cooled charging station for rapid battery turnaround",
+        "features": {
+          "batteries": "Charges up to 25 batteries per 15L fuel tank",
+          "charge": "11-minute full charge with water cooling",
+          "portable": "Portable field charging solution"
+        }
+      }
+    },
+    "terrain": {
+      "badge": "Versatility",
+      "title": "Built for Any Terrain",
+      "description": "Multiple wheel options and robust design for diverse agricultural environments",
+      "types": {
+        "field": {
+          "name": "Field Operations",
+          "desc": "Row crops and open fields"
+        },
+        "orchards": {
+          "name": "Orchards",
+          "desc": "Fruit trees and vineyards"
+        },
+        "forestry": {
+          "name": "Forestry",
+          "desc": "Tree plantations and woodlands"
+        },
+        "disinfection": {
+          "name": "Disinfection",
+          "desc": "Livestock and facility applications"
+        }
+      }
+    },
+    "contact": {
+      "badge": "Get in Touch",
+      "title": "Ready to Transform Your Ground Operations?",
+      "description": "Contact our team to learn more about the R150 2022 and how it can revolutionize your agricultural ground work.",
+      "callUs": "Call us",
+      "emailUs": "Email us",
+      "form": {
+        "name": "Name *",
+        "email": "Email *",
+        "phone": "Phone",
+        "company": "Company",
+        "message": "Message *",
+        "messagePlaceholder": "Tell us about your farming needs...",
+        "submit": "Send Inquiry"
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "R150",
+  "tagline": "Autonomous Ground Operations",
+  "description": "The R150 is a versatile unmanned ground vehicle designed for precision agriculture, offering autonomous navigation and efficient field operations.",
+  "category": "landborne",
+  "heroImage": "/images/products/r150/hero.jpg",
+  "cardImage": "/images/products/r150/card.jpg",
+  "specs": [
+    { "label": "Payload Capacity", "value": "150kg" },
+    { "label": "Working Width", "value": "3m" },
+    { "label": "Operating Time", "value": "8+ hours" },
+    { "label": "Speed", "value": "0-8 km/h" }
+  ],
+  "features": [
+    {
+      "title": "Autonomous Navigation",
+      "description": "RTK-powered precision navigation system"
+    },
+    {
+      "title": "All-Terrain Design",
+      "description": "Robust construction for various field conditions"
+    },
+    {
+      "title": "Smart Obstacle Avoidance",
+      "description": "Multi-sensor safety system"
+    },
+    {
+      "title": "Long Battery Life",
+      "description": "Extended operation for large fields"
+    }
+  ]
+}

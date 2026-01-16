@@ -1,0 +1,60 @@
+{
+  "heroSlides": [
+    {
+      "title": "P150 Max",
+      "subtitle": "Agriculture Drone",
+      "tagline": "The Ultimate Farming Companion",
+      "image": "/images/hero/p150-max-hero.jpg",
+      "ctaText": "Learn More",
+      "ctaLink": "/products/p150-max",
+      "secondaryCtaText": "Contact Us",
+      "secondaryCtaLink": "/contact-us"
+    },
+    {
+      "title": "P100 Pro",
+      "subtitle": "Precision Spraying",
+      "tagline": "Smart Agriculture Solution",
+      "image": "/images/hero/p100-pro-hero.jpg",
+      "ctaText": "Discover",
+      "ctaLink": "/products/p100-pro",
+      "secondaryCtaText": "Get Quote",
+      "secondaryCtaLink": "/contact-us"
+    },
+    {
+      "title": "R150",
+      "subtitle": "Ground Robot",
+      "tagline": "Autonomous Ground Operations",
+      "image": "/images/hero/r150-hero.jpg",
+      "ctaText": "Explore",
+      "ctaLink": "/products/r150",
+      "secondaryCtaText": "Contact Sales",
+      "secondaryCtaLink": "/contact-us"
+    }
+  ],
+  "stats": [
+    {
+      "value": 15,
+      "suffix": "+",
+      "label": "Years Experience",
+      "sublabel": "in agricultural drones"
+    },
+    {
+      "value": 100,
+      "suffix": "K+",
+      "label": "Hectares Covered",
+      "sublabel": "annually"
+    },
+    {
+      "value": 50,
+      "suffix": "+",
+      "label": "Countries",
+      "sublabel": "worldwide presence"
+    },
+    {
+      "value": 10,
+      "suffix": "M+",
+      "label": "Flight Hours",
+      "sublabel": "accumulated"
+    }
+  ]
+}

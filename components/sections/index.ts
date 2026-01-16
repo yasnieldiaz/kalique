@@ -1,0 +1,10 @@
+export { HeroSlider } from "./HeroSlider";
+export { ProductShowcase } from "./ProductShowcase";
+export { ProductCollections } from "./ProductCollections";
+export { StatsSection } from "./StatsSection";
+export { CTASection } from "./CTASection";
+export { FeaturesGrid } from "./FeaturesGrid";
+export { WhyChooseXAG } from "./WhyChooseXAG";
+export { ResourcesSection } from "./ResourcesSection";
+export { TrainingPromo } from "./TrainingPromo";
+export { SupportSection } from "./SupportSection";

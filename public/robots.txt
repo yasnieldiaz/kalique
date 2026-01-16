@@ -1,0 +1,55 @@
+# DroneAgri.pl - XAG IMEGA Polska
+# https://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://droneagri.pl/sitemap.xml
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+# Block legacy WordPress paths (site migrated from WordPress)
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /wp-json/
+Disallow: /wp-login.php
+Disallow: /xmlrpc.php
+Disallow: /wp-cron.php
+Disallow: /wp-*.php
+Disallow: /feed/
+Disallow: /trackback/
+Disallow: /comments/
+Disallow: /?s=
+Disallow: /*?replytocom=
+
+# Allow all language versions
+Allow: /es/
+Allow: /en/
+Allow: /pl/
+Allow: /de/
+Allow: /cs/
+Allow: /nl/
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Google specific
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing specific
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Yandex specific
+User-agent: Yandex
+Allow: /
+Crawl-delay: 2

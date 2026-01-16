@@ -1,0 +1,32 @@
+{
+  "name": "P150 Max",
+  "tagline": "The Ultimate Farming Companion",
+  "description": "The P150 Max represents the pinnacle of agricultural drone technology, delivering unmatched performance and precision for modern farming operations.",
+  "category": "airborne",
+  "heroImage": "/images/products/p150-max/hero.jpg",
+  "cardImage": "/images/products/p150-max/card.jpg",
+  "specs": [
+    { "label": "Payload Capacity", "value": "60L / 75kg" },
+    { "label": "Max Spray Width", "value": "12m" },
+    { "label": "Flight Time", "value": "12-15 min" },
+    { "label": "Tank Volume", "value": "60L" }
+  ],
+  "features": [
+    {
+      "title": "RevoSpray P5 System",
+      "description": "Advanced 5-nozzle spray system for precise application"
+    },
+    {
+      "title": "RevoCast P5",
+      "description": "Revolutionary casting system for granular spreading"
+    },
+    {
+      "title": "4D Radar",
+      "description": "Intelligent obstacle avoidance in all conditions"
+    },
+    {
+      "title": "SuperX 5 Pro",
+      "description": "Next-generation flight controller"
+    }
+  ]
+}

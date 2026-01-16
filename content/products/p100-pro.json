@@ -1,0 +1,32 @@
+{
+  "name": "P100 Pro",
+  "tagline": "Precision Spraying Redefined",
+  "description": "The P100 Pro combines cutting-edge technology with practical design to deliver exceptional spraying performance for medium to large-scale farming operations.",
+  "category": "airborne",
+  "heroImage": "/images/products/p100-pro/hero.jpg",
+  "cardImage": "/images/products/p100-pro/card.jpg",
+  "specs": [
+    { "label": "Payload Capacity", "value": "40L / 50kg" },
+    { "label": "Max Spray Width", "value": "10m" },
+    { "label": "Flight Time", "value": "10-12 min" },
+    { "label": "Tank Volume", "value": "40L" }
+  ],
+  "features": [
+    {
+      "title": "RevoSpray System",
+      "description": "High-precision spray system for optimal coverage"
+    },
+    {
+      "title": "RevoCast",
+      "description": "Efficient granular spreading capability"
+    },
+    {
+      "title": "4D Radar",
+      "description": "Advanced terrain following and obstacle detection"
+    },
+    {
+      "title": "SuperX Flight Controller",
+      "description": "Reliable and responsive flight control"
+    }
+  ]
+}
