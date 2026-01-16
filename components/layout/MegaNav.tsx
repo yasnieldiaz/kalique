@@ -18,8 +18,8 @@ const productItems = {
   ],
   landborne: [
     { name: "R150 2022", slug: "r150-2022", image: "/images/products/r150/thumbnail-new.webp" },
-    { name: "R100", slug: "r100", image: "/images/products/r100/gallery-5.png" },
-    { name: "R200", slug: "r200", image: "/images/products/r200/gallery-5.png" },
+    { name: "R100", slug: "r100", image: "/images/products/r100/thumbnail.webp" },
+    { name: "R200", slug: "r200", image: "/images/products/r200/thumbnail.webp" },
     { name: "APC2", slug: "apc2", image: "/images/products/apc2/thumbnail.webp" },
   ],
 };
