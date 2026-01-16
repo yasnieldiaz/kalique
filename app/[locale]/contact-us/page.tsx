@@ -111,11 +111,8 @@ export default function ContactUsPage() {
                     </div>
                     <div>
                       <h3 className="font-semibold text-navy">
-                        {info.title || tCommon(info.titleKey as "address" | "email")}
+                        {tCommon(info.titleKey as "address" | "email" | "phone")}
                       </h3>
-                      {info.subtitleKey && (
-                        <p className="text-sm text-brand-red">{t(info.subtitleKey)}</p>
-                      )}
                       <p className="text-gray-600 whitespace-pre-line">
                         {info.content}
                       </p>
